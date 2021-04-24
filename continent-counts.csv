@@ -1,0 +1,79 @@
+,Disaster Type,Continent,counts
+0,Animal accident,Africa,1
+1,Complex Disasters,Africa,5
+2,Complex Disasters,Americas,2
+3,Complex Disasters,Asia,6
+4,Complex Disasters,Europe,1
+5,Drought,Africa,334
+6,Drought,Americas,166
+7,Drought,Asia,183
+8,Drought,Europe,45
+9,Drought,Oceania,30
+10,Earthquake,Africa,74
+11,Earthquake,Americas,311
+12,Earthquake,Asia,891
+13,Earthquake,Europe,196
+14,Earthquake,Oceania,56
+15,Epidemic,Africa,873
+16,Epidemic,Americas,183
+17,Epidemic,Asia,363
+18,Epidemic,Europe,49
+19,Epidemic,Oceania,28
+20,Extreme temperature,Africa,20
+21,Extreme temperature,Americas,114
+22,Extreme temperature,Asia,186
+23,Extreme temperature,Europe,273
+24,Extreme temperature,Oceania,8
+25,Flood,Africa,1120
+26,Flood,Americas,1225
+27,Flood,Asia,2255
+28,Flood,Europe,647
+29,Flood,Oceania,152
+30,Fog,Europe,1
+31,Glacial lake outburst,Asia,1
+32,Impact,Europe,1
+33,Industrial accident,Africa,154
+34,Industrial accident,Americas,224
+35,Industrial accident,Asia,909
+36,Industrial accident,Europe,227
+37,Industrial accident,Oceania,7
+38,Insect infestation,Africa,77
+39,Insect infestation,Americas,3
+40,Insect infestation,Asia,13
+41,Insect infestation,Europe,1
+42,Insect infestation,Oceania,2
+43,Landslide,Africa,59
+44,Landslide,Americas,188
+45,Landslide,Asia,418
+46,Landslide,Europe,81
+47,Landslide,Oceania,21
+48,Mass movement (dry),Africa,5
+49,Mass movement (dry),Americas,15
+50,Mass movement (dry),Asia,22
+51,Mass movement (dry),Europe,4
+52,Mass movement (dry),Oceania,2
+53,Miscellaneous accident,Africa,250
+54,Miscellaneous accident,Americas,268
+55,Miscellaneous accident,Asia,754
+56,Miscellaneous accident,Europe,220
+57,Miscellaneous accident,Oceania,12
+58,Storm,Africa,285
+59,Storm,Americas,1415
+60,Storm,Asia,1856
+61,Storm,Europe,531
+62,Storm,Oceania,333
+63,Transport accident,Africa,1847
+64,Transport accident,Americas,1034
+65,Transport accident,Asia,2312
+66,Transport accident,Europe,741
+67,Transport accident,Oceania,44
+68,Volcanic activity,Africa,18
+69,Volcanic activity,Americas,92
+70,Volcanic activity,Asia,104
+71,Volcanic activity,Europe,12
+72,Volcanic activity,Oceania,30
+73,Wildfire,Africa,32
+74,Wildfire,Americas,167
+75,Wildfire,Asia,94
+76,Wildfire,Europe,116
+77,Wildfire,Oceania,46
