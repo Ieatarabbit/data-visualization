@@ -1,0 +1,3176 @@
+,Year,Continent,Disaster Type,counts
+0,1900,Africa,Drought,1
+1,1900,Americas,Epidemic,1
+2,1900,Americas,Flood,1
+3,1900,Americas,Miscellaneous accident,1
+4,1900,Americas,Storm,1
+5,1900,Asia,Drought,1
+6,1900,Asia,Earthquake,1
+7,1900,Asia,Volcanic activity,1
+8,1901,Africa,Epidemic,1
+9,1901,Asia,Earthquake,1
+10,1901,Europe,Industrial accident,1
+11,1902,Americas,Earthquake,1
+12,1902,Americas,Miscellaneous accident,1
+13,1902,Americas,Volcanic activity,4
+14,1902,Asia,Earthquake,2
+15,1902,Asia,Storm,1
+16,1902,Asia,Volcanic activity,1
+17,1902,Europe,Earthquake,1
+18,1903,Africa,Drought,1
+19,1903,Africa,Volcanic activity,1
+20,1903,Americas,Flood,2
+21,1903,Americas,Mass movement (dry),1
+22,1903,Americas,Miscellaneous accident,1
+23,1903,Americas,Storm,2
+24,1903,Asia,Earthquake,5
+25,1903,Europe,Miscellaneous accident,1
+26,1904,Americas,Transport accident,2
+27,1904,Asia,Earthquake,2
+28,1904,Asia,Storm,1
+29,1904,Europe,Earthquake,1
+30,1904,Europe,Miscellaneous accident,1
+31,1905,Americas,Mass movement (dry),1
+32,1905,Asia,Earthquake,4
+33,1905,Asia,Storm,1
+34,1905,Europe,Earthquake,2
+35,1905,Europe,Industrial accident,1
+36,1906,Africa,Drought,1
+37,1906,Americas,Earthquake,3
+38,1906,Americas,Miscellaneous accident,1
+39,1906,Americas,Storm,2
+40,1906,Asia,Earthquake,3
+41,1906,Asia,Storm,1
+42,1906,Europe,Flood,2
+43,1906,Europe,Industrial accident,1
+44,1906,Europe,Transport accident,2
+45,1906,Europe,Volcanic activity,1
+46,1907,Americas,Earthquake,1
+47,1907,Americas,Miscellaneous accident,1
+48,1907,Asia,Earthquake,1
+49,1907,Asia,Epidemic,1
+50,1908,Americas,Mass movement (dry),1
+51,1908,Americas,Miscellaneous accident,4
+52,1908,Asia,Industrial accident,1
+53,1908,Europe,Earthquake,2
+54,1908,Europe,Industrial accident,2
+55,1909,Africa,Earthquake,1
+56,1909,Americas,Flood,1
+57,1909,Americas,Landslide,1
+58,1909,Americas,Miscellaneous accident,1
+59,1909,Americas,Storm,3
+60,1909,Asia,Earthquake,5
+61,1909,Asia,Epidemic,2
+62,1909,Asia,Storm,2
+63,1909,Europe,Earthquake,2
+64,1910,Africa,Drought,9
+65,1910,Africa,Earthquake,1
+66,1910,Americas,Earthquake,2
+67,1910,Americas,Landslide,1
+68,1910,Americas,Storm,1
+69,1910,Americas,Transport accident,1
+70,1910,Asia,Earthquake,1
+71,1910,Asia,Epidemic,1
+72,1910,Asia,Flood,1
+73,1910,Asia,Industrial accident,3
+74,1911,Americas,Earthquake,1
+75,1911,Americas,Miscellaneous accident,2
+76,1911,Americas,Wildfire,1
+77,1911,Asia,Earthquake,4
+78,1911,Asia,Flood,1
+79,1911,Asia,Storm,2
+80,1911,Asia,Volcanic activity,1
+81,1912,Americas,Storm,2
+82,1912,Asia,Earthquake,1
+83,1912,Asia,Storm,3
+84,1912,Asia,Transport accident,1
+85,1912,Europe,Transport accident,2
+86,1913,Africa,Insect infestation,1
+87,1913,Americas,Earthquake,1
+88,1913,Americas,Storm,1
+89,1913,Americas,Transport accident,1
+90,1913,Asia,Earthquake,2
+91,1913,Europe,Earthquake,1
+92,1913,Europe,Industrial accident,1
+93,1913,Europe,Transport accident,1
+94,1914,Americas,Earthquake,1
+95,1914,Americas,Industrial accident,1
+96,1914,Americas,Transport accident,1
+97,1914,Asia,Earthquake,3
+98,1914,Asia,Volcanic activity,1
+99,1914,Europe,Earthquake,2
+100,1914,Oceania,Storm,1
+101,1915,Americas,Earthquake,1
+102,1915,Americas,Landslide,1
+103,1915,Americas,Storm,2
+104,1915,Americas,Transport accident,1
+105,1915,Asia,Earthquake,1
+106,1915,Asia,Flood,1
+107,1915,Europe,Earthquake,1
+108,1915,Europe,Transport accident,3
+109,1916,Americas,Miscellaneous accident,3
+110,1916,Asia,Earthquake,2
+111,1916,Asia,Storm,1
+112,1916,Asia,Transport accident,1
+113,1916,Europe,Transport accident,4
+114,1917,Americas,Earthquake,1
+115,1917,Americas,Industrial accident,1
+116,1917,Americas,Storm,1
+117,1917,Americas,Transport accident,1
+118,1917,Asia,Earthquake,3
+119,1917,Asia,Flood,1
+120,1917,Asia,Storm,1
+121,1917,Europe,Epidemic,1
+122,1917,Europe,Transport accident,7
+123,1918,Americas,Earthquake,1
+124,1918,Americas,Epidemic,1
+125,1918,Americas,Industrial accident,1
+126,1918,Americas,Miscellaneous accident,1
+127,1918,Americas,Storm,1
+128,1918,Americas,Transport accident,3
+129,1918,Americas,Wildfire,1
+130,1918,Asia,Earthquake,2
+131,1918,Asia,Epidemic,1
+132,1918,Europe,Transport accident,3
+133,1918,Oceania,Epidemic,1
+134,1919,Americas,Drought,1
+135,1919,Americas,Epidemic,1
+136,1919,Americas,Storm,1
+137,1919,Asia,Storm,1
+138,1919,Asia,Volcanic activity,1
+139,1920,Africa,Drought,1
+140,1920,Americas,Earthquake,2
+141,1920,Americas,Epidemic,1
+142,1920,Americas,Storm,1
+143,1920,Asia,Drought,1
+144,1920,Asia,Earthquake,1
+145,1920,Asia,Epidemic,2
+146,1920,Asia,Miscellaneous accident,1
+147,1920,Europe,Earthquake,2
+148,1920,Europe,Flood,1
+149,1920,Europe,Industrial accident,1
+150,1921,Americas,Epidemic,1
+151,1921,Asia,Transport accident,1
+152,1921,Europe,Drought,1
+153,1921,Europe,Industrial accident,2
+154,1921,Europe,Transport accident,1
+155,1922,Americas,Earthquake,1
+156,1922,Americas,Epidemic,1
+157,1922,Americas,Transport accident,1
+158,1922,Americas,Wildfire,1
+159,1922,Asia,Earthquake,2
+160,1922,Asia,Miscellaneous accident,1
+161,1922,Asia,Storm,2
+162,1922,Asia,Transport accident,1
+163,1922,Europe,Industrial accident,1
+164,1922,Europe,Landslide,1
+165,1923,Africa,Epidemic,1
+166,1923,Americas,Earthquake,1
+167,1923,Americas,Epidemic,1
+168,1923,Americas,Storm,1
+169,1923,Asia,Earthquake,5
+170,1923,Asia,Landslide,1
+171,1923,Asia,Miscellaneous accident,1
+172,1923,Asia,Storm,4
+173,1923,Europe,Epidemic,1
+174,1923,Europe,Industrial accident,1
+175,1923,Europe,Miscellaneous accident,1
+176,1923,Europe,Storm,1
+177,1924,Americas,Earthquake,1
+178,1924,Asia,Earthquake,5
+179,1924,Asia,Epidemic,1
+180,1924,Asia,Storm,2
+181,1924,Europe,Industrial accident,1
+182,1925,Americas,Earthquake,2
+183,1925,Americas,Storm,1
+184,1925,Americas,Transport accident,1
+185,1925,Asia,Earthquake,7
+186,1925,Asia,Storm,1
+187,1925,Europe,Flood,1
+188,1925,Oceania,Storm,1
+189,1926,Africa,Earthquake,1
+190,1926,Americas,Landslide,1
+191,1926,Americas,Storm,4
+192,1926,Asia,Epidemic,1
+193,1926,Asia,Flood,1
+194,1926,Asia,Storm,3
+195,1926,Asia,Volcanic activity,1
+196,1926,Europe,Flood,3
+197,1926,Europe,Landslide,1
+198,1927,Africa,Flood,1
+199,1927,Americas,Flood,1
+200,1927,Americas,Miscellaneous accident,1
+201,1927,Americas,Storm,1
+202,1927,Asia,Earthquake,4
+203,1927,Asia,Storm,3
+204,1927,Europe,Industrial accident,1
+205,1928,Americas,Earthquake,2
+206,1928,Americas,Miscellaneous accident,1
+207,1928,Americas,Storm,5
+208,1928,Americas,Transport accident,3
+209,1928,Asia,Drought,1
+210,1928,Asia,Earthquake,2
+211,1928,Asia,Flood,1
+212,1928,Europe,Earthquake,3
+213,1928,Europe,Flood,1
+214,1928,Europe,Storm,2
+215,1929,Americas,Storm,1
+216,1929,Americas,Transport accident,1
+217,1929,Americas,Wildfire,1
+218,1929,Asia,Earthquake,1
+219,1929,Europe,Industrial accident,2
+220,1929,Europe,Storm,1
+221,1929,Europe,Transport accident,2
+222,1929,Oceania,Earthquake,1
+223,1930,Africa,Insect infestation,1
+224,1930,Americas,Earthquake,1
+225,1930,Americas,Miscellaneous accident,1
+226,1930,Americas,Storm,2
+227,1930,Americas,Transport accident,1
+228,1930,Asia,Earthquake,10
+229,1930,Asia,Volcanic activity,1
+230,1930,Europe,Earthquake,4
+231,1930,Europe,Flood,1
+232,1930,Europe,Industrial accident,2
+233,1930,Europe,Landslide,1
+234,1930,Europe,Storm,2
+235,1930,Europe,Transport accident,2
+236,1931,Americas,Drought,1
+237,1931,Americas,Earthquake,1
+238,1931,Americas,Landslide,1
+239,1931,Americas,Storm,2
+240,1931,Asia,Earthquake,2
+241,1931,Asia,Flood,1
+242,1931,Asia,Storm,1
+243,1931,Asia,Volcanic activity,1
+244,1931,Europe,Earthquake,1
+245,1931,Europe,Industrial accident,1
+246,1931,Europe,Transport accident,1
+247,1931,Oceania,Earthquake,2
+248,1931,Oceania,Storm,1
+249,1932,Americas,Earthquake,2
+250,1932,Americas,Epidemic,1
+251,1932,Americas,Storm,4
+252,1932,Asia,Earthquake,3
+253,1932,Asia,Storm,1
+254,1932,Europe,Complex Disasters,1
+255,1932,Europe,Earthquake,1
+256,1932,Europe,Industrial accident,1
+257,1932,Europe,Landslide,1
+258,1933,Americas,Drought,1
+259,1933,Americas,Earthquake,1
+260,1933,Americas,Flood,1
+261,1933,Americas,Storm,3
+262,1933,Americas,Transport accident,1
+263,1933,Asia,Earthquake,3
+264,1933,Asia,Flood,1
+265,1933,Europe,Earthquake,1
+266,1933,Europe,Transport accident,5
+267,1934,Americas,Storm,1
+268,1934,Americas,Transport accident,1
+269,1934,Asia,Earthquake,2
+270,1934,Asia,Landslide,1
+271,1934,Asia,Miscellaneous accident,1
+272,1934,Asia,Storm,3
+273,1934,Europe,Earthquake,1
+274,1934,Europe,Industrial accident,1
+275,1934,Europe,Transport accident,1
+276,1934,Oceania,Transport accident,1
+277,1935,Africa,Epidemic,1
+278,1935,Africa,Transport accident,1
+279,1935,Americas,Storm,5
+280,1935,Americas,Transport accident,3
+281,1935,Asia,Earthquake,7
+282,1935,Asia,Flood,1
+283,1935,Asia,Storm,2
+284,1935,Europe,Industrial accident,1
+285,1935,Europe,Transport accident,6
+286,1936,Americas,Earthquake,3
+287,1936,Americas,Extreme temperature,2
+288,1936,Americas,Flood,1
+289,1936,Americas,Storm,1
+290,1936,Americas,Transport accident,7
+291,1936,Asia,Earthquake,8
+292,1936,Asia,Industrial accident,1
+293,1936,Asia,Storm,4
+294,1936,Europe,Industrial accident,1
+295,1936,Europe,Landslide,1
+296,1936,Europe,Transport accident,3
+297,1937,Africa,Transport accident,1
+298,1937,Americas,Earthquake,1
+299,1937,Americas,Flood,2
+300,1937,Americas,Mass movement (dry),1
+301,1937,Americas,Transport accident,3
+302,1937,Asia,Earthquake,2
+303,1937,Asia,Miscellaneous accident,1
+304,1937,Asia,Storm,3
+305,1937,Asia,Transport accident,1
+306,1937,Europe,Transport accident,4
+307,1937,Oceania,Volcanic activity,1
+308,1938,Africa,Transport accident,1
+309,1938,Americas,Industrial accident,1
+310,1938,Americas,Landslide,1
+311,1938,Americas,Miscellaneous accident,1
+312,1938,Americas,Storm,1
+313,1938,Americas,Transport accident,4
+314,1938,Asia,Earthquake,2
+315,1938,Asia,Flood,1
+316,1938,Asia,Storm,1
+317,1938,Asia,Transport accident,3
+318,1938,Europe,Transport accident,10
+319,1938,Oceania,Flood,1
+320,1938,Oceania,Transport accident,1
+321,1939,Africa,Earthquake,1
+322,1939,Americas,Earthquake,2
+323,1939,Americas,Miscellaneous accident,1
+324,1939,Americas,Transport accident,3
+325,1939,Asia,Earthquake,4
+326,1939,Asia,Flood,1
+327,1939,Asia,Storm,1
+328,1939,Europe,Flood,1
+329,1939,Europe,Industrial accident,2
+330,1939,Europe,Transport accident,4
+331,1939,Oceania,Storm,1
+332,1939,Oceania,Wildfire,1
+333,1940,Africa,Drought,9
+334,1940,Africa,Epidemic,1
+335,1940,Americas,Earthquake,2
+336,1940,Americas,Flood,1
+337,1940,Americas,Miscellaneous accident,1
+338,1940,Americas,Storm,1
+339,1940,Americas,Transport accident,3
+340,1940,Asia,Earthquake,4
+341,1940,Asia,Storm,1
+342,1940,Europe,Earthquake,1
+343,1940,Europe,Industrial accident,1
+344,1940,Europe,Transport accident,3
+345,1940,Oceania,Storm,1
+346,1940,Oceania,Transport accident,1
+347,1941,Africa,Transport accident,2
+348,1941,Americas,Landslide,1
+349,1941,Americas,Miscellaneous accident,1
+350,1941,Americas,Transport accident,3
+351,1941,Asia,Earthquake,8
+352,1941,Asia,Storm,1
+353,1941,Asia,Transport accident,1
+354,1941,Europe,Transport accident,7
+355,1941,Oceania,Storm,1
+356,1942,Africa,Transport accident,1
+357,1942,Americas,Earthquake,2
+358,1942,Americas,Miscellaneous accident,2
+359,1942,Americas,Transport accident,7
+360,1942,Asia,Drought,1
+361,1942,Asia,Earthquake,5
+362,1942,Asia,Industrial accident,1
+363,1942,Asia,Storm,2
+364,1942,Asia,Transport accident,2
+365,1942,Europe,Earthquake,1
+366,1942,Europe,Industrial accident,2
+367,1942,Europe,Transport accident,1
+368,1942,Oceania,Storm,1
+369,1942,Oceania,Transport accident,1
+370,1943,Africa,Transport accident,2
+371,1943,Americas,Earthquake,2
+372,1943,Americas,Flood,1
+373,1943,Americas,Transport accident,15
+374,1943,Americas,Volcanic activity,1
+375,1943,Asia,Drought,1
+376,1943,Asia,Earthquake,6
+377,1943,Asia,Flood,1
+378,1943,Asia,Storm,2
+379,1943,Asia,Transport accident,1
+380,1943,Europe,Earthquake,1
+381,1943,Europe,Transport accident,6
+382,1943,Oceania,Storm,1
+383,1944,Africa,Insect infestation,1
+384,1944,Americas,Earthquake,1
+385,1944,Americas,Miscellaneous accident,1
+386,1944,Americas,Storm,3
+387,1944,Americas,Transport accident,7
+388,1944,Americas,Wildfire,1
+389,1944,Asia,Earthquake,5
+390,1944,Asia,Storm,2
+391,1944,Asia,Transport accident,1
+392,1944,Europe,Transport accident,10
+393,1944,Europe,Volcanic activity,1
+394,1944,Oceania,Wildfire,1
+395,1945,Americas,Storm,4
+396,1945,Asia,Earthquake,6
+397,1945,Asia,Storm,3
+398,1945,Asia,Volcanic activity,1
+399,1945,Europe,Earthquake,2
+400,1945,Europe,Epidemic,1
+401,1945,Europe,Transport accident,1
+402,1946,Africa,Drought,1
+403,1946,Africa,Earthquake,1
+404,1946,Americas,Earthquake,4
+405,1946,Americas,Miscellaneous accident,3
+406,1946,Americas,Storm,2
+407,1946,Americas,Transport accident,3
+408,1946,Asia,Earthquake,4
+409,1946,Asia,Storm,1
+410,1946,Europe,Earthquake,1
+411,1946,Europe,Industrial accident,2
+412,1946,Europe,Miscellaneous accident,1
+413,1946,Europe,Storm,1
+414,1946,Oceania,Storm,1
+415,1946,Oceania,Volcanic activity,1
+416,1947,Africa,Epidemic,1
+417,1947,Americas,Earthquake,1
+418,1947,Americas,Industrial accident,1
+419,1947,Americas,Storm,4
+420,1947,Americas,Transport accident,1
+421,1947,Americas,Wildfire,1
+422,1947,Asia,Drought,1
+423,1947,Asia,Earthquake,1
+424,1947,Asia,Flood,1
+425,1947,Asia,Storm,3
+426,1947,Asia,Transport accident,1
+427,1947,Europe,Earthquake,1
+428,1947,Europe,Industrial accident,2
+429,1947,Europe,Transport accident,1
+430,1948,Africa,Storm,1
+431,1948,Africa,Transport accident,2
+432,1948,Americas,Flood,2
+433,1948,Americas,Storm,4
+434,1948,Americas,Volcanic activity,1
+435,1948,Asia,Earthquake,5
+436,1948,Asia,Flood,3
+437,1948,Asia,Industrial accident,1
+438,1948,Asia,Landslide,1
+439,1948,Asia,Storm,3
+440,1948,Asia,Transport accident,1
+441,1948,Europe,Earthquake,2
+442,1948,Europe,Industrial accident,1
+443,1948,Europe,Landslide,1
+444,1948,Europe,Storm,1
+445,1948,Europe,Transport accident,1
+446,1948,Oceania,Storm,1
+447,1949,Americas,Earthquake,4
+448,1949,Americas,Flood,1
+449,1949,Americas,Storm,3
+450,1949,Americas,Transport accident,2
+451,1949,Americas,Volcanic activity,2
+452,1949,Asia,Earthquake,2
+453,1949,Asia,Flood,1
+454,1949,Asia,Miscellaneous accident,1
+455,1949,Asia,Storm,5
+456,1949,Europe,Earthquake,1
+457,1949,Europe,Landslide,1
+458,1949,Europe,Transport accident,1
+459,1949,Europe,Wildfire,1
+460,1950,Africa,Epidemic,1
+461,1950,Americas,Earthquake,3
+462,1950,Americas,Flood,3
+463,1950,Americas,Landslide,1
+464,1950,Americas,Storm,5
+465,1950,Americas,Transport accident,3
+466,1950,Asia,Earthquake,4
+467,1950,Asia,Flood,7
+468,1950,Asia,Industrial accident,1
+469,1950,Asia,Storm,2
+470,1950,Asia,Volcanic activity,1
+471,1950,Europe,Industrial accident,1
+472,1950,Europe,Transport accident,1
+473,1951,Africa,Flood,1
+474,1951,Africa,Storm,1
+475,1951,Americas,Earthquake,2
+476,1951,Americas,Extreme temperature,2
+477,1951,Americas,Flood,1
+478,1951,Americas,Miscellaneous accident,1
+479,1951,Americas,Storm,2
+480,1951,Americas,Transport accident,1
+481,1951,Asia,Earthquake,4
+482,1951,Asia,Flood,3
+483,1951,Asia,Storm,6
+484,1951,Asia,Volcanic activity,2
+485,1951,Europe,Flood,2
+486,1951,Europe,Landslide,1
+487,1951,Europe,Transport accident,1
+488,1951,Oceania,Earthquake,1
+489,1951,Oceania,Storm,2
+490,1951,Oceania,Volcanic activity,1
+491,1952,Africa,Flood,1
+492,1952,Africa,Storm,1
+493,1952,Africa,Transport accident,1
+494,1952,Americas,Earthquake,5
+495,1952,Americas,Flood,2
+496,1952,Americas,Industrial accident,1
+497,1952,Americas,Storm,2
+498,1952,Asia,Earthquake,7
+499,1952,Asia,Storm,5
+500,1952,Asia,Volcanic activity,1
+501,1952,Europe,Earthquake,1
+502,1952,Europe,Flood,1
+503,1952,Europe,Fog,1
+504,1952,Europe,Industrial accident,1
+505,1952,Europe,Landslide,1
+506,1952,Europe,Transport accident,3
+507,1952,Oceania,Storm,1
+508,1953,Americas,Earthquake,3
+509,1953,Americas,Epidemic,1
+510,1953,Americas,Flood,1
+511,1953,Americas,Storm,6
+512,1953,Americas,Transport accident,2
+513,1953,Asia,Earthquake,5
+514,1953,Asia,Extreme temperature,3
+515,1953,Asia,Flood,7
+516,1953,Asia,Industrial accident,1
+517,1953,Asia,Storm,4
+518,1953,Asia,Transport accident,1
+519,1953,Europe,Earthquake,1
+520,1953,Europe,Flood,4
+521,1953,Europe,Industrial accident,3
+522,1953,Europe,Storm,1
+523,1953,Europe,Transport accident,2
+524,1953,Oceania,Transport accident,1
+525,1953,Oceania,Volcanic activity,1
+526,1954,Africa,Earthquake,1
+527,1954,Africa,Flood,2
+528,1954,Americas,Landslide,4
+529,1954,Americas,Storm,6
+530,1954,Americas,Transport accident,2
+531,1954,Asia,Earthquake,2
+532,1954,Asia,Flood,7
+533,1954,Asia,Landslide,1
+534,1954,Asia,Miscellaneous accident,1
+535,1954,Asia,Storm,4
+536,1954,Asia,Transport accident,4
+537,1954,Asia,Volcanic activity,1
+538,1954,Europe,Earthquake,2
+539,1954,Europe,Landslide,3
+540,1954,Europe,Transport accident,3
+541,1955,Africa,Earthquake,1
+542,1955,Americas,Earthquake,1
+543,1955,Americas,Extreme temperature,1
+544,1955,Americas,Flood,1
+545,1955,Americas,Mass movement (dry),1
+546,1955,Americas,Storm,11
+547,1955,Americas,Transport accident,1
+548,1955,Asia,Earthquake,3
+549,1955,Asia,Flood,1
+550,1955,Asia,Landslide,2
+551,1955,Asia,Miscellaneous accident,1
+552,1955,Asia,Storm,7
+553,1955,Europe,Earthquake,1
+554,1955,Europe,Miscellaneous accident,1
+555,1955,Europe,Transport accident,3
+556,1955,Oceania,Flood,1
+557,1955,Oceania,Storm,1
+558,1956,Africa,Storm,1
+559,1956,Americas,Industrial accident,2
+560,1956,Americas,Landslide,2
+561,1956,Americas,Storm,4
+562,1956,Americas,Transport accident,3
+563,1956,Americas,Wildfire,1
+564,1956,Asia,Earthquake,4
+565,1956,Asia,Flood,8
+566,1956,Asia,Industrial accident,1
+567,1956,Asia,Landslide,3
+568,1956,Asia,Storm,8
+569,1956,Europe,Earthquake,2
+570,1956,Europe,Flood,1
+571,1956,Europe,Industrial accident,1
+572,1956,Europe,Volcanic activity,1
+573,1956,Oceania,Storm,1
+574,1957,Africa,Earthquake,1
+575,1957,Americas,Earthquake,1
+576,1957,Americas,Flood,1
+577,1957,Americas,Miscellaneous accident,1
+578,1957,Americas,Storm,3
+579,1957,Americas,Transport accident,1
+580,1957,Asia,Earthquake,5
+581,1957,Asia,Flood,9
+582,1957,Asia,Storm,5
+583,1957,Asia,Transport accident,1
+584,1957,Europe,Flood,1
+585,1957,Europe,Industrial accident,1
+586,1957,Europe,Storm,1
+587,1957,Europe,Transport accident,2
+588,1957,Oceania,Volcanic activity,1
+589,1958,Africa,Transport accident,1
+590,1958,Americas,Earthquake,3
+591,1958,Americas,Extreme temperature,1
+592,1958,Americas,Flood,1
+593,1958,Americas,Industrial accident,1
+594,1958,Americas,Miscellaneous accident,3
+595,1958,Americas,Storm,3
+596,1958,Asia,Earthquake,2
+597,1958,Asia,Extreme temperature,1
+598,1958,Asia,Flood,1
+599,1958,Asia,Industrial accident,2
+600,1958,Asia,Landslide,1
+601,1958,Asia,Storm,8
+602,1958,Europe,Flood,1
+603,1958,Europe,Industrial accident,1
+604,1958,Europe,Transport accident,1
+605,1958,Oceania,Storm,2
+606,1959,Africa,Flood,1
+607,1959,Africa,Industrial accident,1
+608,1959,Africa,Miscellaneous accident,1
+609,1959,Americas,Earthquake,2
+610,1959,Americas,Flood,4
+611,1959,Americas,Storm,4
+612,1959,Americas,Transport accident,1
+613,1959,Asia,Earthquake,1
+614,1959,Asia,Flood,8
+615,1959,Asia,Landslide,1
+616,1959,Asia,Storm,9
+617,1959,Europe,Miscellaneous accident,2
+618,1959,Oceania,Storm,3
+619,1960,Africa,Earthquake,2
+620,1960,Africa,Industrial accident,1
+621,1960,Africa,Storm,1
+622,1960,Africa,Transport accident,1
+623,1960,Americas,Earthquake,3
+624,1960,Americas,Flood,1
+625,1960,Americas,Miscellaneous accident,1
+626,1960,Americas,Storm,7
+627,1960,Asia,Drought,1
+628,1960,Asia,Earthquake,3
+629,1960,Asia,Flood,6
+630,1960,Asia,Landslide,1
+631,1960,Asia,Storm,11
+632,1960,Europe,Landslide,1
+633,1960,Europe,Transport accident,2
+634,1960,Oceania,Storm,1
+635,1960,Oceania,Volcanic activity,1
+636,1961,Africa,Earthquake,1
+637,1961,Africa,Flood,1
+638,1961,Americas,Drought,1
+639,1961,Americas,Miscellaneous accident,3
+640,1961,Americas,Storm,5
+641,1961,Asia,Earthquake,2
+642,1961,Asia,Extreme temperature,1
+643,1961,Asia,Flood,7
+644,1961,Asia,Industrial accident,1
+645,1961,Asia,Storm,7
+646,1961,Europe,Landslide,2
+647,1961,Europe,Miscellaneous accident,1
+648,1961,Europe,Storm,1
+649,1961,Europe,Transport accident,2
+650,1961,Oceania,Storm,1
+651,1962,Africa,Flood,1
+652,1962,Americas,Earthquake,1
+653,1962,Americas,Extreme temperature,1
+654,1962,Americas,Flood,2
+655,1962,Americas,Landslide,2
+656,1962,Americas,Mass movement (dry),1
+657,1962,Americas,Storm,5
+658,1962,Americas,Transport accident,1
+659,1962,Asia,Earthquake,1
+660,1962,Asia,Flood,4
+661,1962,Asia,Storm,6
+662,1962,Asia,Transport accident,1
+663,1962,Europe,Earthquake,2
+664,1962,Europe,Flood,1
+665,1962,Europe,Miscellaneous accident,1
+666,1962,Europe,Storm,1
+667,1962,Europe,Transport accident,2
+668,1962,Oceania,Storm,1
+669,1963,Africa,Earthquake,1
+670,1963,Africa,Flood,3
+671,1963,Americas,Drought,1
+672,1963,Americas,Epidemic,1
+673,1963,Americas,Extreme temperature,1
+674,1963,Americas,Flood,1
+675,1963,Americas,Miscellaneous accident,2
+676,1963,Americas,Storm,12
+677,1963,Americas,Transport accident,2
+678,1963,Americas,Volcanic activity,1
+679,1963,Asia,Earthquake,1
+680,1963,Asia,Epidemic,2
+681,1963,Asia,Flood,4
+682,1963,Asia,Landslide,1
+683,1963,Asia,Mass movement (dry),1
+684,1963,Asia,Storm,9
+685,1963,Asia,Transport accident,2
+686,1963,Asia,Volcanic activity,2
+687,1963,Europe,Earthquake,1
+688,1963,Europe,Extreme temperature,1
+689,1963,Europe,Landslide,1
+690,1963,Europe,Transport accident,1
+691,1964,Africa,Drought,2
+692,1964,Africa,Earthquake,1
+693,1964,Africa,Flood,5
+694,1964,Africa,Miscellaneous accident,1
+695,1964,Africa,Transport accident,1
+696,1964,Americas,Drought,1
+697,1964,Americas,Earthquake,2
+698,1964,Americas,Epidemic,1
+699,1964,Americas,Flood,5
+700,1964,Americas,Miscellaneous accident,3
+701,1964,Americas,Storm,8
+702,1964,Americas,Volcanic activity,1
+703,1964,Asia,Drought,4
+704,1964,Asia,Earthquake,3
+705,1964,Asia,Epidemic,2
+706,1964,Asia,Flood,10
+707,1964,Asia,Industrial accident,2
+708,1964,Asia,Landslide,1
+709,1964,Asia,Miscellaneous accident,1
+710,1964,Asia,Storm,13
+711,1964,Europe,Earthquake,1
+712,1964,Europe,Flood,1
+713,1964,Europe,Miscellaneous accident,1
+714,1964,Europe,Transport accident,1
+715,1964,Oceania,Flood,1
+716,1964,Oceania,Storm,1
+717,1965,Africa,Drought,4
+718,1965,Africa,Earthquake,1
+719,1965,Africa,Epidemic,3
+720,1965,Africa,Flood,2
+721,1965,Africa,Transport accident,4
+722,1965,Americas,Drought,1
+723,1965,Americas,Earthquake,3
+724,1965,Americas,Epidemic,1
+725,1965,Americas,Flood,9
+726,1965,Americas,Landslide,4
+727,1965,Americas,Miscellaneous accident,1
+728,1965,Americas,Storm,4
+729,1965,Americas,Transport accident,1
+730,1965,Americas,Wildfire,1
+731,1965,Asia,Drought,2
+732,1965,Asia,Earthquake,2
+733,1965,Asia,Epidemic,2
+734,1965,Asia,Extreme temperature,1
+735,1965,Asia,Flood,6
+736,1965,Asia,Industrial accident,2
+737,1965,Asia,Miscellaneous accident,2
+738,1965,Asia,Storm,12
+739,1965,Asia,Transport accident,1
+740,1965,Asia,Volcanic activity,1
+741,1965,Europe,Earthquake,2
+742,1965,Europe,Flood,2
+743,1965,Europe,Industrial accident,1
+744,1965,Europe,Landslide,2
+745,1965,Europe,Miscellaneous accident,2
+746,1965,Europe,Storm,1
+747,1965,Oceania,Storm,2
+748,1966,Africa,Drought,6
+749,1966,Africa,Earthquake,2
+750,1966,Africa,Epidemic,2
+751,1966,Africa,Flood,2
+752,1966,Africa,Storm,1
+753,1966,Americas,Drought,1
+754,1966,Americas,Earthquake,2
+755,1966,Americas,Extreme temperature,2
+756,1966,Americas,Flood,8
+757,1966,Americas,Landslide,2
+758,1966,Americas,Miscellaneous accident,3
+759,1966,Americas,Storm,14
+760,1966,Asia,Drought,2
+761,1966,Asia,Earthquake,6
+762,1966,Asia,Flood,12
+763,1966,Asia,Landslide,1
+764,1966,Asia,Miscellaneous accident,4
+765,1966,Asia,Storm,7
+766,1966,Asia,Transport accident,1
+767,1966,Asia,Volcanic activity,2
+768,1966,Europe,Earthquake,3
+769,1966,Europe,Flood,1
+770,1966,Europe,Landslide,1
+771,1966,Europe,Storm,1
+772,1966,Europe,Transport accident,2
+773,1966,Europe,Wildfire,1
+774,1966,Oceania,Storm,5
+775,1967,Africa,Drought,2
+776,1967,Africa,Earthquake,1
+777,1967,Africa,Flood,3
+778,1967,Africa,Landslide,1
+779,1967,Africa,Storm,1
+780,1967,Americas,Earthquake,3
+781,1967,Americas,Epidemic,2
+782,1967,Americas,Flood,10
+783,1967,Americas,Landslide,1
+784,1967,Americas,Miscellaneous accident,1
+785,1967,Americas,Storm,10
+786,1967,Asia,Drought,2
+787,1967,Asia,Earthquake,7
+788,1967,Asia,Epidemic,3
+789,1967,Asia,Flood,12
+790,1967,Asia,Miscellaneous accident,5
+791,1967,Asia,Storm,10
+792,1967,Asia,Transport accident,1
+793,1967,Asia,Wildfire,1
+794,1967,Europe,Earthquake,4
+795,1967,Europe,Flood,1
+796,1967,Europe,Industrial accident,1
+797,1967,Europe,Miscellaneous accident,2
+798,1967,Europe,Storm,2
+799,1967,Europe,Transport accident,6
+800,1967,Oceania,Drought,1
+801,1967,Oceania,Storm,2
+802,1967,Oceania,Wildfire,1
+803,1968,Africa,Drought,3
+804,1968,Africa,Flood,5
+805,1968,Africa,Landslide,1
+806,1968,Africa,Storm,1
+807,1968,Americas,Drought,4
+808,1968,Americas,Earthquake,4
+809,1968,Americas,Extreme temperature,2
+810,1968,Americas,Flood,2
+811,1968,Americas,Miscellaneous accident,2
+812,1968,Americas,Storm,6
+813,1968,Americas,Transport accident,1
+814,1968,Americas,Volcanic activity,1
+815,1968,Asia,Earthquake,7
+816,1968,Asia,Epidemic,4
+817,1968,Asia,Flood,12
+818,1968,Asia,Industrial accident,1
+819,1968,Asia,Landslide,2
+820,1968,Asia,Miscellaneous accident,1
+821,1968,Asia,Storm,11
+822,1968,Asia,Volcanic activity,1
+823,1968,Asia,Wildfire,2
+824,1968,Europe,Earthquake,3
+825,1968,Europe,Flood,1
+826,1968,Europe,Landslide,1
+827,1968,Europe,Miscellaneous accident,1
+828,1968,Europe,Storm,2
+829,1968,Europe,Transport accident,2
+830,1968,Oceania,Earthquake,2
+831,1968,Oceania,Storm,5
+832,1968,Oceania,Wildfire,1
+833,1969,Africa,Drought,10
+834,1969,Africa,Earthquake,4
+835,1969,Africa,Epidemic,6
+836,1969,Africa,Flood,3
+837,1969,Africa,Miscellaneous accident,1
+838,1969,Africa,Storm,1
+839,1969,Africa,Transport accident,1
+840,1969,Americas,Drought,1
+841,1969,Americas,Earthquake,1
+842,1969,Americas,Epidemic,7
+843,1969,Americas,Flood,5
+844,1969,Americas,Landslide,1
+845,1969,Americas,Miscellaneous accident,1
+846,1969,Americas,Storm,10
+847,1969,Americas,Transport accident,1
+848,1969,Asia,Drought,3
+849,1969,Asia,Earthquake,4
+850,1969,Asia,Epidemic,1
+851,1969,Asia,Flood,6
+852,1969,Asia,Miscellaneous accident,7
+853,1969,Asia,Storm,12
+854,1969,Asia,Volcanic activity,2
+855,1969,Asia,Wildfire,2
+856,1969,Europe,Earthquake,2
+857,1969,Europe,Miscellaneous accident,1
+858,1969,Europe,Storm,1
+859,1969,Europe,Transport accident,2
+860,1969,Oceania,Storm,1
+861,1970,Africa,Drought,1
+862,1970,Africa,Epidemic,3
+863,1970,Africa,Flood,2
+864,1970,Africa,Industrial accident,1
+865,1970,Africa,Storm,1
+866,1970,Americas,Drought,1
+867,1970,Americas,Earthquake,5
+868,1970,Americas,Flood,15
+869,1970,Americas,Industrial accident,1
+870,1970,Americas,Miscellaneous accident,3
+871,1970,Americas,Storm,7
+872,1970,Americas,Transport accident,2
+873,1970,Americas,Wildfire,1
+874,1970,Asia,Earthquake,6
+875,1970,Asia,Epidemic,1
+876,1970,Asia,Flood,11
+877,1970,Asia,Industrial accident,1
+878,1970,Asia,Landslide,3
+879,1970,Asia,Miscellaneous accident,4
+880,1970,Asia,Storm,14
+881,1970,Asia,Transport accident,1
+882,1970,Asia,Wildfire,2
+883,1970,Europe,Flood,3
+884,1970,Europe,Landslide,3
+885,1970,Europe,Miscellaneous accident,2
+886,1970,Europe,Storm,1
+887,1970,Europe,Transport accident,1
+888,1970,Oceania,Earthquake,1
+889,1970,Oceania,Storm,1
+890,1971,Africa,Drought,5
+891,1971,Africa,Epidemic,1
+892,1971,Africa,Flood,1
+893,1971,Americas,Earthquake,2
+894,1971,Americas,Epidemic,1
+895,1971,Americas,Flood,8
+896,1971,Americas,Industrial accident,1
+897,1971,Americas,Landslide,3
+898,1971,Americas,Mass movement (dry),1
+899,1971,Americas,Miscellaneous accident,1
+900,1971,Americas,Storm,7
+901,1971,Americas,Transport accident,1
+902,1971,Americas,Volcanic activity,2
+903,1971,Asia,Drought,1
+904,1971,Asia,Earthquake,3
+905,1971,Asia,Flood,4
+906,1971,Asia,Landslide,1
+907,1971,Asia,Miscellaneous accident,1
+908,1971,Asia,Storm,13
+909,1971,Asia,Transport accident,1
+910,1971,Asia,Wildfire,2
+911,1971,Europe,Earthquake,1
+912,1971,Europe,Extreme temperature,1
+913,1971,Europe,Flood,1
+914,1971,Europe,Industrial accident,1
+915,1971,Europe,Miscellaneous accident,2
+916,1971,Europe,Storm,1
+917,1971,Europe,Transport accident,6
+918,1971,Oceania,Flood,1
+919,1971,Oceania,Landslide,1
+920,1971,Oceania,Storm,1
+921,1971,Oceania,Volcanic activity,1
+922,1972,Africa,Flood,1
+923,1972,Africa,Industrial accident,1
+924,1972,Africa,Storm,2
+925,1972,Americas,Drought,1
+926,1972,Americas,Earthquake,2
+927,1972,Americas,Extreme temperature,2
+928,1972,Americas,Flood,4
+929,1972,Americas,Industrial accident,3
+930,1972,Americas,Landslide,2
+931,1972,Americas,Miscellaneous accident,5
+932,1972,Americas,Storm,2
+933,1972,Americas,Transport accident,4
+934,1972,Asia,Drought,3
+935,1972,Asia,Earthquake,3
+936,1972,Asia,Flood,9
+937,1972,Asia,Industrial accident,1
+938,1972,Asia,Landslide,3
+939,1972,Asia,Miscellaneous accident,4
+940,1972,Asia,Storm,10
+941,1972,Asia,Wildfire,3
+942,1972,Europe,Earthquake,2
+943,1972,Europe,Epidemic,1
+944,1972,Europe,Flood,1
+945,1972,Europe,Miscellaneous accident,3
+946,1972,Europe,Storm,4
+947,1972,Europe,Transport accident,7
+948,1972,Oceania,Storm,8
+949,1973,Africa,Drought,2
+950,1973,Africa,Flood,4
+951,1973,Africa,Transport accident,2
+952,1973,Africa,Wildfire,1
+953,1973,Americas,Drought,1
+954,1973,Americas,Earthquake,5
+955,1973,Americas,Extreme temperature,1
+956,1973,Americas,Flood,9
+957,1973,Americas,Industrial accident,1
+958,1973,Americas,Landslide,5
+959,1973,Americas,Miscellaneous accident,2
+960,1973,Americas,Storm,4
+961,1973,Americas,Transport accident,1
+962,1973,Asia,Earthquake,3
+963,1973,Asia,Extreme temperature,2
+964,1973,Asia,Flood,5
+965,1973,Asia,Industrial accident,2
+966,1973,Asia,Storm,10
+967,1973,Asia,Transport accident,1
+968,1973,Asia,Wildfire,2
+969,1973,Europe,Flood,1
+970,1973,Europe,Industrial accident,1
+971,1973,Europe,Miscellaneous accident,4
+972,1973,Europe,Storm,5
+973,1973,Europe,Transport accident,4
+974,1973,Europe,Volcanic activity,1
+975,1973,Oceania,Flood,1
+976,1973,Oceania,Industrial accident,1
+977,1973,Oceania,Storm,3
+978,1974,Africa,Epidemic,1
+979,1974,Africa,Flood,5
+980,1974,Africa,Miscellaneous accident,1
+981,1974,Africa,Transport accident,1
+982,1974,Americas,Drought,1
+983,1974,Americas,Earthquake,3
+984,1974,Americas,Epidemic,1
+985,1974,Americas,Flood,5
+986,1974,Americas,Industrial accident,3
+987,1974,Americas,Landslide,5
+988,1974,Americas,Miscellaneous accident,2
+989,1974,Americas,Storm,7
+990,1974,Americas,Transport accident,1
+991,1974,Asia,Drought,1
+992,1974,Asia,Earthquake,3
+993,1974,Asia,Flood,8
+994,1974,Asia,Industrial accident,1
+995,1974,Asia,Insect infestation,1
+996,1974,Asia,Landslide,2
+997,1974,Asia,Miscellaneous accident,5
+998,1974,Asia,Storm,18
+999,1974,Asia,Transport accident,2
+1000,1974,Asia,Wildfire,3
+1001,1974,Europe,Industrial accident,2
+1002,1974,Europe,Landslide,3
+1003,1974,Europe,Miscellaneous accident,1
+1004,1974,Europe,Storm,1
+1005,1974,Europe,Transport accident,3
+1006,1974,Oceania,Drought,1
+1007,1974,Oceania,Flood,1
+1008,1974,Oceania,Storm,2
+1009,1975,Africa,Complex Disasters,1
+1010,1975,Africa,Flood,6
+1011,1975,Africa,Storm,4
+1012,1975,Africa,Transport accident,1
+1013,1975,Americas,Earthquake,1
+1014,1975,Americas,Epidemic,1
+1015,1975,Americas,Extreme temperature,2
+1016,1975,Americas,Flood,2
+1017,1975,Americas,Industrial accident,6
+1018,1975,Americas,Storm,9
+1019,1975,Americas,Transport accident,4
+1020,1975,Americas,Volcanic activity,3
+1021,1975,Asia,Drought,1
+1022,1975,Asia,Earthquake,3
+1023,1975,Asia,Extreme temperature,1
+1024,1975,Asia,Flood,8
+1025,1975,Asia,Industrial accident,3
+1026,1975,Asia,Insect infestation,1
+1027,1975,Asia,Landslide,2
+1028,1975,Asia,Miscellaneous accident,4
+1029,1975,Asia,Storm,11
+1030,1975,Asia,Transport accident,2
+1031,1975,Europe,Flood,1
+1032,1975,Europe,Industrial accident,2
+1033,1975,Europe,Landslide,3
+1034,1975,Europe,Miscellaneous accident,3
+1035,1975,Europe,Transport accident,5
+1036,1975,Oceania,Earthquake,1
+1037,1975,Oceania,Flood,1
+1038,1975,Oceania,Miscellaneous accident,2
+1039,1975,Oceania,Storm,4
+1040,1975,Oceania,Wildfire,2
+1041,1976,Africa,Drought,6
+1042,1976,Africa,Epidemic,3
+1043,1976,Africa,Flood,1
+1044,1976,Africa,Storm,1
+1045,1976,Americas,Earthquake,4
+1046,1976,Americas,Flood,5
+1047,1976,Americas,Industrial accident,3
+1048,1976,Americas,Landslide,2
+1049,1976,Americas,Miscellaneous accident,6
+1050,1976,Americas,Storm,2
+1051,1976,Americas,Transport accident,1
+1052,1976,Americas,Volcanic activity,3
+1053,1976,Americas,Wildfire,1
+1054,1976,Asia,Drought,1
+1055,1976,Asia,Earthquake,11
+1056,1976,Asia,Flood,9
+1057,1976,Asia,Industrial accident,2
+1058,1976,Asia,Landslide,4
+1059,1976,Asia,Miscellaneous accident,5
+1060,1976,Asia,Storm,16
+1061,1976,Asia,Transport accident,1
+1062,1976,Asia,Volcanic activity,2
+1063,1976,Europe,Drought,1
+1064,1976,Europe,Earthquake,5
+1065,1976,Europe,Industrial accident,4
+1066,1976,Europe,Miscellaneous accident,3
+1067,1976,Europe,Storm,9
+1068,1976,Europe,Transport accident,3
+1069,1976,Oceania,Drought,2
+1070,1976,Oceania,Earthquake,1
+1071,1976,Oceania,Flood,2
+1072,1976,Oceania,Storm,8
+1073,1977,Africa,Drought,3
+1074,1977,Africa,Epidemic,4
+1075,1977,Africa,Flood,8
+1076,1977,Africa,Industrial accident,1
+1077,1977,Africa,Miscellaneous accident,3
+1078,1977,Africa,Storm,3
+1079,1977,Africa,Transport accident,1
+1080,1977,Africa,Volcanic activity,4
+1081,1977,Americas,Drought,4
+1082,1977,Americas,Earthquake,1
+1083,1977,Americas,Epidemic,3
+1084,1977,Americas,Extreme temperature,1
+1085,1977,Americas,Flood,12
+1086,1977,Americas,Industrial accident,2
+1087,1977,Americas,Landslide,1
+1088,1977,Americas,Miscellaneous accident,6
+1089,1977,Americas,Storm,6
+1090,1977,Americas,Transport accident,1
+1091,1977,Asia,Drought,6
+1092,1977,Asia,Earthquake,9
+1093,1977,Asia,Epidemic,14
+1094,1977,Asia,Flood,18
+1095,1977,Asia,Industrial accident,2
+1096,1977,Asia,Landslide,1
+1097,1977,Asia,Miscellaneous accident,2
+1098,1977,Asia,Storm,19
+1099,1977,Asia,Transport accident,3
+1100,1977,Asia,Volcanic activity,1
+1101,1977,Europe,Earthquake,2
+1102,1977,Europe,Flood,8
+1103,1977,Europe,Landslide,1
+1104,1977,Europe,Miscellaneous accident,2
+1105,1977,Europe,Transport accident,2
+1106,1977,Oceania,Earthquake,3
+1107,1977,Oceania,Epidemic,1
+1108,1977,Oceania,Flood,2
+1109,1977,Oceania,Storm,4
+1110,1977,Oceania,Transport accident,1
+1111,1977,Oceania,Wildfire,2
+1112,1978,Africa,Drought,2
+1113,1978,Africa,Epidemic,6
+1114,1978,Africa,Flood,8
+1115,1978,Africa,Industrial accident,1
+1116,1978,Africa,Insect infestation,1
+1117,1978,Africa,Miscellaneous accident,1
+1118,1978,Africa,Storm,3
+1119,1978,Africa,Transport accident,1
+1120,1978,Africa,Wildfire,1
+1121,1978,Americas,Drought,2
+1122,1978,Americas,Earthquake,1
+1123,1978,Americas,Epidemic,1
+1124,1978,Americas,Flood,9
+1125,1978,Americas,Industrial accident,4
+1126,1978,Americas,Miscellaneous accident,5
+1127,1978,Americas,Storm,8
+1128,1978,Americas,Transport accident,4
+1129,1978,Asia,Drought,3
+1130,1978,Asia,Earthquake,5
+1131,1978,Asia,Epidemic,14
+1132,1978,Asia,Extreme temperature,1
+1133,1978,Asia,Flood,22
+1134,1978,Asia,Industrial accident,1
+1135,1978,Asia,Insect infestation,1
+1136,1978,Asia,Landslide,2
+1137,1978,Asia,Miscellaneous accident,12
+1138,1978,Asia,Storm,24
+1139,1978,Asia,Transport accident,4
+1140,1978,Asia,Volcanic activity,2
+1141,1978,Asia,Wildfire,2
+1142,1978,Europe,Earthquake,3
+1143,1978,Europe,Flood,3
+1144,1978,Europe,Industrial accident,5
+1145,1978,Europe,Storm,1
+1146,1978,Europe,Transport accident,3
+1147,1978,Oceania,Drought,1
+1148,1978,Oceania,Flood,5
+1149,1978,Oceania,Storm,6
+1150,1979,Africa,Drought,4
+1151,1979,Africa,Epidemic,2
+1152,1979,Africa,Flood,6
+1153,1979,Africa,Insect infestation,1
+1154,1979,Africa,Miscellaneous accident,1
+1155,1979,Africa,Storm,3
+1156,1979,Africa,Transport accident,1
+1157,1979,Americas,Drought,1
+1158,1979,Americas,Earthquake,5
+1159,1979,Americas,Flood,12
+1160,1979,Americas,Industrial accident,8
+1161,1979,Americas,Landslide,1
+1162,1979,Americas,Miscellaneous accident,3
+1163,1979,Americas,Storm,11
+1164,1979,Americas,Transport accident,1
+1165,1979,Americas,Volcanic activity,1
+1166,1979,Asia,Drought,6
+1167,1979,Asia,Earthquake,13
+1168,1979,Asia,Epidemic,1
+1169,1979,Asia,Extreme temperature,3
+1170,1979,Asia,Flood,11
+1171,1979,Asia,Industrial accident,8
+1172,1979,Asia,Landslide,4
+1173,1979,Asia,Miscellaneous accident,11
+1174,1979,Asia,Storm,12
+1175,1979,Asia,Transport accident,7
+1176,1979,Asia,Volcanic activity,2
+1177,1979,Asia,Wildfire,3
+1178,1979,Europe,Earthquake,5
+1179,1979,Europe,Extreme temperature,1
+1180,1979,Europe,Flood,5
+1181,1979,Europe,Industrial accident,4
+1182,1979,Europe,Miscellaneous accident,1
+1183,1979,Europe,Transport accident,2
+1184,1979,Europe,Volcanic activity,1
+1185,1979,Oceania,Landslide,2
+1186,1979,Oceania,Storm,5
+1187,1979,Oceania,Transport accident,1
+1188,1979,Oceania,Wildfire,1
+1189,1980,Africa,Drought,19
+1190,1980,Africa,Earthquake,1
+1191,1980,Africa,Epidemic,5
+1192,1980,Africa,Landslide,1
+1193,1980,Africa,Storm,1
+1194,1980,Americas,Drought,1
+1195,1980,Americas,Earthquake,5
+1196,1980,Americas,Extreme temperature,1
+1197,1980,Americas,Flood,14
+1198,1980,Americas,Industrial accident,4
+1199,1980,Americas,Miscellaneous accident,5
+1200,1980,Americas,Storm,14
+1201,1980,Americas,Transport accident,1
+1202,1980,Americas,Volcanic activity,1
+1203,1980,Americas,Wildfire,1
+1204,1980,Asia,Drought,2
+1205,1980,Asia,Earthquake,7
+1206,1980,Asia,Epidemic,3
+1207,1980,Asia,Extreme temperature,2
+1208,1980,Asia,Flood,20
+1209,1980,Asia,Industrial accident,5
+1210,1980,Asia,Landslide,3
+1211,1980,Asia,Mass movement (dry),1
+1212,1980,Asia,Miscellaneous accident,9
+1213,1980,Asia,Storm,20
+1214,1980,Asia,Transport accident,7
+1215,1980,Asia,Volcanic activity,1
+1216,1980,Asia,Wildfire,2
+1217,1980,Europe,Drought,1
+1218,1980,Europe,Earthquake,4
+1219,1980,Europe,Flood,3
+1220,1980,Europe,Industrial accident,4
+1221,1980,Europe,Miscellaneous accident,2
+1222,1980,Europe,Storm,1
+1223,1980,Europe,Transport accident,6
+1224,1980,Oceania,Drought,1
+1225,1980,Oceania,Flood,2
+1226,1980,Oceania,Industrial accident,1
+1227,1980,Oceania,Storm,6
+1228,1980,Oceania,Wildfire,1
+1229,1981,Africa,Drought,12
+1230,1981,Africa,Epidemic,4
+1231,1981,Africa,Flood,7
+1232,1981,Africa,Storm,2
+1233,1981,Americas,Drought,2
+1234,1981,Americas,Earthquake,4
+1235,1981,Americas,Flood,7
+1236,1981,Americas,Industrial accident,6
+1237,1981,Americas,Landslide,4
+1238,1981,Americas,Miscellaneous accident,3
+1239,1981,Americas,Storm,5
+1240,1981,Americas,Transport accident,4
+1241,1981,Asia,Drought,2
+1242,1981,Asia,Earthquake,6
+1243,1981,Asia,Epidemic,1
+1244,1981,Asia,Extreme temperature,1
+1245,1981,Asia,Flood,21
+1246,1981,Asia,Industrial accident,3
+1247,1981,Asia,Landslide,4
+1248,1981,Asia,Miscellaneous accident,8
+1249,1981,Asia,Storm,29
+1250,1981,Asia,Transport accident,9
+1251,1981,Asia,Volcanic activity,1
+1252,1981,Asia,Wildfire,4
+1253,1981,Europe,Drought,1
+1254,1981,Europe,Earthquake,5
+1255,1981,Europe,Extreme temperature,1
+1256,1981,Europe,Flood,4
+1257,1981,Europe,Industrial accident,1
+1258,1981,Europe,Miscellaneous accident,3
+1259,1981,Europe,Storm,6
+1260,1981,Europe,Transport accident,2
+1261,1981,Oceania,Drought,1
+1262,1981,Oceania,Flood,4
+1263,1981,Oceania,Miscellaneous accident,1
+1264,1981,Oceania,Storm,8
+1265,1982,Africa,Epidemic,3
+1266,1982,Africa,Flood,6
+1267,1982,Africa,Landslide,1
+1268,1982,Africa,Mass movement (dry),1
+1269,1982,Africa,Miscellaneous accident,4
+1270,1982,Africa,Storm,4
+1271,1982,Africa,Transport accident,3
+1272,1982,Americas,Drought,1
+1273,1982,Americas,Earthquake,5
+1274,1982,Americas,Extreme temperature,1
+1275,1982,Americas,Flood,14
+1276,1982,Americas,Industrial accident,7
+1277,1982,Americas,Landslide,2
+1278,1982,Americas,Miscellaneous accident,3
+1279,1982,Americas,Storm,16
+1280,1982,Americas,Transport accident,3
+1281,1982,Americas,Volcanic activity,1
+1282,1982,Asia,Drought,4
+1283,1982,Asia,Earthquake,6
+1284,1982,Asia,Epidemic,4
+1285,1982,Asia,Extreme temperature,1
+1286,1982,Asia,Flood,22
+1287,1982,Asia,Industrial accident,4
+1288,1982,Asia,Landslide,5
+1289,1982,Asia,Miscellaneous accident,5
+1290,1982,Asia,Storm,22
+1291,1982,Asia,Transport accident,7
+1292,1982,Asia,Volcanic activity,2
+1293,1982,Asia,Wildfire,2
+1294,1982,Europe,Drought,1
+1295,1982,Europe,Earthquake,4
+1296,1982,Europe,Extreme temperature,1
+1297,1982,Europe,Flood,6
+1298,1982,Europe,Industrial accident,1
+1299,1982,Europe,Landslide,4
+1300,1982,Europe,Miscellaneous accident,3
+1301,1982,Europe,Storm,4
+1302,1982,Europe,Transport accident,1
+1303,1982,Europe,Wildfire,1
+1304,1982,Oceania,Storm,6
+1305,1983,Africa,Drought,12
+1306,1983,Africa,Earthquake,1
+1307,1983,Africa,Epidemic,3
+1308,1983,Africa,Flood,3
+1309,1983,Africa,Industrial accident,2
+1310,1983,Africa,Miscellaneous accident,1
+1311,1983,Africa,Storm,4
+1312,1983,Africa,Transport accident,6
+1313,1983,Americas,Drought,7
+1314,1983,Americas,Earthquake,8
+1315,1983,Americas,Extreme temperature,2
+1316,1983,Americas,Flood,12
+1317,1983,Americas,Industrial accident,4
+1318,1983,Americas,Landslide,5
+1319,1983,Americas,Mass movement (dry),1
+1320,1983,Americas,Storm,11
+1321,1983,Americas,Transport accident,4
+1322,1983,Americas,Volcanic activity,1
+1323,1983,Americas,Wildfire,1
+1324,1983,Asia,Drought,3
+1325,1983,Asia,Earthquake,10
+1326,1983,Asia,Epidemic,4
+1327,1983,Asia,Flood,19
+1328,1983,Asia,Industrial accident,5
+1329,1983,Asia,Landslide,7
+1330,1983,Asia,Mass movement (dry),2
+1331,1983,Asia,Miscellaneous accident,8
+1332,1983,Asia,Storm,27
+1333,1983,Asia,Transport accident,10
+1334,1983,Asia,Volcanic activity,4
+1335,1983,Asia,Wildfire,2
+1336,1983,Europe,Drought,3
+1337,1983,Europe,Earthquake,5
+1338,1983,Europe,Flood,12
+1339,1983,Europe,Industrial accident,1
+1340,1983,Europe,Landslide,4
+1341,1983,Europe,Miscellaneous accident,3
+1342,1983,Europe,Storm,9
+1343,1983,Europe,Transport accident,4
+1344,1983,Europe,Volcanic activity,1
+1345,1983,Europe,Wildfire,7
+1346,1983,Oceania,Drought,1
+1347,1983,Oceania,Earthquake,1
+1348,1983,Oceania,Flood,3
+1349,1983,Oceania,Storm,8
+1350,1983,Oceania,Volcanic activity,1
+1351,1983,Oceania,Wildfire,2
+1352,1984,Africa,Drought,4
+1353,1984,Africa,Epidemic,5
+1354,1984,Africa,Flood,3
+1355,1984,Africa,Miscellaneous accident,2
+1356,1984,Africa,Storm,9
+1357,1984,Africa,Transport accident,5
+1358,1984,Africa,Volcanic activity,1
+1359,1984,Africa,Wildfire,1
+1360,1984,Americas,Drought,1
+1361,1984,Americas,Epidemic,1
+1362,1984,Americas,Flood,14
+1363,1984,Americas,Industrial accident,9
+1364,1984,Americas,Landslide,2
+1365,1984,Americas,Miscellaneous accident,1
+1366,1984,Americas,Storm,18
+1367,1984,Americas,Transport accident,2
+1368,1984,Americas,Volcanic activity,1
+1369,1984,Asia,Drought,1
+1370,1984,Asia,Earthquake,9
+1371,1984,Asia,Epidemic,5
+1372,1984,Asia,Extreme temperature,1
+1373,1984,Asia,Flood,24
+1374,1984,Asia,Industrial accident,6
+1375,1984,Asia,Landslide,3
+1376,1984,Asia,Miscellaneous accident,8
+1377,1984,Asia,Storm,12
+1378,1984,Asia,Transport accident,12
+1379,1984,Asia,Volcanic activity,4
+1380,1984,Asia,Wildfire,1
+1381,1984,Europe,Earthquake,4
+1382,1984,Europe,Epidemic,1
+1383,1984,Europe,Flood,4
+1384,1984,Europe,Industrial accident,7
+1385,1984,Europe,Landslide,1
+1386,1984,Europe,Miscellaneous accident,5
+1387,1984,Europe,Storm,17
+1388,1984,Europe,Transport accident,6
+1389,1984,Europe,Volcanic activity,1
+1390,1984,Europe,Wildfire,5
+1391,1984,Oceania,Flood,2
+1392,1984,Oceania,Storm,1
+1393,1985,Africa,Drought,1
+1394,1985,Africa,Earthquake,1
+1395,1985,Africa,Epidemic,5
+1396,1985,Africa,Flood,11
+1397,1985,Africa,Industrial accident,2
+1398,1985,Africa,Insect infestation,2
+1399,1985,Africa,Storm,3
+1400,1985,Africa,Transport accident,4
+1401,1985,Africa,Wildfire,1
+1402,1985,Americas,Drought,1
+1403,1985,Americas,Earthquake,5
+1404,1985,Americas,Flood,14
+1405,1985,Americas,Industrial accident,5
+1406,1985,Americas,Landslide,3
+1407,1985,Americas,Mass movement (dry),1
+1408,1985,Americas,Miscellaneous accident,2
+1409,1985,Americas,Storm,16
+1410,1985,Americas,Transport accident,7
+1411,1985,Americas,Volcanic activity,1
+1412,1985,Americas,Wildfire,2
+1413,1985,Asia,Drought,1
+1414,1985,Asia,Earthquake,7
+1415,1985,Asia,Epidemic,7
+1416,1985,Asia,Extreme temperature,2
+1417,1985,Asia,Flood,25
+1418,1985,Asia,Industrial accident,6
+1419,1985,Asia,Landslide,1
+1420,1985,Asia,Mass movement (dry),1
+1421,1985,Asia,Miscellaneous accident,7
+1422,1985,Asia,Storm,18
+1423,1985,Asia,Transport accident,19
+1424,1985,Asia,Volcanic activity,1
+1425,1985,Asia,Wildfire,2
+1426,1985,Europe,Earthquake,3
+1427,1985,Europe,Epidemic,1
+1428,1985,Europe,Extreme temperature,6
+1429,1985,Europe,Flood,5
+1430,1985,Europe,Industrial accident,4
+1431,1985,Europe,Landslide,2
+1432,1985,Europe,Miscellaneous accident,7
+1433,1985,Europe,Storm,7
+1434,1985,Europe,Transport accident,13
+1435,1985,Europe,Wildfire,6
+1436,1985,Oceania,Earthquake,1
+1437,1985,Oceania,Flood,3
+1438,1985,Oceania,Storm,7
+1439,1985,Oceania,Wildfire,2
+1440,1986,Africa,Drought,1
+1441,1986,Africa,Epidemic,5
+1442,1986,Africa,Flood,3
+1443,1986,Africa,Industrial accident,1
+1444,1986,Africa,Insect infestation,13
+1445,1986,Africa,Miscellaneous accident,1
+1446,1986,Africa,Storm,1
+1447,1986,Africa,Transport accident,10
+1448,1986,Africa,Volcanic activity,1
+1449,1986,Americas,Drought,1
+1450,1986,Americas,Earthquake,8
+1451,1986,Americas,Epidemic,1
+1452,1986,Americas,Extreme temperature,1
+1453,1986,Americas,Flood,19
+1454,1986,Americas,Industrial accident,3
+1455,1986,Americas,Landslide,4
+1456,1986,Americas,Miscellaneous accident,3
+1457,1986,Americas,Storm,9
+1458,1986,Americas,Transport accident,15
+1459,1986,Americas,Wildfire,2
+1460,1986,Asia,Drought,1
+1461,1986,Asia,Earthquake,8
+1462,1986,Asia,Epidemic,5
+1463,1986,Asia,Extreme temperature,1
+1464,1986,Asia,Flood,21
+1465,1986,Asia,Industrial accident,1
+1466,1986,Asia,Landslide,5
+1467,1986,Asia,Miscellaneous accident,11
+1468,1986,Asia,Storm,33
+1469,1986,Asia,Transport accident,45
+1470,1986,Asia,Volcanic activity,1
+1471,1986,Asia,Wildfire,2
+1472,1986,Europe,Drought,1
+1473,1986,Europe,Earthquake,4
+1474,1986,Europe,Flood,2
+1475,1986,Europe,Industrial accident,5
+1476,1986,Europe,Storm,5
+1477,1986,Europe,Transport accident,6
+1478,1986,Europe,Wildfire,2
+1479,1986,Oceania,Earthquake,1
+1480,1986,Oceania,Flood,5
+1481,1986,Oceania,Miscellaneous accident,1
+1482,1986,Oceania,Storm,8
+1483,1987,Africa,Drought,6
+1484,1987,Africa,Earthquake,1
+1485,1987,Africa,Epidemic,17
+1486,1987,Africa,Flood,3
+1487,1987,Africa,Industrial accident,4
+1488,1987,Africa,Insect infestation,14
+1489,1987,Africa,Miscellaneous accident,1
+1490,1987,Africa,Storm,4
+1491,1987,Africa,Transport accident,22
+1492,1987,Americas,Drought,2
+1493,1987,Americas,Earthquake,6
+1494,1987,Americas,Extreme temperature,1
+1495,1987,Americas,Flood,23
+1496,1987,Americas,Industrial accident,6
+1497,1987,Americas,Landslide,7
+1498,1987,Americas,Miscellaneous accident,6
+1499,1987,Americas,Storm,15
+1500,1987,Americas,Transport accident,30
+1501,1987,Americas,Volcanic activity,1
+1502,1987,Americas,Wildfire,3
+1503,1987,Asia,Drought,7
+1504,1987,Asia,Earthquake,6
+1505,1987,Asia,Epidemic,8
+1506,1987,Asia,Extreme temperature,4
+1507,1987,Asia,Flood,32
+1508,1987,Asia,Industrial accident,8
+1509,1987,Asia,Insect infestation,1
+1510,1987,Asia,Landslide,2
+1511,1987,Asia,Mass movement (dry),1
+1512,1987,Asia,Miscellaneous accident,13
+1513,1987,Asia,Storm,23
+1514,1987,Asia,Transport accident,58
+1515,1987,Asia,Volcanic activity,1
+1516,1987,Asia,Wildfire,2
+1517,1987,Europe,Extreme temperature,1
+1518,1987,Europe,Flood,9
+1519,1987,Europe,Industrial accident,3
+1520,1987,Europe,Landslide,3
+1521,1987,Europe,Mass movement (dry),1
+1522,1987,Europe,Miscellaneous accident,1
+1523,1987,Europe,Storm,9
+1524,1987,Europe,Transport accident,13
+1525,1987,Europe,Wildfire,2
+1526,1987,Oceania,Earthquake,2
+1527,1987,Oceania,Flood,1
+1528,1987,Oceania,Landslide,1
+1529,1987,Oceania,Storm,7
+1530,1987,Oceania,Wildfire,1
+1531,1988,Africa,Drought,8
+1532,1988,Africa,Earthquake,2
+1533,1988,Africa,Epidemic,13
+1534,1988,Africa,Flood,16
+1535,1988,Africa,Industrial accident,1
+1536,1988,Africa,Insect infestation,17
+1537,1988,Africa,Landslide,1
+1538,1988,Africa,Mass movement (dry),1
+1539,1988,Africa,Miscellaneous accident,4
+1540,1988,Africa,Storm,4
+1541,1988,Africa,Transport accident,11
+1542,1988,Americas,Drought,6
+1543,1988,Americas,Earthquake,2
+1544,1988,Americas,Epidemic,3
+1545,1988,Americas,Extreme temperature,2
+1546,1988,Americas,Flood,27
+1547,1988,Americas,Industrial accident,5
+1548,1988,Americas,Landslide,2
+1549,1988,Americas,Miscellaneous accident,6
+1550,1988,Americas,Storm,32
+1551,1988,Americas,Transport accident,23
+1552,1988,Americas,Volcanic activity,2
+1553,1988,Asia,Drought,3
+1554,1988,Asia,Earthquake,7
+1555,1988,Asia,Epidemic,4
+1556,1988,Asia,Extreme temperature,2
+1557,1988,Asia,Flood,23
+1558,1988,Asia,Industrial accident,11
+1559,1988,Asia,Landslide,10
+1560,1988,Asia,Mass movement (dry),1
+1561,1988,Asia,Miscellaneous accident,14
+1562,1988,Asia,Storm,20
+1563,1988,Asia,Transport accident,68
+1564,1988,Asia,Volcanic activity,3
+1565,1988,Europe,Earthquake,3
+1566,1988,Europe,Extreme temperature,2
+1567,1988,Europe,Flood,4
+1568,1988,Europe,Industrial accident,3
+1569,1988,Europe,Landslide,1
+1570,1988,Europe,Miscellaneous accident,1
+1571,1988,Europe,Transport accident,18
+1572,1988,Oceania,Earthquake,1
+1573,1988,Oceania,Flood,6
+1574,1988,Oceania,Landslide,1
+1575,1988,Oceania,Mass movement (dry),1
+1576,1988,Oceania,Storm,4
+1577,1989,Africa,Drought,4
+1578,1989,Africa,Earthquake,2
+1579,1989,Africa,Epidemic,11
+1580,1989,Africa,Flood,12
+1581,1989,Africa,Industrial accident,5
+1582,1989,Africa,Landslide,1
+1583,1989,Africa,Miscellaneous accident,4
+1584,1989,Africa,Storm,5
+1585,1989,Africa,Transport accident,28
+1586,1989,Americas,Earthquake,4
+1587,1989,Americas,Epidemic,2
+1588,1989,Americas,Extreme temperature,1
+1589,1989,Americas,Flood,14
+1590,1989,Americas,Industrial accident,4
+1591,1989,Americas,Landslide,4
+1592,1989,Americas,Mass movement (dry),1
+1593,1989,Americas,Miscellaneous accident,7
+1594,1989,Americas,Storm,30
+1595,1989,Americas,Transport accident,40
+1596,1989,Americas,Wildfire,2
+1597,1989,Asia,Drought,1
+1598,1989,Asia,Earthquake,11
+1599,1989,Asia,Epidemic,2
+1600,1989,Asia,Extreme temperature,4
+1601,1989,Asia,Flood,15
+1602,1989,Asia,Industrial accident,13
+1603,1989,Asia,Insect infestation,1
+1604,1989,Asia,Landslide,8
+1605,1989,Asia,Mass movement (dry),1
+1606,1989,Asia,Miscellaneous accident,11
+1607,1989,Asia,Storm,28
+1608,1989,Asia,Transport accident,76
+1609,1989,Asia,Volcanic activity,1
+1610,1989,Asia,Wildfire,1
+1611,1989,Europe,Drought,2
+1612,1989,Europe,Earthquake,1
+1613,1989,Europe,Flood,2
+1614,1989,Europe,Industrial accident,3
+1615,1989,Europe,Landslide,2
+1616,1989,Europe,Mass movement (dry),1
+1617,1989,Europe,Miscellaneous accident,6
+1618,1989,Europe,Storm,5
+1619,1989,Europe,Transport accident,22
+1620,1989,Oceania,Earthquake,1
+1621,1989,Oceania,Epidemic,1
+1622,1989,Oceania,Flood,3
+1623,1989,Oceania,Storm,5
+1624,1989,Oceania,Transport accident,4
+1625,1990,Africa,Drought,14
+1626,1990,Africa,Earthquake,5
+1627,1990,Africa,Epidemic,7
+1628,1990,Africa,Extreme temperature,1
+1629,1990,Africa,Flood,7
+1630,1990,Africa,Industrial accident,1
+1631,1990,Africa,Miscellaneous accident,3
+1632,1990,Africa,Storm,1
+1633,1990,Africa,Transport accident,17
+1634,1990,Americas,Drought,2
+1635,1990,Americas,Earthquake,7
+1636,1990,Americas,Epidemic,4
+1637,1990,Americas,Extreme temperature,4
+1638,1990,Americas,Flood,23
+1639,1990,Americas,Industrial accident,5
+1640,1990,Americas,Landslide,1
+1641,1990,Americas,Miscellaneous accident,4
+1642,1990,Americas,Storm,26
+1643,1990,Americas,Transport accident,28
+1644,1990,Americas,Volcanic activity,1
+1645,1990,Asia,Drought,1
+1646,1990,Asia,Earthquake,13
+1647,1990,Asia,Epidemic,6
+1648,1990,Asia,Extreme temperature,7
+1649,1990,Asia,Flood,24
+1650,1990,Asia,Industrial accident,14
+1651,1990,Asia,Landslide,2
+1652,1990,Asia,Mass movement (dry),2
+1653,1990,Asia,Miscellaneous accident,18
+1654,1990,Asia,Storm,35
+1655,1990,Asia,Transport accident,68
+1656,1990,Asia,Volcanic activity,1
+1657,1990,Asia,Wildfire,1
+1658,1990,Europe,Drought,3
+1659,1990,Europe,Earthquake,11
+1660,1990,Europe,Extreme temperature,1
+1661,1990,Europe,Flood,4
+1662,1990,Europe,Industrial accident,6
+1663,1990,Europe,Landslide,2
+1664,1990,Europe,Miscellaneous accident,4
+1665,1990,Europe,Storm,66
+1666,1990,Europe,Transport accident,18
+1667,1990,Europe,Wildfire,2
+1668,1990,Oceania,Earthquake,6
+1669,1990,Oceania,Epidemic,1
+1670,1990,Oceania,Flood,2
+1671,1990,Oceania,Industrial accident,1
+1672,1990,Oceania,Miscellaneous accident,1
+1673,1990,Oceania,Storm,9
+1674,1990,Oceania,Transport accident,3
+1675,1990,Oceania,Wildfire,1
+1676,1991,Africa,Drought,3
+1677,1991,Africa,Epidemic,18
+1678,1991,Africa,Flood,6
+1679,1991,Africa,Industrial accident,2
+1680,1991,Africa,Mass movement (dry),1
+1681,1991,Africa,Miscellaneous accident,3
+1682,1991,Africa,Storm,3
+1683,1991,Africa,Transport accident,30
+1684,1991,Africa,Volcanic activity,1
+1685,1991,Africa,Wildfire,1
+1686,1991,Americas,Drought,3
+1687,1991,Americas,Earthquake,10
+1688,1991,Americas,Epidemic,14
+1689,1991,Americas,Extreme temperature,1
+1690,1991,Americas,Flood,22
+1691,1991,Americas,Industrial accident,14
+1692,1991,Americas,Insect infestation,1
+1693,1991,Americas,Landslide,5
+1694,1991,Americas,Mass movement (dry),1
+1695,1991,Americas,Miscellaneous accident,8
+1696,1991,Americas,Storm,19
+1697,1991,Americas,Transport accident,29
+1698,1991,Americas,Volcanic activity,3
+1699,1991,Americas,Wildfire,4
+1700,1991,Asia,Drought,4
+1701,1991,Asia,Earthquake,13
+1702,1991,Asia,Epidemic,11
+1703,1991,Asia,Extreme temperature,3
+1704,1991,Asia,Flood,41
+1705,1991,Asia,Industrial accident,25
+1706,1991,Asia,Landslide,3
+1707,1991,Asia,Miscellaneous accident,16
+1708,1991,Asia,Storm,35
+1709,1991,Asia,Transport accident,68
+1710,1991,Asia,Volcanic activity,5
+1711,1991,Asia,Wildfire,1
+1712,1991,Europe,Drought,1
+1713,1991,Europe,Earthquake,6
+1714,1991,Europe,Extreme temperature,4
+1715,1991,Europe,Flood,5
+1716,1991,Europe,Industrial accident,11
+1717,1991,Europe,Mass movement (dry),1
+1718,1991,Europe,Miscellaneous accident,3
+1719,1991,Europe,Storm,5
+1720,1991,Europe,Transport accident,20
+1721,1991,Europe,Volcanic activity,1
+1722,1991,Europe,Wildfire,2
+1723,1991,Oceania,Drought,1
+1724,1991,Oceania,Flood,3
+1725,1991,Oceania,Landslide,1
+1726,1991,Oceania,Miscellaneous accident,1
+1727,1991,Oceania,Storm,4
+1728,1991,Oceania,Transport accident,2
+1729,1992,Africa,Complex Disasters,1
+1730,1992,Africa,Drought,2
+1731,1992,Africa,Earthquake,3
+1732,1992,Africa,Epidemic,11
+1733,1992,Africa,Extreme temperature,1
+1734,1992,Africa,Flood,1
+1735,1992,Africa,Industrial accident,3
+1736,1992,Africa,Insect infestation,1
+1737,1992,Africa,Miscellaneous accident,2
+1738,1992,Africa,Transport accident,24
+1739,1992,Americas,Drought,2
+1740,1992,Americas,Earthquake,6
+1741,1992,Americas,Epidemic,9
+1742,1992,Americas,Extreme temperature,3
+1743,1992,Americas,Flood,16
+1744,1992,Americas,Industrial accident,4
+1745,1992,Americas,Landslide,2
+1746,1992,Americas,Storm,32
+1747,1992,Americas,Transport accident,16
+1748,1992,Americas,Volcanic activity,2
+1749,1992,Americas,Wildfire,5
+1750,1992,Asia,Complex Disasters,1
+1751,1992,Asia,Drought,2
+1752,1992,Asia,Earthquake,13
+1753,1992,Asia,Epidemic,7
+1754,1992,Asia,Extreme temperature,3
+1755,1992,Asia,Flood,33
+1756,1992,Asia,Industrial accident,14
+1757,1992,Asia,Landslide,5
+1758,1992,Asia,Mass movement (dry),4
+1759,1992,Asia,Miscellaneous accident,8
+1760,1992,Asia,Storm,31
+1761,1992,Asia,Transport accident,52
+1762,1992,Asia,Volcanic activity,2
+1763,1992,Asia,Wildfire,1
+1764,1992,Europe,Drought,3
+1765,1992,Europe,Earthquake,3
+1766,1992,Europe,Epidemic,1
+1767,1992,Europe,Flood,8
+1768,1992,Europe,Industrial accident,4
+1769,1992,Europe,Landslide,1
+1770,1992,Europe,Miscellaneous accident,2
+1771,1992,Europe,Storm,4
+1772,1992,Europe,Transport accident,18
+1773,1992,Europe,Wildfire,2
+1774,1992,Oceania,Drought,2
+1775,1992,Oceania,Flood,1
+1776,1992,Oceania,Miscellaneous accident,1
+1777,1992,Oceania,Storm,9
+1778,1992,Oceania,Volcanic activity,1
+1779,1993,Africa,Drought,3
+1780,1993,Africa,Earthquake,1
+1781,1993,Africa,Epidemic,1
+1782,1993,Africa,Flood,10
+1783,1993,Africa,Industrial accident,2
+1784,1993,Africa,Landslide,1
+1785,1993,Africa,Mass movement (dry),1
+1786,1993,Africa,Miscellaneous accident,2
+1787,1993,Africa,Storm,4
+1788,1993,Africa,Transport accident,21
+1789,1993,Americas,Drought,2
+1790,1993,Americas,Earthquake,5
+1791,1993,Americas,Epidemic,2
+1792,1993,Americas,Extreme temperature,1
+1793,1993,Americas,Flood,25
+1794,1993,Americas,Industrial accident,4
+1795,1993,Americas,Landslide,6
+1796,1993,Americas,Mass movement (dry),1
+1797,1993,Americas,Miscellaneous accident,3
+1798,1993,Americas,Storm,32
+1799,1993,Americas,Transport accident,15
+1800,1993,Americas,Volcanic activity,2
+1801,1993,Americas,Wildfire,2
+1802,1993,Asia,Drought,2
+1803,1993,Asia,Earthquake,9
+1804,1993,Asia,Epidemic,1
+1805,1993,Asia,Flood,33
+1806,1993,Asia,Industrial accident,28
+1807,1993,Asia,Insect infestation,3
+1808,1993,Asia,Landslide,15
+1809,1993,Asia,Mass movement (dry),1
+1810,1993,Asia,Miscellaneous accident,19
+1811,1993,Asia,Storm,52
+1812,1993,Asia,Transport accident,65
+1813,1993,Asia,Volcanic activity,4
+1814,1993,Europe,Drought,2
+1815,1993,Europe,Earthquake,2
+1816,1993,Europe,Extreme temperature,2
+1817,1993,Europe,Flood,14
+1818,1993,Europe,Industrial accident,2
+1819,1993,Europe,Landslide,2
+1820,1993,Europe,Miscellaneous accident,1
+1821,1993,Europe,Storm,13
+1822,1993,Europe,Transport accident,11
+1823,1993,Oceania,Earthquake,3
+1824,1993,Oceania,Extreme temperature,1
+1825,1993,Oceania,Flood,2
+1826,1993,Oceania,Storm,7
+1827,1994,Africa,Drought,1
+1828,1994,Africa,Earthquake,2
+1829,1994,Africa,Epidemic,7
+1830,1994,Africa,Flood,18
+1831,1994,Africa,Landslide,1
+1832,1994,Africa,Miscellaneous accident,6
+1833,1994,Africa,Storm,8
+1834,1994,Africa,Transport accident,19
+1835,1994,Africa,Wildfire,1
+1836,1994,Americas,Drought,8
+1837,1994,Americas,Earthquake,4
+1838,1994,Americas,Extreme temperature,1
+1839,1994,Americas,Flood,12
+1840,1994,Americas,Industrial accident,10
+1841,1994,Americas,Landslide,3
+1842,1994,Americas,Miscellaneous accident,1
+1843,1994,Americas,Storm,17
+1844,1994,Americas,Transport accident,22
+1845,1994,Americas,Volcanic activity,2
+1846,1994,Americas,Wildfire,6
+1847,1994,Asia,Drought,3
+1848,1994,Asia,Earthquake,16
+1849,1994,Asia,Epidemic,2
+1850,1994,Asia,Extreme temperature,4
+1851,1994,Asia,Flood,39
+1852,1994,Asia,Industrial accident,15
+1853,1994,Asia,Landslide,7
+1854,1994,Asia,Miscellaneous accident,17
+1855,1994,Asia,Storm,40
+1856,1994,Asia,Transport accident,64
+1857,1994,Asia,Volcanic activity,3
+1858,1994,Asia,Wildfire,1
+1859,1994,Europe,Earthquake,1
+1860,1994,Europe,Epidemic,1
+1861,1994,Europe,Extreme temperature,2
+1862,1994,Europe,Flood,18
+1863,1994,Europe,Industrial accident,7
+1864,1994,Europe,Miscellaneous accident,7
+1865,1994,Europe,Storm,12
+1866,1994,Europe,Transport accident,21
+1867,1994,Europe,Wildfire,3
+1868,1994,Oceania,Earthquake,2
+1869,1994,Oceania,Extreme temperature,2
+1870,1994,Oceania,Flood,1
+1871,1994,Oceania,Industrial accident,2
+1872,1994,Oceania,Storm,4
+1873,1994,Oceania,Transport accident,2
+1874,1994,Oceania,Volcanic activity,1
+1875,1994,Oceania,Wildfire,2
+1876,1995,Africa,Drought,4
+1877,1995,Africa,Earthquake,1
+1878,1995,Africa,Epidemic,6
+1879,1995,Africa,Extreme temperature,1
+1880,1995,Africa,Flood,20
+1881,1995,Africa,Industrial accident,3
+1882,1995,Africa,Insect infestation,1
+1883,1995,Africa,Miscellaneous accident,3
+1884,1995,Africa,Storm,2
+1885,1995,Africa,Transport accident,23
+1886,1995,Africa,Volcanic activity,1
+1887,1995,Africa,Wildfire,1
+1888,1995,Americas,Drought,1
+1889,1995,Americas,Earthquake,9
+1890,1995,Americas,Epidemic,12
+1891,1995,Americas,Extreme temperature,5
+1892,1995,Americas,Flood,22
+1893,1995,Americas,Industrial accident,5
+1894,1995,Americas,Insect infestation,1
+1895,1995,Americas,Landslide,4
+1896,1995,Americas,Miscellaneous accident,2
+1897,1995,Americas,Storm,39
+1898,1995,Americas,Transport accident,21
+1899,1995,Americas,Volcanic activity,2
+1900,1995,Americas,Wildfire,2
+1901,1995,Asia,Complex Disasters,1
+1902,1995,Asia,Drought,1
+1903,1995,Asia,Earthquake,13
+1904,1995,Asia,Epidemic,4
+1905,1995,Asia,Extreme temperature,2
+1906,1995,Asia,Flood,45
+1907,1995,Asia,Industrial accident,19
+1908,1995,Asia,Insect infestation,2
+1909,1995,Asia,Landslide,9
+1910,1995,Asia,Miscellaneous accident,17
+1911,1995,Asia,Storm,26
+1912,1995,Asia,Transport accident,48
+1913,1995,Asia,Volcanic activity,1
+1914,1995,Asia,Wildfire,3
+1915,1995,Europe,Earthquake,3
+1916,1995,Europe,Epidemic,3
+1917,1995,Europe,Extreme temperature,4
+1918,1995,Europe,Flood,7
+1919,1995,Europe,Industrial accident,18
+1920,1995,Europe,Landslide,3
+1921,1995,Europe,Miscellaneous accident,5
+1922,1995,Europe,Storm,10
+1923,1995,Europe,Transport accident,14
+1924,1995,Europe,Wildfire,1
+1925,1995,Oceania,Extreme temperature,1
+1926,1995,Oceania,Storm,4
+1927,1995,Oceania,Transport accident,1
+1928,1995,Oceania,Volcanic activity,1
+1929,1996,Africa,Drought,5
+1930,1996,Africa,Epidemic,29
+1931,1996,Africa,Extreme temperature,2
+1932,1996,Africa,Flood,17
+1933,1996,Africa,Landslide,1
+1934,1996,Africa,Miscellaneous accident,3
+1935,1996,Africa,Storm,6
+1936,1996,Africa,Transport accident,32
+1937,1996,Americas,Drought,1
+1938,1996,Americas,Earthquake,3
+1939,1996,Americas,Epidemic,1
+1940,1996,Americas,Flood,21
+1941,1996,Americas,Industrial accident,5
+1942,1996,Americas,Landslide,6
+1943,1996,Americas,Miscellaneous accident,9
+1944,1996,Americas,Storm,30
+1945,1996,Americas,Transport accident,28
+1946,1996,Americas,Volcanic activity,2
+1947,1996,Americas,Wildfire,2
+1948,1996,Asia,Drought,1
+1949,1996,Asia,Earthquake,8
+1950,1996,Asia,Epidemic,13
+1951,1996,Asia,Extreme temperature,2
+1952,1996,Asia,Flood,38
+1953,1996,Asia,Industrial accident,23
+1954,1996,Asia,Landslide,12
+1955,1996,Asia,Miscellaneous accident,21
+1956,1996,Asia,Storm,29
+1957,1996,Asia,Transport accident,53
+1958,1996,Asia,Wildfire,2
+1959,1996,Europe,Earthquake,2
+1960,1996,Europe,Epidemic,2
+1961,1996,Europe,Extreme temperature,1
+1962,1996,Europe,Flood,14
+1963,1996,Europe,Industrial accident,7
+1964,1996,Europe,Landslide,3
+1965,1996,Europe,Miscellaneous accident,4
+1966,1996,Europe,Storm,5
+1967,1996,Europe,Transport accident,21
+1968,1996,Europe,Volcanic activity,1
+1969,1996,Europe,Wildfire,1
+1970,1996,Oceania,Flood,2
+1971,1996,Oceania,Landslide,2
+1972,1996,Oceania,Miscellaneous accident,2
+1973,1996,Oceania,Storm,7
+1974,1996,Oceania,Transport accident,2
+1975,1996,Oceania,Volcanic activity,2
+1976,1997,Africa,Drought,5
+1977,1997,Africa,Earthquake,1
+1978,1997,Africa,Epidemic,36
+1979,1997,Africa,Flood,18
+1980,1997,Africa,Industrial accident,2
+1981,1997,Africa,Insect infestation,1
+1982,1997,Africa,Landslide,1
+1983,1997,Africa,Miscellaneous accident,4
+1984,1997,Africa,Storm,4
+1985,1997,Africa,Transport accident,19
+1986,1997,Africa,Wildfire,1
+1987,1997,Americas,Drought,4
+1988,1997,Americas,Earthquake,5
+1989,1997,Americas,Epidemic,5
+1990,1997,Americas,Extreme temperature,2
+1991,1997,Americas,Flood,22
+1992,1997,Americas,Industrial accident,5
+1993,1997,Americas,Landslide,2
+1994,1997,Americas,Miscellaneous accident,5
+1995,1997,Americas,Storm,34
+1996,1997,Americas,Transport accident,17
+1997,1997,Americas,Volcanic activity,3
+1998,1997,Americas,Wildfire,5
+1999,1997,Asia,Drought,3
+2000,1997,Asia,Earthquake,15
+2001,1997,Asia,Epidemic,16
+2002,1997,Asia,Extreme temperature,6
+2003,1997,Asia,Flood,36
+2004,1997,Asia,Industrial accident,22
+2005,1997,Asia,Landslide,8
+2006,1997,Asia,Miscellaneous accident,16
+2007,1997,Asia,Storm,28
+2008,1997,Asia,Transport accident,81
+2009,1997,Asia,Volcanic activity,1
+2010,1997,Asia,Wildfire,3
+2011,1997,Europe,Drought,3
+2012,1997,Europe,Earthquake,1
+2013,1997,Europe,Epidemic,4
+2014,1997,Europe,Extreme temperature,5
+2015,1997,Europe,Flood,17
+2016,1997,Europe,Industrial accident,6
+2017,1997,Europe,Landslide,1
+2018,1997,Europe,Miscellaneous accident,5
+2019,1997,Europe,Storm,7
+2020,1997,Europe,Transport accident,18
+2021,1997,Europe,Wildfire,4
+2022,1997,Oceania,Drought,2
+2023,1997,Oceania,Earthquake,1
+2024,1997,Oceania,Epidemic,1
+2025,1997,Oceania,Flood,2
+2026,1997,Oceania,Landslide,1
+2027,1997,Oceania,Storm,6
+2028,1997,Oceania,Transport accident,1
+2029,1997,Oceania,Wildfire,3
+2030,1998,Africa,Complex Disasters,1
+2031,1998,Africa,Drought,8
+2032,1998,Africa,Epidemic,34
+2033,1998,Africa,Flood,21
+2034,1998,Africa,Industrial accident,3
+2035,1998,Africa,Insect infestation,1
+2036,1998,Africa,Landslide,1
+2037,1998,Africa,Miscellaneous accident,3
+2038,1998,Africa,Storm,1
+2039,1998,Africa,Transport accident,33
+2040,1998,Africa,Wildfire,3
+2041,1998,Americas,Drought,5
+2042,1998,Americas,Earthquake,3
+2043,1998,Americas,Epidemic,17
+2044,1998,Americas,Extreme temperature,2
+2045,1998,Americas,Flood,18
+2046,1998,Americas,Industrial accident,14
+2047,1998,Americas,Landslide,6
+2048,1998,Americas,Miscellaneous accident,5
+2049,1998,Americas,Storm,41
+2050,1998,Americas,Transport accident,19
+2051,1998,Americas,Volcanic activity,3
+2052,1998,Americas,Wildfire,8
+2053,1998,Asia,Complex Disasters,1
+2054,1998,Asia,Drought,3
+2055,1998,Asia,Earthquake,21
+2056,1998,Asia,Epidemic,22
+2057,1998,Asia,Extreme temperature,4
+2058,1998,Asia,Flood,35
+2059,1998,Asia,Industrial accident,20
+2060,1998,Asia,Landslide,11
+2061,1998,Asia,Miscellaneous accident,16
+2062,1998,Asia,Storm,32
+2063,1998,Asia,Transport accident,85
+2064,1998,Asia,Volcanic activity,1
+2065,1998,Asia,Wildfire,4
+2066,1998,Europe,Drought,1
+2067,1998,Europe,Earthquake,5
+2068,1998,Europe,Extreme temperature,6
+2069,1998,Europe,Flood,13
+2070,1998,Europe,Industrial accident,6
+2071,1998,Europe,Landslide,2
+2072,1998,Europe,Miscellaneous accident,5
+2073,1998,Europe,Storm,11
+2074,1998,Europe,Transport accident,11
+2075,1998,Europe,Wildfire,3
+2076,1998,Oceania,Drought,3
+2077,1998,Oceania,Earthquake,1
+2078,1998,Oceania,Epidemic,1
+2079,1998,Oceania,Flood,7
+2080,1998,Oceania,Landslide,2
+2081,1998,Oceania,Storm,3
+2082,1999,Africa,Drought,11
+2083,1999,Africa,Earthquake,1
+2084,1999,Africa,Epidemic,49
+2085,1999,Africa,Flood,34
+2086,1999,Africa,Industrial accident,3
+2087,1999,Africa,Miscellaneous accident,10
+2088,1999,Africa,Storm,9
+2089,1999,Africa,Transport accident,72
+2090,1999,Africa,Volcanic activity,1
+2091,1999,Africa,Wildfire,1
+2092,1999,Americas,Drought,4
+2093,1999,Americas,Earthquake,7
+2094,1999,Americas,Epidemic,4
+2095,1999,Americas,Extreme temperature,2
+2096,1999,Americas,Flood,23
+2097,1999,Americas,Industrial accident,3
+2098,1999,Americas,Landslide,4
+2099,1999,Americas,Miscellaneous accident,5
+2100,1999,Americas,Storm,35
+2101,1999,Americas,Transport accident,42
+2102,1999,Americas,Volcanic activity,4
+2103,1999,Americas,Wildfire,10
+2104,1999,Asia,Drought,9
+2105,1999,Asia,Earthquake,20
+2106,1999,Asia,Epidemic,16
+2107,1999,Asia,Extreme temperature,2
+2108,1999,Asia,Flood,46
+2109,1999,Asia,Industrial accident,27
+2110,1999,Asia,Landslide,8
+2111,1999,Asia,Miscellaneous accident,27
+2112,1999,Asia,Storm,33
+2113,1999,Asia,Transport accident,86
+2114,1999,Asia,Wildfire,6
+2115,1999,Europe,Drought,1
+2116,1999,Europe,Earthquake,4
+2117,1999,Europe,Epidemic,6
+2118,1999,Europe,Extreme temperature,4
+2119,1999,Europe,Flood,17
+2120,1999,Europe,Industrial accident,4
+2121,1999,Europe,Landslide,6
+2122,1999,Europe,Miscellaneous accident,10
+2123,1999,Europe,Storm,22
+2124,1999,Europe,Transport accident,10
+2125,1999,Europe,Wildfire,4
+2126,1999,Oceania,Drought,1
+2127,1999,Oceania,Earthquake,1
+2128,1999,Oceania,Epidemic,1
+2129,1999,Oceania,Flood,2
+2130,1999,Oceania,Storm,7
+2131,1999,Oceania,Transport accident,4
+2132,1999,Oceania,Wildfire,1
+2133,2000,Africa,Drought,1
+2134,2000,Africa,Earthquake,1
+2135,2000,Africa,Epidemic,63
+2136,2000,Africa,Extreme temperature,2
+2137,2000,Africa,Flood,37
+2138,2000,Africa,Industrial accident,15
+2139,2000,Africa,Landslide,4
+2140,2000,Africa,Miscellaneous accident,11
+2141,2000,Africa,Storm,13
+2142,2000,Africa,Transport accident,106
+2143,2000,Africa,Wildfire,2
+2144,2000,Americas,Drought,7
+2145,2000,Americas,Earthquake,4
+2146,2000,Americas,Epidemic,3
+2147,2000,Americas,Extreme temperature,8
+2148,2000,Americas,Flood,39
+2149,2000,Americas,Industrial accident,1
+2150,2000,Americas,Insect infestation,1
+2151,2000,Americas,Landslide,6
+2152,2000,Americas,Miscellaneous accident,12
+2153,2000,Americas,Storm,22
+2154,2000,Americas,Transport accident,39
+2155,2000,Americas,Volcanic activity,2
+2156,2000,Americas,Wildfire,9
+2157,2000,Asia,Drought,13
+2158,2000,Asia,Earthquake,20
+2159,2000,Asia,Epidemic,37
+2160,2000,Asia,Extreme temperature,8
+2161,2000,Asia,Flood,45
+2162,2000,Asia,Industrial accident,30
+2163,2000,Asia,Landslide,13
+2164,2000,Asia,Mass movement (dry),1
+2165,2000,Asia,Miscellaneous accident,23
+2166,2000,Asia,Storm,48
+2167,2000,Asia,Transport accident,100
+2168,2000,Asia,Volcanic activity,3
+2169,2000,Asia,Wildfire,5
+2170,2000,Europe,Drought,4
+2171,2000,Europe,Earthquake,4
+2172,2000,Europe,Epidemic,8
+2173,2000,Europe,Extreme temperature,12
+2174,2000,Europe,Flood,33
+2175,2000,Europe,Industrial accident,5
+2176,2000,Europe,Landslide,5
+2177,2000,Europe,Miscellaneous accident,10
+2178,2000,Europe,Storm,15
+2179,2000,Europe,Transport accident,15
+2180,2000,Europe,Wildfire,13
+2181,2000,Oceania,Earthquake,1
+2182,2000,Oceania,Epidemic,2
+2183,2000,Oceania,Flood,3
+2184,2000,Oceania,Insect infestation,1
+2185,2000,Oceania,Miscellaneous accident,2
+2186,2000,Oceania,Storm,4
+2187,2000,Oceania,Transport accident,1
+2188,2000,Oceania,Wildfire,1
+2189,2001,Africa,Drought,12
+2190,2001,Africa,Earthquake,1
+2191,2001,Africa,Epidemic,54
+2192,2001,Africa,Flood,36
+2193,2001,Africa,Industrial accident,6
+2194,2001,Africa,Landslide,3
+2195,2001,Africa,Miscellaneous accident,15
+2196,2001,Africa,Storm,6
+2197,2001,Africa,Transport accident,95
+2198,2001,Africa,Volcanic activity,1
+2199,2001,Africa,Wildfire,2
+2200,2001,Americas,Drought,5
+2201,2001,Americas,Earthquake,7
+2202,2001,Americas,Epidemic,1
+2203,2001,Americas,Extreme temperature,4
+2204,2001,Americas,Flood,29
+2205,2001,Americas,Industrial accident,4
+2206,2001,Americas,Landslide,3
+2207,2001,Americas,Miscellaneous accident,5
+2208,2001,Americas,Storm,39
+2209,2001,Americas,Transport accident,25
+2210,2001,Americas,Volcanic activity,1
+2211,2001,Americas,Wildfire,6
+2212,2001,Asia,Drought,5
+2213,2001,Asia,Earthquake,15
+2214,2001,Asia,Epidemic,10
+2215,2001,Asia,Extreme temperature,8
+2216,2001,Asia,Flood,62
+2217,2001,Asia,Industrial accident,36
+2218,2001,Asia,Insect infestation,1
+2219,2001,Asia,Landslide,18
+2220,2001,Asia,Miscellaneous accident,24
+2221,2001,Asia,Storm,44
+2222,2001,Asia,Transport accident,81
+2223,2001,Asia,Volcanic activity,2
+2224,2001,Europe,Earthquake,1
+2225,2001,Europe,Epidemic,3
+2226,2001,Europe,Extreme temperature,10
+2227,2001,Europe,Flood,25
+2228,2001,Europe,Industrial accident,8
+2229,2001,Europe,Insect infestation,1
+2230,2001,Europe,Miscellaneous accident,6
+2231,2001,Europe,Storm,8
+2232,2001,Europe,Transport accident,20
+2233,2001,Europe,Volcanic activity,1
+2234,2001,Europe,Wildfire,4
+2235,2001,Oceania,Earthquake,1
+2236,2001,Oceania,Epidemic,1
+2237,2001,Oceania,Extreme temperature,1
+2238,2001,Oceania,Flood,5
+2239,2001,Oceania,Storm,8
+2240,2001,Oceania,Volcanic activity,1
+2241,2001,Oceania,Wildfire,2
+2242,2002,Africa,Drought,9
+2243,2002,Africa,Earthquake,3
+2244,2002,Africa,Epidemic,50
+2245,2002,Africa,Extreme temperature,1
+2246,2002,Africa,Flood,32
+2247,2002,Africa,Industrial accident,5
+2248,2002,Africa,Landslide,1
+2249,2002,Africa,Miscellaneous accident,16
+2250,2002,Africa,Storm,14
+2251,2002,Africa,Transport accident,106
+2252,2002,Africa,Volcanic activity,1
+2253,2002,Africa,Wildfire,2
+2254,2002,Americas,Complex Disasters,1
+2255,2002,Americas,Drought,5
+2256,2002,Americas,Earthquake,1
+2257,2002,Americas,Epidemic,11
+2258,2002,Americas,Extreme temperature,4
+2259,2002,Americas,Flood,41
+2260,2002,Americas,Industrial accident,1
+2261,2002,Americas,Landslide,4
+2262,2002,Americas,Mass movement (dry),1
+2263,2002,Americas,Miscellaneous accident,9
+2264,2002,Americas,Storm,35
+2265,2002,Americas,Transport accident,35
+2266,2002,Americas,Volcanic activity,4
+2267,2002,Americas,Wildfire,12
+2268,2002,Asia,Drought,8
+2269,2002,Asia,Earthquake,24
+2270,2002,Asia,Epidemic,32
+2271,2002,Asia,Extreme temperature,7
+2272,2002,Asia,Flood,59
+2273,2002,Asia,Industrial accident,37
+2274,2002,Asia,Landslide,11
+2275,2002,Asia,Miscellaneous accident,24
+2276,2002,Asia,Storm,42
+2277,2002,Asia,Transport accident,97
+2278,2002,Asia,Volcanic activity,1
+2279,2002,Asia,Wildfire,4
+2280,2002,Europe,Drought,1
+2281,2002,Europe,Earthquake,5
+2282,2002,Europe,Epidemic,15
+2283,2002,Europe,Extreme temperature,3
+2284,2002,Europe,Flood,38
+2285,2002,Europe,Industrial accident,5
+2286,2002,Europe,Landslide,3
+2287,2002,Europe,Miscellaneous accident,3
+2288,2002,Europe,Storm,22
+2289,2002,Europe,Transport accident,22
+2290,2002,Europe,Wildfire,3
+2291,2002,Oceania,Drought,1
+2292,2002,Oceania,Earthquake,4
+2293,2002,Oceania,Epidemic,4
+2294,2002,Oceania,Flood,2
+2295,2002,Oceania,Landslide,1
+2296,2002,Oceania,Storm,9
+2297,2002,Oceania,Volcanic activity,1
+2298,2002,Oceania,Wildfire,1
+2299,2003,Africa,Drought,5
+2300,2003,Africa,Earthquake,2
+2301,2003,Africa,Epidemic,24
+2302,2003,Africa,Extreme temperature,1
+2303,2003,Africa,Flood,40
+2304,2003,Africa,Industrial accident,2
+2305,2003,Africa,Landslide,1
+2306,2003,Africa,Miscellaneous accident,8
+2307,2003,Africa,Storm,11
+2308,2003,Africa,Transport accident,92
+2309,2003,Americas,Drought,2
+2310,2003,Americas,Earthquake,6
+2311,2003,Americas,Epidemic,2
+2312,2003,Americas,Extreme temperature,2
+2313,2003,Americas,Flood,41
+2314,2003,Americas,Industrial accident,2
+2315,2003,Americas,Landslide,5
+2316,2003,Americas,Miscellaneous accident,6
+2317,2003,Americas,Storm,23
+2318,2003,Americas,Transport accident,30
+2319,2003,Americas,Volcanic activity,1
+2320,2003,Americas,Wildfire,7
+2321,2003,Asia,Drought,3
+2322,2003,Asia,Earthquake,29
+2323,2003,Asia,Epidemic,5
+2324,2003,Asia,Extreme temperature,6
+2325,2003,Asia,Flood,57
+2326,2003,Asia,Industrial accident,45
+2327,2003,Asia,Landslide,13
+2328,2003,Asia,Miscellaneous accident,24
+2329,2003,Asia,Storm,34
+2330,2003,Asia,Transport accident,96
+2331,2003,Asia,Wildfire,1
+2332,2003,Europe,Drought,4
+2333,2003,Europe,Earthquake,3
+2334,2003,Europe,Extreme temperature,16
+2335,2003,Europe,Flood,15
+2336,2003,Europe,Industrial accident,3
+2337,2003,Europe,Miscellaneous accident,7
+2338,2003,Europe,Storm,7
+2339,2003,Europe,Transport accident,18
+2340,2003,Europe,Wildfire,5
+2341,2003,Oceania,Epidemic,1
+2342,2003,Oceania,Flood,5
+2343,2003,Oceania,Landslide,2
+2344,2003,Oceania,Storm,11
+2345,2003,Oceania,Transport accident,1
+2346,2003,Oceania,Volcanic activity,1
+2347,2003,Oceania,Wildfire,1
+2348,2004,Africa,Drought,5
+2349,2004,Africa,Earthquake,8
+2350,2004,Africa,Epidemic,29
+2351,2004,Africa,Flood,26
+2352,2004,Africa,Industrial accident,6
+2353,2004,Africa,Insect infestation,11
+2354,2004,Africa,Miscellaneous accident,15
+2355,2004,Africa,Storm,7
+2356,2004,Africa,Transport accident,79
+2357,2004,Africa,Wildfire,1
+2358,2004,Americas,Drought,5
+2359,2004,Americas,Earthquake,5
+2360,2004,Americas,Extreme temperature,8
+2361,2004,Americas,Flood,25
+2362,2004,Americas,Industrial accident,3
+2363,2004,Americas,Landslide,3
+2364,2004,Americas,Miscellaneous accident,9
+2365,2004,Americas,Storm,40
+2366,2004,Americas,Transport accident,28
+2367,2004,Americas,Wildfire,3
+2368,2004,Asia,Earthquake,26
+2369,2004,Asia,Epidemic,14
+2370,2004,Asia,Extreme temperature,3
+2371,2004,Asia,Flood,56
+2372,2004,Asia,Industrial accident,66
+2373,2004,Asia,Landslide,12
+2374,2004,Asia,Mass movement (dry),1
+2375,2004,Asia,Miscellaneous accident,28
+2376,2004,Asia,Storm,51
+2377,2004,Asia,Transport accident,86
+2378,2004,Asia,Volcanic activity,4
+2379,2004,Asia,Wildfire,1
+2380,2004,Europe,Drought,1
+2381,2004,Europe,Earthquake,3
+2382,2004,Europe,Extreme temperature,5
+2383,2004,Europe,Flood,14
+2384,2004,Europe,Industrial accident,6
+2385,2004,Europe,Miscellaneous accident,10
+2386,2004,Europe,Storm,13
+2387,2004,Europe,Transport accident,22
+2388,2004,Europe,Wildfire,3
+2389,2004,Oceania,Flood,7
+2390,2004,Oceania,Insect infestation,1
+2391,2004,Oceania,Storm,13
+2392,2004,Oceania,Transport accident,1
+2393,2004,Oceania,Volcanic activity,1
+2394,2005,Africa,Drought,13
+2395,2005,Africa,Earthquake,3
+2396,2005,Africa,Epidemic,43
+2397,2005,Africa,Flood,32
+2398,2005,Africa,Industrial accident,8
+2399,2005,Africa,Miscellaneous accident,13
+2400,2005,Africa,Storm,6
+2401,2005,Africa,Transport accident,88
+2402,2005,Africa,Volcanic activity,3
+2403,2005,Americas,Complex Disasters,1
+2404,2005,Americas,Drought,2
+2405,2005,Americas,Earthquake,4
+2406,2005,Americas,Extreme temperature,1
+2407,2005,Americas,Flood,34
+2408,2005,Americas,Industrial accident,1
+2409,2005,Americas,Landslide,2
+2410,2005,Americas,Miscellaneous accident,11
+2411,2005,Americas,Storm,44
+2412,2005,Americas,Transport accident,29
+2413,2005,Americas,Volcanic activity,2
+2414,2005,Americas,Wildfire,5
+2415,2005,Asia,Drought,5
+2416,2005,Asia,Earthquake,17
+2417,2005,Asia,Epidemic,13
+2418,2005,Asia,Extreme temperature,8
+2419,2005,Asia,Flood,84
+2420,2005,Asia,Industrial accident,65
+2421,2005,Asia,Landslide,10
+2422,2005,Asia,Miscellaneous accident,32
+2423,2005,Asia,Storm,47
+2424,2005,Asia,Transport accident,98
+2425,2005,Asia,Volcanic activity,1
+2426,2005,Asia,Wildfire,4
+2427,2005,Europe,Extreme temperature,31
+2428,2005,Europe,Flood,39
+2429,2005,Europe,Industrial accident,2
+2430,2005,Europe,Landslide,1
+2431,2005,Europe,Miscellaneous accident,10
+2432,2005,Europe,Storm,26
+2433,2005,Europe,Transport accident,13
+2434,2005,Europe,Wildfire,3
+2435,2005,Oceania,Earthquake,1
+2436,2005,Oceania,Flood,4
+2437,2005,Oceania,Storm,7
+2438,2005,Oceania,Transport accident,1
+2439,2005,Oceania,Volcanic activity,2
+2440,2005,Oceania,Wildfire,1
+2441,2006,Africa,Drought,3
+2442,2006,Africa,Earthquake,2
+2443,2006,Africa,Epidemic,49
+2444,2006,Africa,Flood,56
+2445,2006,Africa,Industrial accident,9
+2446,2006,Africa,Insect infestation,1
+2447,2006,Africa,Landslide,1
+2448,2006,Africa,Miscellaneous accident,10
+2449,2006,Africa,Storm,5
+2450,2006,Africa,Transport accident,101
+2451,2006,Africa,Volcanic activity,1
+2452,2006,Americas,Drought,1
+2453,2006,Americas,Earthquake,2
+2454,2006,Americas,Epidemic,2
+2455,2006,Americas,Extreme temperature,5
+2456,2006,Americas,Flood,36
+2457,2006,Americas,Industrial accident,3
+2458,2006,Americas,Landslide,2
+2459,2006,Americas,Miscellaneous accident,2
+2460,2006,Americas,Storm,17
+2461,2006,Americas,Transport accident,24
+2462,2006,Americas,Volcanic activity,6
+2463,2006,Americas,Wildfire,4
+2464,2006,Asia,Drought,3
+2465,2006,Asia,Earthquake,18
+2466,2006,Asia,Epidemic,3
+2467,2006,Asia,Extreme temperature,2
+2468,2006,Asia,Flood,99
+2469,2006,Asia,Industrial accident,48
+2470,2006,Asia,Landslide,14
+2471,2006,Asia,Mass movement (dry),1
+2472,2006,Asia,Miscellaneous accident,17
+2473,2006,Asia,Storm,41
+2474,2006,Asia,Transport accident,63
+2475,2006,Asia,Volcanic activity,2
+2476,2006,Asia,Wildfire,1
+2477,2006,Europe,Drought,1
+2478,2006,Europe,Earthquake,2
+2479,2006,Europe,Extreme temperature,7
+2480,2006,Europe,Flood,30
+2481,2006,Europe,Industrial accident,4
+2482,2006,Europe,Landslide,1
+2483,2006,Europe,Miscellaneous accident,4
+2484,2006,Europe,Storm,9
+2485,2006,Europe,Transport accident,16
+2486,2006,Europe,Wildfire,1
+2487,2006,Oceania,Drought,1
+2488,2006,Oceania,Flood,5
+2489,2006,Oceania,Landslide,2
+2490,2006,Oceania,Storm,4
+2491,2006,Oceania,Volcanic activity,3
+2492,2006,Oceania,Wildfire,3
+2493,2007,Africa,Complex Disasters,1
+2494,2007,Africa,Drought,6
+2495,2007,Africa,Epidemic,24
+2496,2007,Africa,Extreme temperature,1
+2497,2007,Africa,Flood,64
+2498,2007,Africa,Industrial accident,5
+2499,2007,Africa,Landslide,1
+2500,2007,Africa,Miscellaneous accident,11
+2501,2007,Africa,Storm,9
+2502,2007,Africa,Transport accident,80
+2503,2007,Africa,Volcanic activity,1
+2504,2007,Africa,Wildfire,3
+2505,2007,Americas,Drought,2
+2506,2007,Americas,Earthquake,9
+2507,2007,Americas,Epidemic,1
+2508,2007,Americas,Extreme temperature,5
+2509,2007,Americas,Flood,39
+2510,2007,Americas,Industrial accident,5
+2511,2007,Americas,Landslide,2
+2512,2007,Americas,Miscellaneous accident,5
+2513,2007,Americas,Storm,40
+2514,2007,Americas,Transport accident,21
+2515,2007,Americas,Volcanic activity,1
+2516,2007,Americas,Wildfire,4
+2517,2007,Asia,Drought,2
+2518,2007,Asia,Earthquake,9
+2519,2007,Asia,Epidemic,10
+2520,2007,Asia,Extreme temperature,7
+2521,2007,Asia,Flood,93
+2522,2007,Asia,Industrial accident,37
+2523,2007,Asia,Landslide,7
+2524,2007,Asia,Miscellaneous accident,18
+2525,2007,Asia,Storm,29
+2526,2007,Asia,Transport accident,65
+2527,2007,Asia,Volcanic activity,4
+2528,2007,Asia,Wildfire,1
+2529,2007,Europe,Drought,1
+2530,2007,Europe,Earthquake,2
+2531,2007,Europe,Extreme temperature,12
+2532,2007,Europe,Flood,19
+2533,2007,Europe,Industrial accident,6
+2534,2007,Europe,Miscellaneous accident,9
+2535,2007,Europe,Storm,22
+2536,2007,Europe,Transport accident,13
+2537,2007,Europe,Wildfire,10
+2538,2007,Oceania,Earthquake,1
+2539,2007,Oceania,Flood,3
+2540,2007,Oceania,Storm,5
+2541,2007,Oceania,Transport accident,2
+2542,2008,Africa,Drought,9
+2543,2008,Africa,Earthquake,2
+2544,2008,Africa,Epidemic,33
+2545,2008,Africa,Flood,47
+2546,2008,Africa,Industrial accident,4
+2547,2008,Africa,Landslide,1
+2548,2008,Africa,Mass movement (dry),1
+2549,2008,Africa,Miscellaneous accident,8
+2550,2008,Africa,Storm,10
+2551,2008,Africa,Transport accident,81
+2552,2008,Africa,Wildfire,2
+2553,2008,Americas,Drought,2
+2554,2008,Americas,Earthquake,2
+2555,2008,Americas,Epidemic,6
+2556,2008,Americas,Extreme temperature,1
+2557,2008,Americas,Flood,35
+2558,2008,Americas,Industrial accident,2
+2559,2008,Americas,Landslide,3
+2560,2008,Americas,Mass movement (dry),1
+2561,2008,Americas,Miscellaneous accident,4
+2562,2008,Americas,Storm,44
+2563,2008,Americas,Transport accident,41
+2564,2008,Americas,Volcanic activity,5
+2565,2008,Americas,Wildfire,2
+2566,2008,Asia,Complex Disasters,2
+2567,2008,Asia,Drought,5
+2568,2008,Asia,Earthquake,17
+2569,2008,Asia,Epidemic,3
+2570,2008,Asia,Extreme temperature,6
+2571,2008,Asia,Flood,65
+2572,2008,Asia,Industrial accident,29
+2573,2008,Asia,Landslide,8
+2574,2008,Asia,Miscellaneous accident,15
+2575,2008,Asia,Storm,42
+2576,2008,Asia,Transport accident,54
+2577,2008,Asia,Volcanic activity,1
+2578,2008,Asia,Wildfire,1
+2579,2008,Europe,Earthquake,2
+2580,2008,Europe,Extreme temperature,9
+2581,2008,Europe,Flood,9
+2582,2008,Europe,Industrial accident,4
+2583,2008,Europe,Miscellaneous accident,3
+2584,2008,Europe,Storm,13
+2585,2008,Europe,Transport accident,16
+2586,2008,Oceania,Flood,9
+2587,2008,Oceania,Mass movement (dry),1
+2588,2008,Oceania,Storm,2
+2589,2008,Oceania,Volcanic activity,1
+2590,2009,Africa,Drought,5
+2591,2009,Africa,Earthquake,2
+2592,2009,Africa,Epidemic,28
+2593,2009,Africa,Flood,45
+2594,2009,Africa,Industrial accident,8
+2595,2009,Africa,Insect infestation,1
+2596,2009,Africa,Landslide,1
+2597,2009,Africa,Miscellaneous accident,7
+2598,2009,Africa,Storm,13
+2599,2009,Africa,Transport accident,62
+2600,2009,Africa,Wildfire,1
+2601,2009,Americas,Drought,7
+2602,2009,Americas,Earthquake,2
+2603,2009,Americas,Epidemic,9
+2604,2009,Americas,Extreme temperature,2
+2605,2009,Americas,Flood,34
+2606,2009,Americas,Industrial accident,2
+2607,2009,Americas,Landslide,8
+2608,2009,Americas,Mass movement (dry),1
+2609,2009,Americas,Miscellaneous accident,3
+2610,2009,Americas,Storm,19
+2611,2009,Americas,Transport accident,31
+2612,2009,Americas,Wildfire,2
+2613,2009,Asia,Drought,6
+2614,2009,Asia,Earthquake,13
+2615,2009,Asia,Epidemic,3
+2616,2009,Asia,Extreme temperature,6
+2617,2009,Asia,Flood,52
+2618,2009,Asia,Industrial accident,30
+2619,2009,Asia,Landslide,19
+2620,2009,Asia,Miscellaneous accident,12
+2621,2009,Asia,Storm,43
+2622,2009,Asia,Transport accident,51
+2623,2009,Asia,Volcanic activity,1
+2624,2009,Europe,Earthquake,2
+2625,2009,Europe,Extreme temperature,11
+2626,2009,Europe,Flood,15
+2627,2009,Europe,Industrial accident,4
+2628,2009,Europe,Miscellaneous accident,5
+2629,2009,Europe,Storm,9
+2630,2009,Europe,Transport accident,12
+2631,2009,Europe,Wildfire,5
+2632,2009,Oceania,Earthquake,3
+2633,2009,Oceania,Epidemic,4
+2634,2009,Oceania,Extreme temperature,1
+2635,2009,Oceania,Flood,5
+2636,2009,Oceania,Landslide,1
+2637,2009,Oceania,Storm,3
+2638,2009,Oceania,Transport accident,3
+2639,2009,Oceania,Volcanic activity,1
+2640,2009,Oceania,Wildfire,1
+2641,2010,Africa,Drought,10
+2642,2010,Africa,Epidemic,26
+2643,2010,Africa,Flood,52
+2644,2010,Africa,Industrial accident,4
+2645,2010,Africa,Insect infestation,1
+2646,2010,Africa,Landslide,7
+2647,2010,Africa,Miscellaneous accident,7
+2648,2010,Africa,Storm,6
+2649,2010,Africa,Transport accident,43
+2650,2010,Africa,Wildfire,1
+2651,2010,Americas,Drought,8
+2652,2010,Americas,Earthquake,4
+2653,2010,Americas,Epidemic,12
+2654,2010,Americas,Extreme temperature,7
+2655,2010,Americas,Flood,33
+2656,2010,Americas,Industrial accident,5
+2657,2010,Americas,Landslide,6
+2658,2010,Americas,Miscellaneous accident,4
+2659,2010,Americas,Storm,37
+2660,2010,Americas,Transport accident,33
+2661,2010,Americas,Volcanic activity,2
+2662,2010,Americas,Wildfire,2
+2663,2010,Asia,Drought,2
+2664,2010,Asia,Earthquake,17
+2665,2010,Asia,Epidemic,6
+2666,2010,Asia,Extreme temperature,2
+2667,2010,Asia,Flood,61
+2668,2010,Asia,Industrial accident,24
+2669,2010,Asia,Landslide,19
+2670,2010,Asia,Miscellaneous accident,33
+2671,2010,Asia,Storm,30
+2672,2010,Asia,Transport accident,60
+2673,2010,Asia,Volcanic activity,3
+2674,2010,Asia,Wildfire,2
+2675,2010,Europe,Drought,1
+2676,2010,Europe,Earthquake,1
+2677,2010,Europe,Extreme temperature,19
+2678,2010,Europe,Flood,32
+2679,2010,Europe,Industrial accident,2
+2680,2010,Europe,Miscellaneous accident,3
+2681,2010,Europe,Storm,14
+2682,2010,Europe,Transport accident,14
+2683,2010,Europe,Volcanic activity,1
+2684,2010,Europe,Wildfire,2
+2685,2010,Oceania,Earthquake,2
+2686,2010,Oceania,Flood,6
+2687,2010,Oceania,Industrial accident,1
+2688,2010,Oceania,Storm,7
+2689,2010,Oceania,Transport accident,2
+2690,2011,Africa,Drought,11
+2691,2011,Africa,Epidemic,16
+2692,2011,Africa,Flood,44
+2693,2011,Africa,Industrial accident,3
+2694,2011,Africa,Miscellaneous accident,12
+2695,2011,Africa,Storm,9
+2696,2011,Africa,Transport accident,78
+2697,2011,Americas,Drought,2
+2698,2011,Americas,Earthquake,3
+2699,2011,Americas,Epidemic,2
+2700,2011,Americas,Extreme temperature,6
+2701,2011,Americas,Flood,39
+2702,2011,Americas,Industrial accident,5
+2703,2011,Americas,Landslide,4
+2704,2011,Americas,Miscellaneous accident,2
+2705,2011,Americas,Storm,33
+2706,2011,Americas,Transport accident,24
+2707,2011,Americas,Volcanic activity,2
+2708,2011,Americas,Wildfire,7
+2709,2011,Asia,Drought,2
+2710,2011,Asia,Earthquake,24
+2711,2011,Asia,Epidemic,6
+2712,2011,Asia,Extreme temperature,8
+2713,2011,Asia,Flood,63
+2714,2011,Asia,Industrial accident,20
+2715,2011,Asia,Landslide,12
+2716,2011,Asia,Miscellaneous accident,17
+2717,2011,Asia,Storm,31
+2718,2011,Asia,Transport accident,59
+2719,2011,Asia,Volcanic activity,4
+2720,2011,Europe,Earthquake,1
+2721,2011,Europe,Extreme temperature,2
+2722,2011,Europe,Flood,9
+2723,2011,Europe,Industrial accident,3
+2724,2011,Europe,Landslide,1
+2725,2011,Europe,Miscellaneous accident,2
+2726,2011,Europe,Storm,5
+2727,2011,Europe,Transport accident,16
+2728,2011,Oceania,Drought,1
+2729,2011,Oceania,Earthquake,2
+2730,2011,Oceania,Flood,1
+2731,2011,Oceania,Industrial accident,1
+2732,2011,Oceania,Miscellaneous accident,1
+2733,2011,Oceania,Storm,6
+2734,2011,Oceania,Transport accident,1
+2735,2011,Oceania,Wildfire,1
+2736,2012,Africa,Complex Disasters,1
+2737,2012,Africa,Drought,5
+2738,2012,Africa,Epidemic,18
+2739,2012,Africa,Extreme temperature,1
+2740,2012,Africa,Flood,29
+2741,2012,Africa,Industrial accident,1
+2742,2012,Africa,Landslide,1
+2743,2012,Africa,Miscellaneous accident,7
+2744,2012,Africa,Storm,11
+2745,2012,Africa,Transport accident,54
+2746,2012,Americas,Drought,6
+2747,2012,Americas,Earthquake,5
+2748,2012,Americas,Epidemic,6
+2749,2012,Americas,Extreme temperature,2
+2750,2012,Americas,Flood,24
+2751,2012,Americas,Industrial accident,3
+2752,2012,Americas,Landslide,1
+2753,2012,Americas,Miscellaneous accident,4
+2754,2012,Americas,Storm,35
+2755,2012,Americas,Transport accident,26
+2756,2012,Americas,Volcanic activity,1
+2757,2012,Americas,Wildfire,4
+2758,2012,Asia,Complex Disasters,1
+2759,2012,Asia,Drought,3
+2760,2012,Asia,Earthquake,19
+2761,2012,Asia,Epidemic,1
+2762,2012,Asia,Extreme temperature,10
+2763,2012,Asia,Flood,62
+2764,2012,Asia,Industrial accident,21
+2765,2012,Asia,Landslide,10
+2766,2012,Asia,Mass movement (dry),1
+2767,2012,Asia,Miscellaneous accident,11
+2768,2012,Asia,Storm,39
+2769,2012,Asia,Transport accident,38
+2770,2012,Europe,Drought,4
+2771,2012,Europe,Earthquake,3
+2772,2012,Europe,Extreme temperature,39
+2773,2012,Europe,Flood,15
+2774,2012,Europe,Industrial accident,1
+2775,2012,Europe,Miscellaneous accident,4
+2776,2012,Europe,Storm,1
+2777,2012,Europe,Transport accident,16
+2778,2012,Europe,Wildfire,2
+2779,2012,Oceania,Flood,6
+2780,2012,Oceania,Landslide,1
+2781,2012,Oceania,Storm,5
+2782,2012,Oceania,Transport accident,3
+2783,2013,Africa,Drought,2
+2784,2013,Africa,Epidemic,16
+2785,2013,Africa,Flood,34
+2786,2013,Africa,Industrial accident,7
+2787,2013,Africa,Miscellaneous accident,7
+2788,2013,Africa,Storm,6
+2789,2013,Africa,Transport accident,53
+2790,2013,Africa,Wildfire,2
+2791,2013,Americas,Drought,4
+2792,2013,Americas,Earthquake,3
+2793,2013,Americas,Epidemic,5
+2794,2013,Americas,Extreme temperature,5
+2795,2013,Americas,Flood,29
+2796,2013,Americas,Industrial accident,3
+2797,2013,Americas,Landslide,3
+2798,2013,Americas,Miscellaneous accident,5
+2799,2013,Americas,Storm,23
+2800,2013,Americas,Transport accident,22
+2801,2013,Americas,Volcanic activity,2
+2802,2013,Americas,Wildfire,5
+2803,2013,Asia,Drought,1
+2804,2013,Asia,Earthquake,23
+2805,2013,Asia,Epidemic,1
+2806,2013,Asia,Extreme temperature,5
+2807,2013,Asia,Flood,67
+2808,2013,Asia,Industrial accident,13
+2809,2013,Asia,Landslide,8
+2810,2013,Asia,Mass movement (dry),1
+2811,2013,Asia,Miscellaneous accident,15
+2812,2013,Asia,Storm,50
+2813,2013,Asia,Transport accident,44
+2814,2013,Asia,Volcanic activity,1
+2815,2013,Europe,Earthquake,1
+2816,2013,Europe,Extreme temperature,3
+2817,2013,Europe,Flood,16
+2818,2013,Europe,Impact,1
+2819,2013,Europe,Industrial accident,1
+2820,2013,Europe,Miscellaneous accident,4
+2821,2013,Europe,Storm,23
+2822,2013,Europe,Transport accident,16
+2823,2013,Europe,Wildfire,1
+2824,2013,Oceania,Drought,2
+2825,2013,Oceania,Earthquake,2
+2826,2013,Oceania,Epidemic,1
+2827,2013,Oceania,Flood,2
+2828,2013,Oceania,Storm,3
+2829,2013,Oceania,Transport accident,1
+2830,2013,Oceania,Wildfire,2
+2831,2014,Africa,Animal accident,1
+2832,2014,Africa,Drought,5
+2833,2014,Africa,Earthquake,3
+2834,2014,Africa,Epidemic,20
+2835,2014,Africa,Flood,20
+2836,2014,Africa,Industrial accident,4
+2837,2014,Africa,Landslide,1
+2838,2014,Africa,Miscellaneous accident,7
+2839,2014,Africa,Storm,6
+2840,2014,Africa,Transport accident,53
+2841,2014,Africa,Volcanic activity,1
+2842,2014,Americas,Drought,10
+2843,2014,Americas,Earthquake,8
+2844,2014,Americas,Epidemic,2
+2845,2014,Americas,Extreme temperature,4
+2846,2014,Americas,Flood,30
+2847,2014,Americas,Industrial accident,5
+2848,2014,Americas,Landslide,3
+2849,2014,Americas,Miscellaneous accident,5
+2850,2014,Americas,Storm,21
+2851,2014,Americas,Transport accident,24
+2852,2014,Americas,Wildfire,2
+2853,2014,Asia,Drought,5
+2854,2014,Asia,Earthquake,13
+2855,2014,Asia,Epidemic,1
+2856,2014,Asia,Extreme temperature,6
+2857,2014,Asia,Flood,55
+2858,2014,Asia,Industrial accident,18
+2859,2014,Asia,Landslide,11
+2860,2014,Asia,Miscellaneous accident,19
+2861,2014,Asia,Storm,53
+2862,2014,Asia,Transport accident,50
+2863,2014,Asia,Volcanic activity,4
+2864,2014,Europe,Earthquake,2
+2865,2014,Europe,Extreme temperature,6
+2866,2014,Europe,Flood,28
+2867,2014,Europe,Industrial accident,1
+2868,2014,Europe,Miscellaneous accident,1
+2869,2014,Europe,Storm,15
+2870,2014,Europe,Transport accident,18
+2871,2014,Oceania,Extreme temperature,1
+2872,2014,Oceania,Flood,4
+2873,2014,Oceania,Storm,4
+2874,2014,Oceania,Volcanic activity,1
+2875,2014,Oceania,Wildfire,2
+2876,2015,Africa,Drought,9
+2877,2015,Africa,Earthquake,1
+2878,2015,Africa,Epidemic,9
+2879,2015,Africa,Extreme temperature,2
+2880,2015,Africa,Flood,30
+2881,2015,Africa,Industrial accident,7
+2882,2015,Africa,Landslide,2
+2883,2015,Africa,Miscellaneous accident,9
+2884,2015,Africa,Storm,11
+2885,2015,Africa,Transport accident,39
+2886,2015,Africa,Wildfire,1
+2887,2015,Americas,Drought,4
+2888,2015,Americas,Earthquake,2
+2889,2015,Americas,Epidemic,2
+2890,2015,Americas,Extreme temperature,1
+2891,2015,Americas,Flood,38
+2892,2015,Americas,Industrial accident,5
+2893,2015,Americas,Landslide,3
+2894,2015,Americas,Miscellaneous accident,2
+2895,2015,Americas,Storm,31
+2896,2015,Americas,Transport accident,23
+2897,2015,Americas,Volcanic activity,6
+2898,2015,Americas,Wildfire,6
+2899,2015,Asia,Drought,7
+2900,2015,Asia,Earthquake,20
+2901,2015,Asia,Epidemic,3
+2902,2015,Asia,Extreme temperature,6
+2903,2015,Asia,Flood,69
+2904,2015,Asia,Industrial accident,17
+2905,2015,Asia,Landslide,15
+2906,2015,Asia,Mass movement (dry),1
+2907,2015,Asia,Miscellaneous accident,23
+2908,2015,Asia,Storm,62
+2909,2015,Asia,Transport accident,45
+2910,2015,Asia,Wildfire,1
+2911,2015,Europe,Extreme temperature,3
+2912,2015,Europe,Flood,20
+2913,2015,Europe,Industrial accident,3
+2914,2015,Europe,Miscellaneous accident,4
+2915,2015,Europe,Storm,5
+2916,2015,Europe,Transport accident,27
+2917,2015,Europe,Wildfire,1
+2918,2015,Oceania,Drought,6
+2919,2015,Oceania,Flood,4
+2920,2015,Oceania,Storm,12
+2921,2015,Oceania,Wildfire,3
+2922,2016,Africa,Drought,6
+2923,2016,Africa,Earthquake,2
+2924,2016,Africa,Epidemic,14
+2925,2016,Africa,Extreme temperature,2
+2926,2016,Africa,Flood,32
+2927,2016,Africa,Industrial accident,2
+2928,2016,Africa,Landslide,2
+2929,2016,Africa,Miscellaneous accident,6
+2930,2016,Africa,Storm,4
+2931,2016,Africa,Transport accident,38
+2932,2016,Americas,Drought,3
+2933,2016,Americas,Earthquake,5
+2934,2016,Americas,Epidemic,4
+2935,2016,Americas,Flood,37
+2936,2016,Americas,Industrial accident,4
+2937,2016,Americas,Landslide,1
+2938,2016,Americas,Miscellaneous accident,2
+2939,2016,Americas,Storm,31
+2940,2016,Americas,Transport accident,18
+2941,2016,Americas,Wildfire,5
+2942,2016,Asia,Drought,4
+2943,2016,Asia,Earthquake,17
+2944,2016,Asia,Epidemic,4
+2945,2016,Asia,Extreme temperature,8
+2946,2016,Asia,Flood,69
+2947,2016,Asia,Industrial accident,19
+2948,2016,Asia,Landslide,10
+2949,2016,Asia,Miscellaneous accident,21
+2950,2016,Asia,Storm,43
+2951,2016,Asia,Transport accident,50
+2952,2016,Asia,Wildfire,3
+2953,2016,Europe,Earthquake,4
+2954,2016,Europe,Extreme temperature,2
+2955,2016,Europe,Flood,19
+2956,2016,Europe,Industrial accident,3
+2957,2016,Europe,Miscellaneous accident,5
+2958,2016,Europe,Storm,2
+2959,2016,Europe,Transport accident,15
+2960,2016,Europe,Wildfire,1
+2961,2016,Oceania,Drought,1
+2962,2016,Oceania,Earthquake,2
+2963,2016,Oceania,Epidemic,3
+2964,2016,Oceania,Flood,2
+2965,2016,Oceania,Storm,6
+2966,2016,Oceania,Transport accident,1
+2967,2016,Oceania,Wildfire,1
+2968,2017,Africa,Drought,5
+2969,2017,Africa,Epidemic,19
+2970,2017,Africa,Extreme temperature,3
+2971,2017,Africa,Flood,21
+2972,2017,Africa,Industrial accident,1
+2973,2017,Africa,Landslide,3
+2974,2017,Africa,Miscellaneous accident,2
+2975,2017,Africa,Storm,10
+2976,2017,Africa,Transport accident,47
+2977,2017,Africa,Wildfire,2
+2978,2017,Americas,Drought,1
+2979,2017,Americas,Earthquake,3
+2980,2017,Americas,Epidemic,1
+2981,2017,Americas,Flood,32
+2982,2017,Americas,Industrial accident,3
+2983,2017,Americas,Landslide,5
+2984,2017,Americas,Miscellaneous accident,3
+2985,2017,Americas,Storm,54
+2986,2017,Americas,Transport accident,23
+2987,2017,Americas,Wildfire,5
+2988,2017,Asia,Drought,2
+2989,2017,Asia,Earthquake,15
+2990,2017,Asia,Epidemic,7
+2991,2017,Asia,Extreme temperature,1
+2992,2017,Asia,Flood,63
+2993,2017,Asia,Industrial accident,13
+2994,2017,Asia,Landslide,17
+2995,2017,Asia,Miscellaneous accident,22
+2996,2017,Asia,Storm,48
+2997,2017,Asia,Transport accident,46
+2998,2017,Asia,Volcanic activity,1
+2999,2017,Europe,Drought,1
+3000,2017,Europe,Earthquake,4
+3001,2017,Europe,Extreme temperature,6
+3002,2017,Europe,Flood,8
+3003,2017,Europe,Mass movement (dry),1
+3004,2017,Europe,Miscellaneous accident,2
+3005,2017,Europe,Storm,14
+3006,2017,Europe,Transport accident,10
+3007,2017,Europe,Wildfire,7
+3008,2017,Oceania,Flood,2
+3009,2017,Oceania,Storm,4
+3010,2017,Oceania,Volcanic activity,1
+3011,2017,Oceania,Wildfire,1
+3012,2018,Africa,Drought,2
+3013,2018,Africa,Epidemic,12
+3014,2018,Africa,Extreme temperature,1
+3015,2018,Africa,Flood,30
+3016,2018,Africa,Industrial accident,1
+3017,2018,Africa,Landslide,5
+3018,2018,Africa,Miscellaneous accident,4
+3019,2018,Africa,Storm,7
+3020,2018,Africa,Transport accident,56
+3021,2018,Americas,Drought,9
+3022,2018,Americas,Earthquake,4
+3023,2018,Americas,Epidemic,1
+3024,2018,Americas,Extreme temperature,1
+3025,2018,Americas,Flood,26
+3026,2018,Americas,Industrial accident,1
+3027,2018,Americas,Landslide,2
+3028,2018,Americas,Miscellaneous accident,4
+3029,2018,Americas,Storm,19
+3030,2018,Americas,Transport accident,16
+3031,2018,Americas,Volcanic activity,2
+3032,2018,Americas,Wildfire,4
+3033,2018,Asia,Drought,2
+3034,2018,Asia,Earthquake,13
+3035,2018,Asia,Epidemic,2
+3036,2018,Asia,Extreme temperature,8
+3037,2018,Asia,Flood,57
+3038,2018,Asia,Industrial accident,8
+3039,2018,Asia,Landslide,6
+3040,2018,Asia,Mass movement (dry),1
+3041,2018,Asia,Miscellaneous accident,10
+3042,2018,Asia,Storm,51
+3043,2018,Asia,Transport accident,44
+3044,2018,Asia,Volcanic activity,3
+3045,2018,Asia,Wildfire,1
+3046,2018,Europe,Drought,2
+3047,2018,Europe,Extreme temperature,16
+3048,2018,Europe,Flood,13
+3049,2018,Europe,Industrial accident,1
+3050,2018,Europe,Miscellaneous accident,5
+3051,2018,Europe,Storm,13
+3052,2018,Europe,Transport accident,9
+3053,2018,Europe,Volcanic activity,1
+3054,2018,Europe,Wildfire,5
+3055,2018,Oceania,Drought,1
+3056,2018,Oceania,Earthquake,3
+3057,2018,Oceania,Epidemic,1
+3058,2018,Oceania,Extreme temperature,1
+3059,2018,Oceania,Flood,2
+3060,2018,Oceania,Storm,7
+3061,2018,Oceania,Transport accident,1
+3062,2018,Oceania,Volcanic activity,2
+3063,2019,Africa,Drought,8
+3064,2019,Africa,Epidemic,17
+3065,2019,Africa,Extreme temperature,1
+3066,2019,Africa,Flood,58
+3067,2019,Africa,Industrial accident,13
+3068,2019,Africa,Insect infestation,8
+3069,2019,Africa,Landslide,12
+3070,2019,Africa,Miscellaneous accident,3
+3071,2019,Africa,Storm,11
+3072,2019,Africa,Transport accident,50
+3073,2019,Africa,Wildfire,1
+3074,2019,Americas,Drought,1
+3075,2019,Americas,Earthquake,6
+3076,2019,Americas,Epidemic,7
+3077,2019,Americas,Flood,39
+3078,2019,Americas,Industrial accident,2
+3079,2019,Americas,Landslide,4
+3080,2019,Americas,Miscellaneous accident,6
+3081,2019,Americas,Storm,22
+3082,2019,Americas,Transport accident,23
+3083,2019,Americas,Volcanic activity,2
+3084,2019,Americas,Wildfire,7
+3085,2019,Asia,Drought,7
+3086,2019,Asia,Earthquake,21
+3087,2019,Asia,Epidemic,8
+3088,2019,Asia,Extreme temperature,6
+3089,2019,Asia,Flood,80
+3090,2019,Asia,Industrial accident,17
+3091,2019,Asia,Landslide,7
+3092,2019,Asia,Miscellaneous accident,11
+3093,2019,Asia,Storm,36
+3094,2019,Asia,Transport accident,32
+3095,2019,Asia,Wildfire,3
+3096,2019,Europe,Earthquake,4
+3097,2019,Europe,Extreme temperature,14
+3098,2019,Europe,Flood,17
+3099,2019,Europe,Industrial accident,1
+3100,2019,Europe,Landslide,1
+3101,2019,Europe,Miscellaneous accident,2
+3102,2019,Europe,Storm,20
+3103,2019,Europe,Transport accident,11
+3104,2019,Europe,Wildfire,1
+3105,2019,Oceania,Earthquake,1
+3106,2019,Oceania,Epidemic,4
+3107,2019,Oceania,Flood,2
+3108,2019,Oceania,Landslide,1
+3109,2019,Oceania,Storm,2
+3110,2019,Oceania,Volcanic activity,2
+3111,2019,Oceania,Wildfire,2
+3112,2020,Africa,Drought,7
+3113,2020,Africa,Earthquake,1
+3114,2020,Africa,Epidemic,3
+3115,2020,Africa,Flood,65
+3116,2020,Africa,Industrial accident,3
+3117,2020,Africa,Landslide,2
+3118,2020,Africa,Miscellaneous accident,7
+3119,2020,Africa,Storm,5
+3120,2020,Africa,Transport accident,35
+3121,2020,Americas,Drought,2
+3122,2020,Americas,Earthquake,3
+3123,2020,Americas,Epidemic,3
+3124,2020,Americas,Flood,27
+3125,2020,Americas,Industrial accident,1
+3126,2020,Americas,Landslide,3
+3127,2020,Americas,Miscellaneous accident,3
+3128,2020,Americas,Storm,52
+3129,2020,Americas,Transport accident,9
+3130,2020,Americas,Volcanic activity,1
+3131,2020,Americas,Wildfire,1
+3132,2020,Asia,Earthquake,9
+3133,2020,Asia,Extreme temperature,1
+3134,2020,Asia,Flood,88
+3135,2020,Asia,Industrial accident,7
+3136,2020,Asia,Insect infestation,2
+3137,2020,Asia,Landslide,10
+3138,2020,Asia,Miscellaneous accident,7
+3139,2020,Asia,Storm,46
+3140,2020,Asia,Transport accident,19
+3141,2020,Asia,Volcanic activity,3
+3142,2020,Asia,Wildfire,4
+3143,2020,Europe,Earthquake,3
+3144,2020,Europe,Extreme temperature,4
+3145,2020,Europe,Flood,15
+3146,2020,Europe,Landslide,2
+3147,2020,Europe,Miscellaneous accident,6
+3148,2020,Europe,Storm,15
+3149,2020,Europe,Transport accident,3
+3150,2020,Europe,Wildfire,2
+3151,2020,Oceania,Flood,6
+3152,2020,Oceania,Landslide,2
+3153,2020,Oceania,Storm,9
+3154,2020,Oceania,Wildfire,1
+3155,2021,Africa,Flood,1
+3156,2021,Africa,Storm,4
+3157,2021,Africa,Transport accident,6
+3158,2021,Americas,Flood,4
+3159,2021,Americas,Storm,2
+3160,2021,Americas,Transport accident,4
+3161,2021,Asia,Drought,2
+3162,2021,Asia,Earthquake,3
+3163,2021,Asia,Flood,5
+3164,2021,Asia,Glacial lake outburst,1
+3165,2021,Asia,Industrial accident,1
+3166,2021,Asia,Landslide,1
+3167,2021,Asia,Miscellaneous accident,3
+3168,2021,Asia,Storm,2
+3169,2021,Asia,Transport accident,4
+3170,2021,Europe,Miscellaneous accident,1
+3171,2021,Europe,Storm,1
+3172,2021,Europe,Transport accident,2
+3173,2021,Oceania,Storm,1
+3174,2021,Oceania,Wildfire,1
