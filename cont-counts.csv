@@ -1,0 +1,1196 @@
+,Disaster Type,Country,ISO,counts
+0,Animal accident,Niger (the),NER,1
+1,Complex Disasters,Armenia,ARM,1
+2,Complex Disasters,Bangladesh,BGD,1
+3,Complex Disasters,Burundi,BDI,1
+4,Complex Disasters,Cambodia,KHM,1
+5,Complex Disasters,Central African Republic,CAF,1
+6,Complex Disasters,Comoros (the),COM,1
+7,Complex Disasters,India,IND,1
+8,Complex Disasters,Korea (the Democratic People's Republic of),PRK,1
+9,Complex Disasters,Nicaragua,NIC,1
+10,Complex Disasters,Panama,PAN,1
+11,Complex Disasters,Soviet Union,SUN,1
+12,Complex Disasters,Sudan (the),SDN,1
+13,Complex Disasters,Togo,TGO,1
+14,Complex Disasters,Yemen,YEM,1
+15,Drought,Afghanistan,AFG,8
+16,Drought,Albania,ALB,1
+17,Drought,Algeria,DZA,1
+18,Drought,Angola,AGO,8
+19,Drought,Anguilla,AIA,1
+20,Drought,Antigua and Barbuda,ATG,1
+21,Drought,Argentina,ARG,4
+22,Drought,Armenia,ARM,1
+23,Drought,Australia,AUS,11
+24,Drought,Azerbaijan,AZE,1
+25,Drought,Bangladesh,BGD,7
+26,Drought,Barbados,BRB,1
+27,Drought,Belgium,BEL,1
+28,Drought,Benin,BEN,2
+29,Drought,Bolivia (Plurinational State of),BOL,13
+30,Drought,Bosnia and Herzegovina,BIH,2
+31,Drought,Botswana,BWA,7
+32,Drought,Brazil,BRA,19
+33,Drought,Bulgaria,BGR,2
+34,Drought,Burkina Faso,BFA,14
+35,Drought,Burundi,BDI,6
+36,Drought,Cabo Verde,CPV,10
+37,Drought,Cambodia,KHM,6
+38,Drought,Cameroon,CMR,5
+39,Drought,Canada,CAN,5
+40,Drought,Central African Republic,CAF,1
+41,Drought,Chad,TCD,11
+42,Drought,Chile,CHL,2
+43,Drought,China,CHN,40
+44,Drought,Colombia,COL,2
+45,Drought,Comoros (the),COM,1
+46,Drought,Congo (the Democratic Republic of the),COD,2
+47,Drought,Congo (the),COG,1
+48,Drought,Costa Rica,CRI,5
+49,Drought,Croatia,HRV,1
+50,Drought,Cuba,CUB,7
+51,Drought,Cyprus,CYP,2
+52,Drought,Côte d’Ivoire,CIV,1
+53,Drought,Denmark,DNK,1
+54,Drought,Djibouti,DJI,9
+55,Drought,Dominican Republic (the),DOM,1
+56,Drought,Ecuador,ECU,4
+57,Drought,El Salvador,SLV,7
+58,Drought,Eritrea,ERI,3
+59,Drought,Ethiopia,ETH,16
+60,Drought,Fiji,FJI,3
+61,Drought,France,FRA,4
+62,Drought,Gambia (the),GMB,9
+63,Drought,Georgia,GEO,1
+64,Drought,Ghana,GHA,3
+65,Drought,Greece,GRC,1
+66,Drought,Grenada,GRD,1
+67,Drought,Guatemala,GTM,7
+68,Drought,Guinea,GIN,2
+69,Drought,Guinea-Bissau,GNB,6
+70,Drought,Guyana,GUY,3
+71,Drought,Haiti,HTI,9
+72,Drought,Honduras,HND,12
+73,Drought,Hong Kong,HKG,7
+74,Drought,Hungary,HUN,3
+75,Drought,India,IND,16
+76,Drought,Indonesia,IDN,10
+77,Drought,Iran (Islamic Republic of),IRN,2
+78,Drought,Iraq,IRQ,2
+79,Drought,Israel,ISR,1
+80,Drought,Italy,ITA,4
+81,Drought,Jamaica,JAM,4
+82,Drought,Japan,JPN,1
+83,Drought,Jordan,JOR,2
+84,Drought,Kenya,KEN,16
+85,Drought,Kiribati,KIR,1
+86,Drought,Korea (the Democratic People's Republic of),PRK,4
+87,Drought,Korea (the Republic of),KOR,2
+88,Drought,Kyrgyzstan,KGZ,1
+89,Drought,Lao People's Democratic Republic (the),LAO,6
+90,Drought,Lesotho,LSO,9
+91,Drought,Liberia,LBR,1
+92,Drought,Lithuania,LTU,3
+93,Drought,Macedonia (the former Yugoslav Republic of),MKD,1
+94,Drought,Madagascar,MDG,10
+95,Drought,Malawi,MWI,8
+96,Drought,Malaysia,MYS,2
+97,Drought,Mali,MLI,12
+98,Drought,Marshall Islands (the),MHL,2
+99,Drought,Mauritania,MRT,15
+100,Drought,Mauritius,MUS,1
+101,Drought,Mexico,MEX,7
+102,Drought,Micronesia (Federated States of),FSM,2
+103,Drought,Moldova (the Republic of),MDA,3
+104,Drought,Mongolia,MNG,1
+105,Drought,Morocco,MAR,5
+106,Drought,Mozambique,MOZ,14
+107,Drought,Namibia,NAM,9
+108,Drought,Nepal,NPL,6
+109,Drought,New Zealand,NZL,2
+110,Drought,Nicaragua,NIC,6
+111,Drought,Niger (the),NER,16
+112,Drought,Nigeria,NGA,1
+113,Drought,Pakistan,PAK,2
+114,Drought,Panama,PAN,4
+115,Drought,Papua New Guinea,PNG,3
+116,Drought,Paraguay,PRY,9
+117,Drought,Peru,PER,8
+118,Drought,Philippines (the),PHL,10
+119,Drought,Poland,POL,1
+120,Drought,Portugal,PRT,3
+121,Drought,Puerto Rico,PRI,1
+122,Drought,Romania,ROU,2
+123,Drought,Russian Federation (the),RUS,5
+124,Drought,Rwanda,RWA,6
+125,Drought,Saint Lucia,LCA,1
+126,Drought,Saint Vincent and the Grenadines,VCT,1
+127,Drought,Samoa,WSM,1
+128,Drought,Sao Tome and Principe,STP,1
+129,Drought,Senegal,SEN,10
+130,Drought,Solomon Islands,SLB,3
+131,Drought,Somalia,SOM,16
+132,Drought,South Africa,ZAF,11
+133,Drought,South Sudan,SSD,2
+134,Drought,Soviet Union,SUN,1
+135,Drought,Spain,ESP,4
+136,Drought,Sri Lanka,LKA,12
+137,Drought,Sudan (the),SDN,9
+138,Drought,Swaziland,SWZ,7
+139,Drought,Syrian Arab Republic,SYR,2
+140,Drought,Tajikistan,TJK,2
+141,Drought,"Tanzania, United Republic of",TZA,10
+142,Drought,Thailand,THA,12
+143,Drought,Timor-Leste,TLS,2
+144,Drought,Togo,TGO,3
+145,Drought,Tonga,TON,1
+146,Drought,Trinidad and Tobago,TTO,1
+147,Drought,Tunisia,TUN,2
+148,Drought,Tuvalu,TUV,1
+149,Drought,Uganda,UGA,9
+150,Drought,Ukraine,UKR,1
+151,Drought,United States of America (the),USA,17
+152,Drought,Uruguay,URY,2
+153,Drought,Uzbekistan,UZB,1
+154,Drought,Venezuela (Bolivarian Republic of),VEN,1
+155,Drought,Viet Nam,VNM,7
+156,Drought,Yemen Arab Rep,YMN,2
+157,Drought,Yemen P Dem Rep,YMD,2
+158,Drought,Yugoslavia,YUG,1
+159,Drought,Zambia,ZMB,5
+160,Drought,Zimbabwe,ZWE,8
+161,Earthquake,Afghanistan,AFG,33
+162,Earthquake,Albania,ALB,16
+163,Earthquake,Algeria,DZA,21
+164,Earthquake,American Samoa,ASM,1
+165,Earthquake,Argentina,ARG,5
+166,Earthquake,Armenia,ARM,2
+167,Earthquake,Australia,AUS,3
+168,Earthquake,Austria,AUT,1
+169,Earthquake,Azerbaijan,AZE,6
+170,Earthquake,Azores Islands,AZO,3
+171,Earthquake,Bangladesh,BGD,9
+172,Earthquake,Barbados,BRB,1
+173,Earthquake,Belgium,BEL,2
+174,Earthquake,Bhutan,BTN,2
+175,Earthquake,Bolivia (Plurinational State of),BOL,2
+176,Earthquake,Brazil,BRA,2
+177,Earthquake,Bulgaria,BGR,6
+178,Earthquake,Burundi,BDI,1
+179,Earthquake,Canada,CAN,1
+180,Earthquake,Chile,CHL,28
+181,Earthquake,China,CHN,195
+182,Earthquake,Colombia,COL,30
+183,Earthquake,Comoros (the),COM,1
+184,Earthquake,Congo (the Democratic Republic of the),COD,5
+185,Earthquake,Costa Rica,CRI,17
+186,Earthquake,Croatia,HRV,3
+187,Earthquake,Cuba,CUB,2
+188,Earthquake,Cyprus,CYP,2
+189,Earthquake,Dominica,DMA,1
+190,Earthquake,Dominican Republic (the),DOM,2
+191,Earthquake,Ecuador,ECU,19
+192,Earthquake,Egypt,EGY,6
+193,Earthquake,El Salvador,SLV,11
+194,Earthquake,Ethiopia,ETH,2
+195,Earthquake,Fiji,FJI,2
+196,Earthquake,France,FRA,4
+197,Earthquake,Georgia,GEO,4
+198,Earthquake,Germany,DEU,2
+199,Earthquake,Germany Fed Rep,DFR,1
+200,Earthquake,Ghana,GHA,1
+201,Earthquake,Greece,GRC,42
+202,Earthquake,Guadeloupe,GLP,1
+203,Earthquake,Guam,GUM,1
+204,Earthquake,Guatemala,GTM,16
+205,Earthquake,Guinea,GIN,1
+206,Earthquake,Haiti,HTI,3
+207,Earthquake,Honduras,HND,3
+208,Earthquake,Hungary,HUN,1
+209,Earthquake,Iceland,ISL,3
+210,Earthquake,India,IND,26
+211,Earthquake,Indonesia,IDN,133
+212,Earthquake,Iran (Islamic Republic of),IRN,130
+213,Earthquake,Iraq,IRQ,2
+214,Earthquake,Israel,ISR,1
+215,Earthquake,Italy,ITA,43
+216,Earthquake,Jamaica,JAM,1
+217,Earthquake,Japan,JPN,68
+218,Earthquake,Jordan,JOR,1
+219,Earthquake,Kazakhstan,KAZ,2
+220,Earthquake,Kenya,KEN,2
+221,Earthquake,Korea (the Republic of),KOR,2
+222,Earthquake,Kyrgyzstan,KGZ,9
+223,Earthquake,Lebanon,LBN,1
+224,Earthquake,Libya,LBY,1
+225,Earthquake,Macedonia (the former Yugoslav Republic of),MKD,1
+226,Earthquake,Malawi,MWI,3
+227,Earthquake,Malaysia,MYS,2
+228,Earthquake,Maldives,MDV,1
+229,Earthquake,Martinique,MTQ,1
+230,Earthquake,Mexico,MEX,42
+231,Earthquake,Mongolia,MNG,1
+232,Earthquake,Morocco,MAR,4
+233,Earthquake,Mozambique,MOZ,1
+234,Earthquake,Myanmar,MMR,10
+235,Earthquake,Nepal,NPL,7
+236,Earthquake,Netherlands (the),NLD,1
+237,Earthquake,New Zealand,NZL,10
+238,Earthquake,Nicaragua,NIC,10
+239,Earthquake,Pakistan,PAK,35
+240,Earthquake,Panama,PAN,4
+241,Earthquake,Papua New Guinea,PNG,18
+242,Earthquake,Peru,PER,52
+243,Earthquake,Philippines (the),PHL,40
+244,Earthquake,Poland,POL,1
+245,Earthquake,Portugal,PRT,2
+246,Earthquake,Puerto Rico,PRI,3
+247,Earthquake,Romania,ROU,11
+248,Earthquake,Russian Federation (the),RUS,10
+249,Earthquake,Rwanda,RWA,2
+250,Earthquake,Saint Lucia,LCA,1
+251,Earthquake,Samoa,WSM,1
+252,Earthquake,Serbia,SRB,1
+253,Earthquake,Serbia Montenegro,SCG,1
+254,Earthquake,Seychelles,SYC,1
+255,Earthquake,Slovenia,SVN,2
+256,Earthquake,Solomon Islands,SLB,9
+257,Earthquake,Somalia,SOM,1
+258,Earthquake,South Africa,ZAF,5
+259,Earthquake,Soviet Union,SUN,23
+260,Earthquake,Spain,ESP,3
+261,Earthquake,Sri Lanka,LKA,1
+262,Earthquake,Sudan (the),SDN,2
+263,Earthquake,Taiwan (Province of China),TWN,32
+264,Earthquake,Tajikistan,TJK,13
+265,Earthquake,"Tanzania, United Republic of",TZA,7
+266,Earthquake,Thailand,THA,4
+267,Earthquake,Timor-Leste,TLS,1
+268,Earthquake,Tonga,TON,2
+269,Earthquake,Trinidad and Tobago,TTO,1
+270,Earthquake,Tunisia,TUN,1
+271,Earthquake,Turkey,TUR,110
+272,Earthquake,Turkmenistan,TKM,1
+273,Earthquake,Uganda,UGA,6
+274,Earthquake,United Kingdom of Great Britain and Northern Ireland (the),GBR,2
+275,Earthquake,United States of America (the),USA,45
+276,Earthquake,Uzbekistan,UZB,2
+277,Earthquake,Vanuatu,VUT,8
+278,Earthquake,Venezuela (Bolivarian Republic of),VEN,7
+279,Earthquake,Wallis and Futuna,WLF,1
+280,Earthquake,Yemen,YEM,1
+281,Earthquake,Yemen Arab Rep,YMN,2
+282,Earthquake,Yugoslavia,YUG,11
+283,Epidemic,Afghanistan,AFG,20
+284,Epidemic,Albania,ALB,2
+285,Epidemic,Algeria,DZA,2
+286,Epidemic,Angola,AGO,20
+287,Epidemic,Anguilla,AIA,5
+288,Epidemic,Argentina,ARG,2
+289,Epidemic,Australia,AUS,2
+290,Epidemic,Bahrain,BHR,1
+291,Epidemic,Bangladesh,BGD,31
+292,Epidemic,Belarus,BLR,2
+293,Epidemic,Belgium,BEL,1
+294,Epidemic,Benin,BEN,26
+295,Epidemic,Bhutan,BTN,2
+296,Epidemic,Bolivia (Plurinational State of),BOL,13
+297,Epidemic,Bosnia and Herzegovina,BIH,1
+298,Epidemic,Botswana,BWA,3
+299,Epidemic,Brazil,BRA,18
+300,Epidemic,Burkina Faso,BFA,25
+301,Epidemic,Burundi,BDI,15
+302,Epidemic,Cabo Verde,CPV,2
+303,Epidemic,Cambodia,KHM,9
+304,Epidemic,Cameroon,CMR,25
+305,Epidemic,Canada,CAN,7
+306,Epidemic,Central African Republic,CAF,13
+307,Epidemic,Chad,TCD,23
+308,Epidemic,Chile,CHL,1
+309,Epidemic,China,CHN,10
+310,Epidemic,Colombia,COL,6
+311,Epidemic,Comoros (the),COM,6
+312,Epidemic,Congo (the Democratic Republic of the),COD,77
+313,Epidemic,Congo (the),COG,19
+314,Epidemic,Cook Islands (the),COK,3
+315,Epidemic,Costa Rica,CRI,3
+316,Epidemic,Cuba,CUB,2
+317,Epidemic,Cyprus,CYP,2
+318,Epidemic,Côte d’Ivoire,CIV,14
+319,Epidemic,Djibouti,DJI,5
+320,Epidemic,Dominican Republic (the),DOM,9
+321,Epidemic,Ecuador,ECU,13
+322,Epidemic,Egypt,EGY,3
+323,Epidemic,El Salvador,SLV,11
+324,Epidemic,Equatorial Guinea,GNQ,1
+325,Epidemic,Ethiopia,ETH,28
+326,Epidemic,Fiji,FJI,1
+327,Epidemic,France,FRA,2
+328,Epidemic,Gabon,GAB,8
+329,Epidemic,Gambia (the),GMB,4
+330,Epidemic,Germany,DEU,2
+331,Epidemic,Ghana,GHA,22
+332,Epidemic,Guadeloupe,GLP,1
+333,Epidemic,Guatemala,GTM,10
+334,Epidemic,Guinea,GIN,16
+335,Epidemic,Guinea-Bissau,GNB,8
+336,Epidemic,Haiti,HTI,8
+337,Epidemic,Honduras,HND,10
+338,Epidemic,Hong Kong,HKG,1
+339,Epidemic,India,IND,70
+340,Epidemic,Indonesia,IDN,35
+341,Epidemic,Iran (Islamic Republic of),IRN,3
+342,Epidemic,Iraq,IRQ,7
+343,Epidemic,Ireland,IRL,2
+344,Epidemic,Israel,ISR,1
+345,Epidemic,Italy,ITA,2
+346,Epidemic,Jamaica,JAM,5
+347,Epidemic,Japan,JPN,3
+348,Epidemic,Jordan,JOR,1
+349,Epidemic,Kazakhstan,KAZ,3
+350,Epidemic,Kenya,KEN,36
+351,Epidemic,Kiribati,KIR,1
+352,Epidemic,Korea (the Democratic People's Republic of),PRK,3
+353,Epidemic,Korea (the Republic of),KOR,5
+354,Epidemic,Kuwait,KWT,1
+355,Epidemic,Kyrgyzstan,KGZ,3
+356,Epidemic,Lao People's Democratic Republic (the),LAO,9
+357,Epidemic,Latvia,LVA,1
+358,Epidemic,Lesotho,LSO,3
+359,Epidemic,Liberia,LBR,12
+360,Epidemic,Macao,MAC,1
+361,Epidemic,Macedonia (the former Yugoslav Republic of),MKD,1
+362,Epidemic,Madagascar,MDG,8
+363,Epidemic,Malawi,MWI,15
+364,Epidemic,Malaysia,MYS,13
+365,Epidemic,Maldives,MDV,2
+366,Epidemic,Mali,MLI,19
+367,Epidemic,Marshall Islands (the),MHL,1
+368,Epidemic,Martinique,MTQ,1
+369,Epidemic,Mauritania,MRT,6
+370,Epidemic,Mauritius,MUS,2
+371,Epidemic,Mexico,MEX,3
+372,Epidemic,Micronesia (Federated States of),FSM,1
+373,Epidemic,Moldova (the Republic of),MDA,1
+374,Epidemic,Mongolia,MNG,3
+375,Epidemic,Morocco,MAR,1
+376,Epidemic,Mozambique,MOZ,29
+377,Epidemic,Myanmar,MMR,4
+378,Epidemic,Namibia,NAM,7
+379,Epidemic,Nepal,NPL,20
+380,Epidemic,Netherlands (the),NLD,1
+381,Epidemic,New Caledonia,NCL,1
+382,Epidemic,New Zealand,NZL,2
+383,Epidemic,Nicaragua,NIC,13
+384,Epidemic,Niger (the),NER,44
+385,Epidemic,Nigeria,NGA,66
+386,Epidemic,Niue,NIU,1
+387,Epidemic,Pakistan,PAK,12
+388,Epidemic,Palau,PLW,1
+389,Epidemic,"Palestine, State of",PSE,1
+390,Epidemic,Panama,PAN,5
+391,Epidemic,Papua New Guinea,PNG,7
+392,Epidemic,Paraguay,PRY,9
+393,Epidemic,Peru,PER,14
+394,Epidemic,Philippines (the),PHL,22
+395,Epidemic,Romania,ROU,3
+396,Epidemic,Russian Federation (the),RUS,10
+397,Epidemic,Rwanda,RWA,12
+398,Epidemic,Réunion,REU,1
+399,Epidemic,Saint Lucia,LCA,1
+400,Epidemic,Saint Vincent and the Grenadines,VCT,1
+401,Epidemic,Samoa,WSM,1
+402,Epidemic,Sao Tome and Principe,STP,3
+403,Epidemic,Saudi Arabia,SAU,3
+404,Epidemic,Senegal,SEN,12
+405,Epidemic,Serbia Montenegro,SCG,2
+406,Epidemic,Seychelles,SYC,2
+407,Epidemic,Sierra Leone,SLE,16
+408,Epidemic,Singapore,SGP,4
+409,Epidemic,Solomon Islands,SLB,2
+410,Epidemic,Somalia,SOM,29
+411,Epidemic,South Africa,ZAF,7
+412,Epidemic,South Sudan,SSD,7
+413,Epidemic,Soviet Union,SUN,2
+414,Epidemic,Spain,ESP,3
+415,Epidemic,Sri Lanka,LKA,11
+416,Epidemic,Sudan (the),SDN,40
+417,Epidemic,Swaziland,SWZ,3
+418,Epidemic,Sweden,SWE,2
+419,Epidemic,Switzerland,CHE,1
+420,Epidemic,Syrian Arab Republic,SYR,2
+421,Epidemic,Taiwan (Province of China),TWN,2
+422,Epidemic,Tajikistan,TJK,6
+423,Epidemic,"Tanzania, United Republic of",TZA,33
+424,Epidemic,Thailand,THA,7
+425,Epidemic,Timor-Leste,TLS,2
+426,Epidemic,Togo,TGO,12
+427,Epidemic,Tonga,TON,2
+428,Epidemic,Turkey,TUR,8
+429,Epidemic,Uganda,UGA,41
+430,Epidemic,Ukraine,UKR,3
+431,Epidemic,United Kingdom of Great Britain and Northern Ireland (the),GBR,4
+432,Epidemic,United States of America (the),USA,5
+433,Epidemic,Uzbekistan,UZB,1
+434,Epidemic,Vanuatu,VUT,2
+435,Epidemic,Venezuela (Bolivarian Republic of),VEN,7
+436,Epidemic,Viet Nam,VNM,11
+437,Epidemic,Yemen,YEM,8
+438,Epidemic,Yugoslavia,YUG,1
+439,Epidemic,Zambia,ZMB,19
+440,Epidemic,Zimbabwe,ZWE,23
+441,Extreme temperature,Afghanistan,AFG,7
+442,Extreme temperature,Albania,ALB,5
+443,Extreme temperature,Algeria,DZA,3
+444,Extreme temperature,Argentina,ARG,8
+445,Extreme temperature,Armenia,ARM,1
+446,Extreme temperature,Australia,AUS,7
+447,Extreme temperature,Austria,AUT,6
+448,Extreme temperature,Azerbaijan,AZE,1
+449,Extreme temperature,Bangladesh,BGD,24
+450,Extreme temperature,Belarus,BLR,6
+451,Extreme temperature,Belgium,BEL,14
+452,Extreme temperature,Belize,BLZ,1
+453,Extreme temperature,Bolivia (Plurinational State of),BOL,5
+454,Extreme temperature,Bosnia and Herzegovina,BIH,4
+455,Extreme temperature,Brazil,BRA,8
+456,Extreme temperature,Bulgaria,BGR,9
+457,Extreme temperature,Canada,CAN,6
+458,Extreme temperature,Canary Is,SPI,1
+459,Extreme temperature,Chile,CHL,9
+460,Extreme temperature,China,CHN,14
+461,Extreme temperature,Croatia,HRV,6
+462,Extreme temperature,Cyprus,CYP,3
+463,Extreme temperature,Czech Republic (the),CZE,6
+464,Extreme temperature,Czechoslovakia,CSK,3
+465,Extreme temperature,Egypt,EGY,4
+466,Extreme temperature,El Salvador,SLV,1
+467,Extreme temperature,Estonia,EST,3
+468,Extreme temperature,France,FRA,20
+469,Extreme temperature,Germany,DEU,13
+470,Extreme temperature,Germany Fed Rep,DFR,1
+471,Extreme temperature,Greece,GRC,8
+472,Extreme temperature,Guatemala,GTM,4
+473,Extreme temperature,Hong Kong,HKG,1
+474,Extreme temperature,Hungary,HUN,6
+475,Extreme temperature,India,IND,60
+476,Extreme temperature,Iran (Islamic Republic of),IRN,1
+477,Extreme temperature,Israel,ISR,2
+478,Extreme temperature,Italy,ITA,11
+479,Extreme temperature,Japan,JPN,16
+480,Extreme temperature,Jordan,JOR,2
+481,Extreme temperature,Kazakhstan,KAZ,3
+482,Extreme temperature,Korea (the Democratic People's Republic of),PRK,1
+483,Extreme temperature,Korea (the Republic of),KOR,3
+484,Extreme temperature,Kyrgyzstan,KGZ,2
+485,Extreme temperature,Latvia,LVA,4
+486,Extreme temperature,Liberia,LBR,1
+487,Extreme temperature,Lithuania,LTU,6
+488,Extreme temperature,Luxembourg,LUX,1
+489,Extreme temperature,Macedonia (the former Yugoslav Republic of),MKD,6
+490,Extreme temperature,Mexico,MEX,17
+491,Extreme temperature,Moldova (the Republic of),MDA,3
+492,Extreme temperature,Mongolia,MNG,5
+493,Extreme temperature,Montenegro,MNE,1
+494,Extreme temperature,Morocco,MAR,6
+495,Extreme temperature,Nepal,NPL,8
+496,Extreme temperature,Netherlands (the),NLD,8
+497,Extreme temperature,New Zealand,NZL,1
+498,Extreme temperature,Nigeria,NGA,2
+499,Extreme temperature,Pakistan,PAK,18
+500,Extreme temperature,"Palestine, State of",PSE,1
+501,Extreme temperature,Paraguay,PRY,3
+502,Extreme temperature,Peru,PER,12
+503,Extreme temperature,Poland,POL,19
+504,Extreme temperature,Portugal,PRT,6
+505,Extreme temperature,Romania,ROU,20
+506,Extreme temperature,Russian Federation (the),RUS,21
+507,Extreme temperature,Serbia,SRB,9
+508,Extreme temperature,Serbia Montenegro,SCG,2
+509,Extreme temperature,Slovakia,SVK,5
+510,Extreme temperature,Slovenia,SVN,2
+511,Extreme temperature,South Africa,ZAF,3
+512,Extreme temperature,Spain,ESP,10
+513,Extreme temperature,Sudan (the),SDN,1
+514,Extreme temperature,Sweden,SWE,1
+515,Extreme temperature,Switzerland,CHE,6
+516,Extreme temperature,Taiwan (Province of China),TWN,1
+517,Extreme temperature,Tajikistan,TJK,3
+518,Extreme temperature,Thailand,THA,2
+519,Extreme temperature,Turkey,TUR,7
+520,Extreme temperature,Ukraine,UKR,8
+521,Extreme temperature,United Kingdom of Great Britain and Northern Ireland (the),GBR,12
+522,Extreme temperature,United States of America (the),USA,36
+523,Extreme temperature,Uruguay,URY,4
+524,Extreme temperature,Yugoslavia,YUG,1
+525,Flood,Afghanistan,AFG,96
+526,Flood,Albania,ALB,15
+527,Flood,Algeria,DZA,51
+528,Flood,American Samoa,ASM,1
+529,Flood,Angola,AGO,43
+530,Flood,Anguilla,AIA,1
+531,Flood,Argentina,ARG,66
+532,Flood,Armenia,ARM,3
+533,Flood,Australia,AUS,65
+534,Flood,Austria,AUT,17
+535,Flood,Azerbaijan,AZE,7
+536,Flood,Bahamas (the),BHS,2
+537,Flood,Bangladesh,BGD,96
+538,Flood,Barbados,BRB,2
+539,Flood,Belarus,BLR,4
+540,Flood,Belgium,BEL,23
+541,Flood,Belize,BLZ,5
+542,Flood,Benin,BEN,20
+543,Flood,Bhutan,BTN,3
+544,Flood,Bolivia (Plurinational State of),BOL,49
+545,Flood,Bosnia and Herzegovina,BIH,16
+546,Flood,Botswana,BWA,11
+547,Flood,Brazil,BRA,147
+548,Flood,Bulgaria,BGR,20
+549,Flood,Burkina Faso,BFA,23
+550,Flood,Burundi,BDI,29
+551,Flood,Cabo Verde,CPV,1
+552,Flood,Cambodia,KHM,21
+553,Flood,Cameroon,CMR,17
+554,Flood,Canada,CAN,44
+555,Flood,Canary Is,SPI,2
+556,Flood,Central African Republic,CAF,17
+557,Flood,Chad,TCD,20
+558,Flood,Chile,CHL,35
+559,Flood,China,CHN,307
+560,Flood,Colombia,COL,89
+561,Flood,Comoros (the),COM,2
+562,Flood,Congo (the Democratic Republic of the),COD,35
+563,Flood,Congo (the),COG,13
+564,Flood,Costa Rica,CRI,29
+565,Flood,Croatia,HRV,12
+566,Flood,Cuba,CUB,24
+567,Flood,Czech Republic (the),CZE,13
+568,Flood,Czechoslovakia,CSK,1
+569,Flood,Côte d’Ivoire,CIV,14
+570,Flood,Djibouti,DJI,9
+571,Flood,Dominican Republic (the),DOM,29
+572,Flood,Ecuador,ECU,34
+573,Flood,Egypt,EGY,13
+574,Flood,El Salvador,SLV,17
+575,Flood,Eritrea,ERI,2
+576,Flood,Ethiopia,ETH,57
+577,Flood,Fiji,FJI,12
+578,Flood,Finland,FIN,1
+579,Flood,France,FRA,54
+580,Flood,French Guiana,GUF,2
+581,Flood,French Polynesia,PYF,1
+582,Flood,Gabon,GAB,2
+583,Flood,Gambia (the),GMB,9
+584,Flood,Georgia,GEO,17
+585,Flood,Germany,DEU,17
+586,Flood,Germany Fed Rep,DFR,7
+587,Flood,Ghana,GHA,25
+588,Flood,Greece,GRC,28
+589,Flood,Grenada,GRD,1
+590,Flood,Guadeloupe,GLP,1
+591,Flood,Guatemala,GTM,33
+592,Flood,Guinea,GIN,14
+593,Flood,Guinea-Bissau,GNB,4
+594,Flood,Guyana,GUY,8
+595,Flood,Haiti,HTI,61
+596,Flood,Honduras,HND,38
+597,Flood,Hong Kong,HKG,25
+598,Flood,Hungary,HUN,16
+599,Flood,Iceland,ISL,1
+600,Flood,India,IND,306
+601,Flood,Indonesia,IDN,235
+602,Flood,Iran (Islamic Republic of),IRN,91
+603,Flood,Iraq,IRQ,15
+604,Flood,Ireland,IRL,6
+605,Flood,Israel,ISR,5
+606,Flood,Italy,ITA,52
+607,Flood,Jamaica,JAM,13
+608,Flood,Japan,JPN,57
+609,Flood,Jordan,JOR,8
+610,Flood,Kazakhstan,KAZ,14
+611,Flood,Kenya,KEN,57
+612,Flood,Kiribati,KIR,2
+613,Flood,Korea (the Democratic People's Republic of),PRK,28
+614,Flood,Korea (the Republic of),KOR,39
+615,Flood,Kuwait,KWT,2
+616,Flood,Kyrgyzstan,KGZ,4
+617,Flood,Lao People's Democratic Republic (the),LAO,28
+618,Flood,Lebanon,LBN,3
+619,Flood,Lesotho,LSO,5
+620,Flood,Liberia,LBR,6
+621,Flood,Libya,LBY,3
+622,Flood,Lithuania,LTU,2
+623,Flood,Luxembourg,LUX,2
+624,Flood,Macedonia (the former Yugoslav Republic of),MKD,11
+625,Flood,Madagascar,MDG,9
+626,Flood,Malawi,MWI,42
+627,Flood,Malaysia,MYS,58
+628,Flood,Maldives,MDV,3
+629,Flood,Mali,MLI,26
+630,Flood,Marshall Islands (the),MHL,2
+631,Flood,Mauritania,MRT,19
+632,Flood,Mauritius,MUS,1
+633,Flood,Mexico,MEX,74
+634,Flood,Micronesia (Federated States of),FSM,1
+635,Flood,Moldova (the Republic of),MDA,7
+636,Flood,Mongolia,MNG,11
+637,Flood,Montenegro,MNE,4
+638,Flood,Morocco,MAR,34
+639,Flood,Mozambique,MOZ,41
+640,Flood,Myanmar,MMR,35
+641,Flood,Namibia,NAM,15
+642,Flood,Nepal,NPL,51
+643,Flood,Netherlands (the),NLD,4
+644,Flood,New Zealand,NZL,41
+645,Flood,Nicaragua,NIC,23
+646,Flood,Niger (the),NER,31
+647,Flood,Nigeria,NGA,54
+648,Flood,Norway,NOR,3
+649,Flood,Oman,OMN,4
+650,Flood,Pakistan,PAK,106
+651,Flood,"Palestine, State of",PSE,4
+652,Flood,Panama,PAN,38
+653,Flood,Papua New Guinea,PNG,19
+654,Flood,Paraguay,PRY,28
+655,Flood,Peru,PER,61
+656,Flood,Philippines (the),PHL,152
+657,Flood,Poland,POL,15
+658,Flood,Portugal,PRT,14
+659,Flood,Puerto Rico,PRI,8
+660,Flood,Qatar,QAT,1
+661,Flood,Romania,ROU,52
+662,Flood,Russian Federation (the),RUS,66
+663,Flood,Rwanda,RWA,23
+664,Flood,Saint Kitts and Nevis,KNA,1
+665,Flood,Saint Lucia,LCA,2
+666,Flood,Saint Vincent and the Grenadines,VCT,7
+667,Flood,Samoa,WSM,1
+668,Flood,Saudi Arabia,SAU,24
+669,Flood,Senegal,SEN,23
+670,Flood,Serbia,SRB,16
+671,Flood,Serbia Montenegro,SCG,9
+672,Flood,Seychelles,SYC,2
+673,Flood,Sierra Leone,SLE,10
+674,Flood,Slovakia,SVK,13
+675,Flood,Slovenia,SVN,3
+676,Flood,Solomon Islands,SLB,5
+677,Flood,Somalia,SOM,45
+678,Flood,South Africa,ZAF,41
+679,Flood,South Sudan,SSD,13
+680,Flood,Soviet Union,SUN,17
+681,Flood,Spain,ESP,36
+682,Flood,Sri Lanka,LKA,74
+683,Flood,Sudan (the),SDN,40
+684,Flood,Suriname,SUR,3
+685,Flood,Swaziland,SWZ,3
+686,Flood,Sweden,SWE,2
+687,Flood,Switzerland,CHE,8
+688,Flood,Syrian Arab Republic,SYR,5
+689,Flood,Taiwan (Province of China),TWN,9
+690,Flood,Tajikistan,TJK,32
+691,Flood,"Tanzania, United Republic of",TZA,51
+692,Flood,Thailand,THA,83
+693,Flood,Timor-Leste,TLS,6
+694,Flood,Togo,TGO,13
+695,Flood,Trinidad and Tobago,TTO,3
+696,Flood,Tunisia,TUN,18
+697,Flood,Turkey,TUR,47
+698,Flood,Turkmenistan,TKM,1
+699,Flood,Uganda,UGA,30
+700,Flood,Ukraine,UKR,16
+701,Flood,United Arab Emirates (the),ARE,1
+702,Flood,United Kingdom of Great Britain and Northern Ireland (the),GBR,36
+703,Flood,United States of America (the),USA,191
+704,Flood,Uruguay,URY,21
+705,Flood,Uzbekistan,UZB,2
+706,Flood,Vanuatu,VUT,2
+707,Flood,Venezuela (Bolivarian Republic of),VEN,35
+708,Flood,Viet Nam,VNM,94
+709,Flood,Yemen,YEM,34
+710,Flood,Yemen Arab Rep,YMN,3
+711,Flood,Yemen P Dem Rep,YMD,5
+712,Flood,Yugoslavia,YUG,6
+713,Flood,Zambia,ZMB,22
+714,Flood,Zimbabwe,ZWE,12
+715,Fog,United Kingdom of Great Britain and Northern Ireland (the),GBR,1
+716,Glacial lake outburst,India,IND,1
+717,Impact,Russian Federation (the),RUS,1
+718,Insect infestation,Afghanistan,AFG,1
+719,Insect infestation,Algeria,DZA,2
+720,Insect infestation,Australia,AUS,2
+721,Insect infestation,Botswana,BWA,1
+722,Insect infestation,Brazil,BRA,1
+723,Insect infestation,Burkina Faso,BFA,3
+724,Insect infestation,Cabo Verde,CPV,2
+725,Insect infestation,Cameroon,CMR,2
+726,Insect infestation,Chad,TCD,5
+727,Insect infestation,China,CHN,1
+728,Insect infestation,Colombia,COL,1
+729,Insect infestation,Djibouti,DJI,1
+730,Insect infestation,Eritrea,ERI,2
+731,Insect infestation,Ethiopia,ETH,5
+732,Insect infestation,Gambia (the),GMB,4
+733,Insect infestation,Guinea-Bissau,GNB,3
+734,Insect infestation,India,IND,1
+735,Insect infestation,Iran (Islamic Republic of),IRN,1
+736,Insect infestation,Jordan,JOR,1
+737,Insect infestation,Kenya,KEN,1
+738,Insect infestation,Liberia,LBR,1
+739,Insect infestation,Libya,LBY,1
+740,Insect infestation,Madagascar,MDG,2
+741,Insect infestation,Mali,MLI,5
+742,Insect infestation,Mauritania,MRT,4
+743,Insect infestation,Morocco,MAR,4
+744,Insect infestation,Mozambique,MOZ,1
+745,Insect infestation,Niger (the),NER,6
+746,Insect infestation,Nigeria,NGA,2
+747,Insect infestation,Pakistan,PAK,2
+748,Insect infestation,Peru,PER,1
+749,Insect infestation,Philippines (the),PHL,2
+750,Insect infestation,Russian Federation (the),RUS,1
+751,Insect infestation,Senegal,SEN,5
+752,Insect infestation,Somalia,SOM,1
+753,Insect infestation,Sudan (the),SDN,6
+754,Insect infestation,Tajikistan,TJK,1
+755,Insect infestation,"Tanzania, United Republic of",TZA,3
+756,Insect infestation,Tunisia,TUN,2
+757,Insect infestation,Uganda,UGA,1
+758,Insect infestation,Viet Nam,VNM,1
+759,Insect infestation,Yemen Arab Rep,YMN,2
+760,Insect infestation,Zambia,ZMB,2
+761,Landslide,Afghanistan,AFG,27
+762,Landslide,Albania,ALB,1
+763,Landslide,Algeria,DZA,1
+764,Landslide,Angola,AGO,1
+765,Landslide,Argentina,ARG,5
+766,Landslide,Armenia,ARM,1
+767,Landslide,Australia,AUS,2
+768,Landslide,Austria,AUT,8
+769,Landslide,Azerbaijan,AZE,1
+770,Landslide,Azores Islands,AZO,1
+771,Landslide,Bangladesh,BGD,6
+772,Landslide,Bolivia (Plurinational State of),BOL,9
+773,Landslide,Bosnia and Herzegovina,BIH,1
+774,Landslide,Brazil,BRA,25
+775,Landslide,Bulgaria,BGR,1
+776,Landslide,Burundi,BDI,3
+777,Landslide,Cameroon,CMR,2
+778,Landslide,Canada,CAN,3
+779,Landslide,Chad,TCD,1
+780,Landslide,Chile,CHL,5
+781,Landslide,China,CHN,74
+782,Landslide,Colombia,COL,44
+783,Landslide,Congo (the Democratic Republic of the),COD,8
+784,Landslide,Congo (the),COG,1
+785,Landslide,Costa Rica,CRI,1
+786,Landslide,Czechoslovakia,CSK,2
+787,Landslide,Côte d’Ivoire,CIV,1
+788,Landslide,Ecuador,ECU,16
+789,Landslide,El Salvador,SLV,3
+790,Landslide,Ethiopia,ETH,7
+791,Landslide,France,FRA,13
+792,Landslide,French Guiana,GUF,1
+793,Landslide,French Polynesia,PYF,3
+794,Landslide,Germany,DEU,1
+795,Landslide,Guatemala,GTM,11
+796,Landslide,Guinea,GIN,1
+797,Landslide,Haiti,HTI,2
+798,Landslide,Honduras,HND,1
+799,Landslide,Hong Kong,HKG,6
+800,Landslide,Iceland,ISL,4
+801,Landslide,India,IND,51
+802,Landslide,Indonesia,IDN,63
+803,Landslide,Iran (Islamic Republic of),IRN,5
+804,Landslide,Israel,ISR,1
+805,Landslide,Italy,ITA,16
+806,Landslide,Jamaica,JAM,1
+807,Landslide,Japan,JPN,22
+808,Landslide,Kazakhstan,KAZ,1
+809,Landslide,Kenya,KEN,5
+810,Landslide,Korea (the Republic of),KOR,9
+811,Landslide,Kyrgyzstan,KGZ,9
+812,Landslide,Malawi,MWI,1
+813,Landslide,Malaysia,MYS,4
+814,Landslide,Mexico,MEX,12
+815,Landslide,Mongolia,MNG,1
+816,Landslide,Morocco,MAR,2
+817,Landslide,Mozambique,MOZ,2
+818,Landslide,Myanmar,MMR,10
+819,Landslide,Nepal,NPL,25
+820,Landslide,New Zealand,NZL,1
+821,Landslide,Nicaragua,NIC,1
+822,Landslide,Nigeria,NGA,3
+823,Landslide,Norway,NOR,3
+824,Landslide,Pakistan,PAK,23
+825,Landslide,Papua New Guinea,PNG,14
+826,Landslide,Peru,PER,34
+827,Landslide,Philippines (the),PHL,31
+828,Landslide,Puerto Rico,PRI,2
+829,Landslide,Romania,ROU,1
+830,Landslide,Russian Federation (the),RUS,9
+831,Landslide,Rwanda,RWA,5
+832,Landslide,Réunion,REU,1
+833,Landslide,Saint Lucia,LCA,1
+834,Landslide,Sierra Leone,SLE,2
+835,Landslide,South Africa,ZAF,1
+836,Landslide,Soviet Union,SUN,7
+837,Landslide,Spain,ESP,1
+838,Landslide,Sri Lanka,LKA,6
+839,Landslide,Sweden,SWE,1
+840,Landslide,Switzerland,CHE,10
+841,Landslide,Syrian Arab Republic,SYR,1
+842,Landslide,Taiwan (Province of China),TWN,1
+843,Landslide,Tajikistan,TJK,13
+844,Landslide,"Tanzania, United Republic of",TZA,1
+845,Landslide,Thailand,THA,3
+846,Landslide,Trinidad and Tobago,TTO,1
+847,Landslide,Turkey,TUR,14
+848,Landslide,Uganda,UGA,9
+849,Landslide,United Kingdom of Great Britain and Northern Ireland (the),GBR,1
+850,Landslide,United States of America (the),USA,6
+851,Landslide,Uzbekistan,UZB,1
+852,Landslide,Vanuatu,VUT,1
+853,Landslide,Venezuela (Bolivarian Republic of),VEN,4
+854,Landslide,Viet Nam,VNM,6
+855,Landslide,Yemen,YEM,3
+856,Landslide,Zambia,ZMB,1
+857,Mass movement (dry),Canada,CAN,5
+858,Mass movement (dry),China,CHN,7
+859,Mass movement (dry),Colombia,COL,3
+860,Mass movement (dry),Ecuador,ECU,1
+861,Mass movement (dry),Egypt,EGY,2
+862,Mass movement (dry),Ethiopia,ETH,1
+863,Mass movement (dry),Guatemala,GTM,2
+864,Mass movement (dry),Honduras,HND,1
+865,Mass movement (dry),India,IND,2
+866,Mass movement (dry),Indonesia,IDN,1
+867,Mass movement (dry),Jamaica,JAM,1
+868,Mass movement (dry),Lebanon,LBN,1
+869,Mass movement (dry),Liberia,LBR,1
+870,Mass movement (dry),Malaysia,MYS,1
+871,Mass movement (dry),Morocco,MAR,1
+872,Mass movement (dry),Myanmar,MMR,1
+873,Mass movement (dry),Nepal,NPL,1
+874,Mass movement (dry),Pakistan,PAK,2
+875,Mass movement (dry),Papua New Guinea,PNG,2
+876,Mass movement (dry),Peru,PER,2
+877,Mass movement (dry),Philippines (the),PHL,3
+878,Mass movement (dry),Soviet Union,SUN,3
+879,Mass movement (dry),Switzerland,CHE,1
+880,Mass movement (dry),Tajikistan,TJK,1
+881,Mass movement (dry),Turkey,TUR,1
+882,Mass movement (dry),Uzbekistan,UZB,1
+883,Storm,Afghanistan,AFG,9
+884,Storm,Albania,ALB,2
+885,Storm,Algeria,DZA,4
+886,Storm,American Samoa,ASM,4
+887,Storm,Anguilla,AIA,7
+888,Storm,Antigua and Barbuda,ATG,12
+889,Storm,Argentina,ARG,23
+890,Storm,Armenia,ARM,4
+891,Storm,Australia,AUS,109
+892,Storm,Austria,AUT,20
+893,Storm,Azores Islands,AZO,2
+894,Storm,Bahamas (the),BHS,26
+895,Storm,Bangladesh,BGD,181
+896,Storm,Barbados,BRB,8
+897,Storm,Belarus,BLR,2
+898,Storm,Belgium,BEL,30
+899,Storm,Belize,BLZ,16
+900,Storm,Benin,BEN,1
+901,Storm,Bermuda,BMU,6
+902,Storm,Bhutan,BTN,2
+903,Storm,Bolivia (Plurinational State of),BOL,2
+904,Storm,Bosnia and Herzegovina,BIH,2
+905,Storm,Botswana,BWA,1
+906,Storm,Brazil,BRA,20
+907,Storm,Bulgaria,BGR,6
+908,Storm,Burundi,BDI,7
+909,Storm,Cabo Verde,CPV,3
+910,Storm,Cambodia,KHM,6
+911,Storm,Canada,CAN,46
+912,Storm,Canary Is,SPI,3
+913,Storm,Cayman Islands (the),CYM,7
+914,Storm,Central African Republic,CAF,10
+915,Storm,Chad,TCD,3
+916,Storm,Chile,CHL,15
+917,Storm,China,CHN,314
+918,Storm,Colombia,COL,11
+919,Storm,Comoros (the),COM,9
+920,Storm,Congo (the Democratic Republic of the),COD,5
+921,Storm,Cook Islands (the),COK,11
+922,Storm,Costa Rica,CRI,10
+923,Storm,Croatia,HRV,2
+924,Storm,Cuba,CUB,47
+925,Storm,Cyprus,CYP,4
+926,Storm,Czech Republic (the),CZE,8
+927,Storm,Czechoslovakia,CSK,3
+928,Storm,Denmark,DNK,15
+929,Storm,Djibouti,DJI,2
+930,Storm,Dominica,DMA,14
+931,Storm,Dominican Republic (the),DOM,39
+932,Storm,Egypt,EGY,8
+933,Storm,El Salvador,SLV,19
+934,Storm,Eritrea,ERI,1
+935,Storm,Estonia,EST,1
+936,Storm,Fiji,FJI,44
+937,Storm,Finland,FIN,2
+938,Storm,France,FRA,70
+939,Storm,French Polynesia,PYF,4
+940,Storm,Gabon,GAB,3
+941,Storm,Gambia (the),GMB,5
+942,Storm,Georgia,GEO,3
+943,Storm,Germany,DEU,45
+944,Storm,Germany Dem Rep,DDR,3
+945,Storm,Germany Fed Rep,DFR,10
+946,Storm,Ghana,GHA,1
+947,Storm,Greece,GRC,9
+948,Storm,Grenada,GRD,5
+949,Storm,Guadeloupe,GLP,13
+950,Storm,Guam,GUM,9
+951,Storm,Guatemala,GTM,20
+952,Storm,Guinea,GIN,1
+953,Storm,Guinea-Bissau,GNB,3
+954,Storm,Haiti,HTI,45
+955,Storm,Honduras,HND,26
+956,Storm,Hong Kong,HKG,65
+957,Storm,Hungary,HUN,8
+958,Storm,India,IND,203
+959,Storm,Indonesia,IDN,13
+960,Storm,Iran (Islamic Republic of),IRN,13
+961,Storm,Ireland,IRL,16
+962,Storm,Israel,ISR,4
+963,Storm,Italy,ITA,30
+964,Storm,Jamaica,JAM,31
+965,Storm,Japan,JPN,187
+966,Storm,Jordan,JOR,3
+967,Storm,Kazakhstan,KAZ,1
+968,Storm,Kenya,KEN,1
+969,Storm,Kiribati,KIR,2
+970,Storm,Korea (the Democratic People's Republic of),PRK,10
+971,Storm,Korea (the Republic of),KOR,60
+972,Storm,Kyrgyzstan,KGZ,2
+973,Storm,Lao People's Democratic Republic (the),LAO,10
+974,Storm,Latvia,LVA,3
+975,Storm,Lebanon,LBN,7
+976,Storm,Lesotho,LSO,7
+977,Storm,Liberia,LBR,2
+978,Storm,Lithuania,LTU,3
+979,Storm,Luxembourg,LUX,9
+980,Storm,Macao,MAC,6
+981,Storm,Macedonia (the former Yugoslav Republic of),MKD,1
+982,Storm,Madagascar,MDG,60
+983,Storm,Malawi,MWI,3
+984,Storm,Malaysia,MYS,8
+985,Storm,Maldives,MDV,1
+986,Storm,Marshall Islands (the),MHL,2
+987,Storm,Martinique,MTQ,15
+988,Storm,Mauritania,MRT,3
+989,Storm,Mauritius,MUS,19
+990,Storm,Mexico,MEX,114
+991,Storm,Micronesia (Federated States of),FSM,7
+992,Storm,Moldova (the Republic of),MDA,2
+993,Storm,Mongolia,MNG,12
+994,Storm,Montserrat,MSR,4
+995,Storm,Morocco,MAR,4
+996,Storm,Mozambique,MOZ,27
+997,Storm,Myanmar,MMR,21
+998,Storm,Nepal,NPL,8
+999,Storm,Netherlands (the),NLD,25
+1000,Storm,Netherlands Antilles,ANT,4
+1001,Storm,New Caledonia,NCL,16
+1002,Storm,New Zealand,NZL,13
+1003,Storm,Nicaragua,NIC,24
+1004,Storm,Niger (the),NER,1
+1005,Storm,Nigeria,NGA,6
+1006,Storm,Niue,NIU,5
+1007,Storm,Northern Mariana Islands (the),MNP,4
+1008,Storm,Norway,NOR,7
+1009,Storm,Oman,OMN,11
+1010,Storm,Pakistan,PAK,29
+1011,Storm,Palau,PLW,2
+1012,Storm,"Palestine, State of",PSE,3
+1013,Storm,Panama,PAN,8
+1014,Storm,Papua New Guinea,PNG,7
+1015,Storm,Paraguay,PRY,8
+1016,Storm,Peru,PER,4
+1017,Storm,Philippines (the),PHL,370
+1018,Storm,Poland,POL,19
+1019,Storm,Portugal,PRT,11
+1020,Storm,Puerto Rico,PRI,23
+1021,Storm,Romania,ROU,11
+1022,Storm,Russian Federation (the),RUS,21
+1023,Storm,Rwanda,RWA,2
+1024,Storm,Réunion,REU,11
+1025,Storm,Saint Barthélemy,BLM,1
+1026,Storm,"Saint Helena, Ascension and Tristan da Cunha",SHN,1
+1027,Storm,Saint Kitts and Nevis,KNA,9
+1028,Storm,Saint Lucia,LCA,14
+1029,Storm,Saint Martin (French Part),MAF,1
+1030,Storm,Saint Vincent and the Grenadines,VCT,10
+1031,Storm,Samoa,WSM,11
+1032,Storm,Saudi Arabia,SAU,2
+1033,Storm,Senegal,SEN,3
+1034,Storm,Serbia Montenegro,SCG,1
+1035,Storm,Seychelles,SYC,2
+1036,Storm,Sierra Leone,SLE,3
+1037,Storm,Sint Maarten (Dutch part),SXM,1
+1038,Storm,Slovakia,SVK,3
+1039,Storm,Slovenia,SVN,3
+1040,Storm,Solomon Islands,SLB,19
+1041,Storm,Somalia,SOM,7
+1042,Storm,South Africa,ZAF,31
+1043,Storm,Soviet Union,SUN,5
+1044,Storm,Spain,ESP,27
+1045,Storm,Sri Lanka,LKA,11
+1046,Storm,Sudan (the),SDN,2
+1047,Storm,Swaziland,SWZ,3
+1048,Storm,Sweden,SWE,8
+1049,Storm,Switzerland,CHE,33
+1050,Storm,Syrian Arab Republic,SYR,4
+1051,Storm,Taiwan (Province of China),TWN,85
+1052,Storm,Tajikistan,TJK,2
+1053,Storm,"Tanzania, United Republic of",TZA,6
+1054,Storm,Thailand,THA,41
+1055,Storm,Timor-Leste,TLS,1
+1056,Storm,Togo,TGO,1
+1057,Storm,Tokelau,TKL,6
+1058,Storm,Tonga,TON,18
+1059,Storm,Trinidad and Tobago,TTO,7
+1060,Storm,Turkey,TUR,11
+1061,Storm,Turks and Caicos Islands (the),TCA,7
+1062,Storm,Tuvalu,TUV,7
+1063,Storm,Uganda,UGA,5
+1064,Storm,Ukraine,UKR,8
+1065,Storm,United Kingdom of Great Britain and Northern Ireland (the),GBR,42
+1066,Storm,United States of America (the),USA,670
+1067,Storm,Uruguay,URY,7
+1068,Storm,Vanuatu,VUT,29
+1069,Storm,Venezuela (Bolivarian Republic of),VEN,4
+1070,Storm,Viet Nam,VNM,123
+1071,Storm,Virgin Island (British),VGB,4
+1072,Storm,Virgin Island (U.S.),VIR,8
+1073,Storm,Wallis and Futuna,WLF,4
+1074,Storm,Yemen,YEM,6
+1075,Storm,Zimbabwe,ZWE,8
+1076,Volcanic activity,Argentina,ARG,4
+1077,Volcanic activity,Bolivia (Plurinational State of),BOL,1
+1078,Volcanic activity,Cabo Verde,CPV,2
+1079,Volcanic activity,Cameroon,CMR,3
+1080,Volcanic activity,Chile,CHL,9
+1081,Volcanic activity,Colombia,COL,11
+1082,Volcanic activity,Comoros (the),COM,6
+1083,Volcanic activity,Congo (the Democratic Republic of the),COD,3
+1084,Volcanic activity,Costa Rica,CRI,7
+1085,Volcanic activity,Ecuador,ECU,14
+1086,Volcanic activity,El Salvador,SLV,2
+1087,Volcanic activity,Ethiopia,ETH,3
+1088,Volcanic activity,Guadeloupe,GLP,1
+1089,Volcanic activity,Guatemala,GTM,13
+1090,Volcanic activity,Iceland,ISL,5
+1091,Volcanic activity,Indonesia,IDN,59
+1092,Volcanic activity,Italy,ITA,6
+1093,Volcanic activity,Japan,JPN,16
+1094,Volcanic activity,Martinique,MTQ,1
+1095,Volcanic activity,Mexico,MEX,10
+1096,Volcanic activity,Montserrat,MSR,4
+1097,Volcanic activity,New Zealand,NZL,3
+1098,Volcanic activity,Nicaragua,NIC,5
+1099,Volcanic activity,Northern Mariana Islands (the),MNP,1
+1100,Volcanic activity,Papua New Guinea,PNG,17
+1101,Volcanic activity,Peru,PER,4
+1102,Volcanic activity,Philippines (the),PHL,28
+1103,Volcanic activity,Réunion,REU,1
+1104,Volcanic activity,Saint Vincent and the Grenadines,VCT,3
+1105,Volcanic activity,Solomon Islands,SLB,1
+1106,Volcanic activity,Soviet Union,SUN,1
+1107,Volcanic activity,Tonga,TON,1
+1108,Volcanic activity,Trinidad and Tobago,TTO,1
+1109,Volcanic activity,United States of America (the),USA,2
+1110,Volcanic activity,Vanuatu,VUT,7
+1111,Volcanic activity,Yemen,YEM,1
+1112,Wildfire,Afghanistan,AFG,1
+1113,Wildfire,Albania,ALB,1
+1114,Wildfire,Algeria,DZA,2
+1115,Wildfire,Argentina,ARG,5
+1116,Wildfire,Australia,AUS,42
+1117,Wildfire,Benin,BEN,3
+1118,Wildfire,Bhutan,BTN,1
+1119,Wildfire,Bolivia (Plurinational State of),BOL,5
+1120,Wildfire,Brazil,BRA,4
+1121,Wildfire,Brunei Darussalam,BRN,1
+1122,Wildfire,Bulgaria,BGR,4
+1123,Wildfire,Canada,CAN,24
+1124,Wildfire,Canary Is,SPI,1
+1125,Wildfire,Central African Republic,CAF,2
+1126,Wildfire,Chile,CHL,13
+1127,Wildfire,China,CHN,8
+1128,Wildfire,Colombia,COL,3
+1129,Wildfire,Congo (the Democratic Republic of the),COD,3
+1130,Wildfire,Costa Rica,CRI,2
+1131,Wildfire,Croatia,HRV,6
+1132,Wildfire,Cuba,CUB,2
+1133,Wildfire,Cyprus,CYP,1
+1134,Wildfire,Dominican Republic (the),DOM,3
+1135,Wildfire,Ecuador,ECU,3
+1136,Wildfire,Ethiopia,ETH,1
+1137,Wildfire,France,FRA,13
+1138,Wildfire,Gambia (the),GMB,1
+1139,Wildfire,Germany Fed Rep,DFR,1
+1140,Wildfire,Ghana,GHA,1
+1141,Wildfire,Greece,GRC,14
+1142,Wildfire,Guatemala,GTM,2
+1143,Wildfire,Guinea,GIN,1
+1144,Wildfire,Guinea-Bissau,GNB,1
+1145,Wildfire,Honduras,HND,1
+1146,Wildfire,Hong Kong,HKG,32
+1147,Wildfire,India,IND,4
+1148,Wildfire,Indonesia,IDN,11
+1149,Wildfire,Iran (Islamic Republic of),IRN,1
+1150,Wildfire,Israel,ISR,5
+1151,Wildfire,Italy,ITA,7
+1152,Wildfire,Japan,JPN,1
+1153,Wildfire,Kazakhstan,KAZ,1
+1154,Wildfire,Korea (the Republic of),KOR,4
+1155,Wildfire,Latvia,LVA,1
+1156,Wildfire,Lebanon,LBN,2
+1157,Wildfire,Macedonia (the former Yugoslav Republic of),MKD,2
+1158,Wildfire,Malaysia,MYS,4
+1159,Wildfire,Mexico,MEX,5
+1160,Wildfire,Mongolia,MNG,3
+1161,Wildfire,Montenegro,MNE,1
+1162,Wildfire,Mozambique,MOZ,1
+1163,Wildfire,Myanmar,MMR,2
+1164,Wildfire,Nepal,NPL,3
+1165,Wildfire,New Zealand,NZL,2
+1166,Wildfire,Nicaragua,NIC,3
+1167,Wildfire,Panama,PAN,1
+1168,Wildfire,Papua New Guinea,PNG,1
+1169,Wildfire,Paraguay,PRY,2
+1170,Wildfire,Peru,PER,2
+1171,Wildfire,Philippines (the),PHL,1
+1172,Wildfire,Poland,POL,2
+1173,Wildfire,Portugal,PRT,14
+1174,Wildfire,Russian Federation (the),RUS,24
+1175,Wildfire,Samoa,WSM,1
+1176,Wildfire,Serbia Montenegro,SCG,1
+1177,Wildfire,Sierra Leone,SLE,1
+1178,Wildfire,Slovakia,SVK,1
+1179,Wildfire,South Africa,ZAF,10
+1180,Wildfire,South Sudan,SSD,1
+1181,Wildfire,Soviet Union,SUN,1
+1182,Wildfire,Spain,ESP,17
+1183,Wildfire,Sudan (the),SDN,1
+1184,Wildfire,Swaziland,SWZ,1
+1185,Wildfire,Sweden,SWE,1
+1186,Wildfire,Syrian Arab Republic,SYR,1
+1187,Wildfire,"Tanzania, United Republic of",TZA,1
+1188,Wildfire,Thailand,THA,1
+1189,Wildfire,Tunisia,TUN,1
+1190,Wildfire,Turkey,TUR,5
+1191,Wildfire,Ukraine,UKR,2
+1192,Wildfire,United States of America (the),USA,87
+1193,Wildfire,Viet Nam,VNM,1
+1194,Wildfire,Yugoslavia,YUG,2
